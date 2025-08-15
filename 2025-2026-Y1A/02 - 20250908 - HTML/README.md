@@ -1,8 +1,8 @@
-# Class 2, 2025/02/03
+# Class 2, 2025/09/08
 
 ## Intro (20min)
 
-- *A website you like* (Jerome, Bengi, François)
+- *A website you like* (-, -, François)
 
 ## Presentation of exercise 1 (20min)
 
