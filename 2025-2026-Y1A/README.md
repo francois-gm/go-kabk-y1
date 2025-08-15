@@ -18,7 +18,7 @@ In addition to in-class exercises, you will have 3-4 short assignments, each to 
 
 ## Time schedule
 
-Every monday, 13h30-17h30, PD.205
+Every monday, 13h30-17h30, Class to be determined
 
 First 15 minutes: web culture <br>
 Small presentation assignment, I present and you present
