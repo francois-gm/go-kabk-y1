@@ -32,31 +32,34 @@ Duration of the presentation: **around 2 minutes** per person.
 
 | Class | Student | Site |
 | -------- | --------------------- | --------------------- |
-| February 3 (class 2) | Jerome | https://tntn.xyz/patternstextile |
-| February 3 (class 2) | Bengi | https://shoppu.mochi.at |
-| February 10 (class 3) | Olin | https://www.rcarecords.com |
-| February 17 (class 4) | Mart | https://www.myretrotvs.com |
-| February 17 (class 4) | David | https://prayingg.com |
-| February 17 (class 4) | Klara | https://bruno-simon.com |
-| March 10 (class 6) | Simone | https://messup.it |
-| March 10 (class 6) | Iloy | https://www.acnestudios.com |
-| March 10 (class 6) | Julia (F) | https://banjosoundscapes.com |
-| March 18 (class 7) | Prem | http://www.xxx-clairewilliams-xxx.com |
-| March 18 (class 7) | Julia (J) | https://diagram.website |
-| March 24 (class 8) | Jennie | https://www.cosmos.so |
-| March 24 (class 8) | Roxee | http://www.staggeringbeauty.com |
-| March 24 (class 8) | Luca | https://www.airpressure.info |
-| March 31 (class 9) | Layoung | https://www.newyorker.com/culture/touchstones/wong-kar-wais-in-the-mood-for-love |
-| March 31 (class 9) | Sia | https://mainfra.me |
-| April 7 (class 10) | Julia (N) | https://dekmantelfestival.com |
-| April 7 (class 10) | Jasna | https://szigetfestival.com/en/ |
-| April 14 (class 11) | Pola | https://communalradio.club |
-| April 14 (class 11) | Mara | https://smashthewalls.com |
-| May 12 (class 12) | Daniel | https://thispersondoesnotexist.com |
-| May 12 (class 12) | Yicheng | - |
-| May 19 (class 13) | Eva | - |
-| May 19 (class 13) | Nastya | https://www.patatap.com |
-
+| September 8 (class 2) | - | - |
+| September 8 (class 2) | - | - |
+| September 15 (class 3) | - | - |
+| September 15 (class 3) | - | - |
+| September 22 (class 4) | - | - |
+| September 22 (class 4) | - | - |
+| September 29 (class 5) | - | - |
+| September 29 (class 5) | - | - |
+| October 6 (class 6) | - | - |
+| October 6 (class 6) | - | - |
+| October 13 (class 7) | - | - |
+| October 13 (class 7) | - | - |
+| October 27 (class 8) | - | - |
+| October 27 (class 8) | - | - |
+| November 3 (class 9) | - | - |
+| November 3 (class 9) | - | - |
+| November 10 (class 10) | - | - |
+| November 10 (class 10) | - | - |
+| November 17 (class 11) | - | - |
+| November 17 (class 11) | - | - |
+| November 24 (class 12) | - | - |
+| November 24 (class 12) | - | - |
+| December 1 (class 13) | - | - |
+| December 1 (class 13) | - | - |
+| December 8 (class 14) | - | - |
+| December 8 (class 14) | - | - |
+| December 15 (class 15) | - | - |
+| December 15 (class 15) | - | - |
 
 ## Ressources list
 
