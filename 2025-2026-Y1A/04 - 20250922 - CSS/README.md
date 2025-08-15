@@ -1,8 +1,8 @@
-# Class 4, 2025/02/17
+# Class 4, 2025/09/22
 
 ## Intro (20min)
 
-- A website you like (David, Klara, Mart, François)
+- A website you like (-, -, François)
 
 ## Recap (15min)
 
