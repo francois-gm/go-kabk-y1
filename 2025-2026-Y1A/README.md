@@ -1,12 +1,10 @@
-# Coding Y1B @ KABK, 2024–2025
+# Coding Y1B @ KABK, 2025–2026
 
 *(inter)dependencies*
 
 ## The course
 
-During this semester, we will unbox basics about coding, with a focus on the ‘web’ triad of HTML/CSS/Javascript. While doing so, we will keep a certain approach in mind, which is to foster ways of ‘thinking through coding’ optics. This means understanding how languages and their syntax systems work and the aspect and logic behind writing code. Via presentation and exercises, we will apply this logic conceptually without aiming too much at the technicalities of a production-proof code. Besides that, 
-we will also look, and learn to look and talk about web experiences (in visual as well as navigational terms, 
-taking all dimensions into account).
+During this semester, we will unbox basics about coding, with a focus on the ‘web’ triad of HTML/CSS/Javascript. While doing so, we will keep a certain approach in mind, which is to foster ways of ‘thinking through coding’ optics. This means understanding how languages and their syntax systems work and the aspect and logic behind writing code. Via presentation and exercises, we will apply this logic conceptually without aiming too much at the technicalities of a production-proof code. Besides that, we will also look, and learn to look and talk about web experiences (in visual as well as navigational terms, taking all dimensions into account).
 
 ## Main assignments
 
