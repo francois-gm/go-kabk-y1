@@ -33,7 +33,7 @@ Duration of the presentation: **around 2 minutes** per person.
 | Class | Student | Site |
 | -------- | --------------------- | --------------------- |
 | September 8 (class 2) | - | - |
-| September 8 (class 2 | - | - |
+| September 8 (class 2) | - | - |
 | September 15 (class 3) | - | - |
 | September 15 (class 3) | - | - |
 | September 22 (class 4) | - | - |
