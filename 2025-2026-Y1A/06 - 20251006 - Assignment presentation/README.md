@@ -1,8 +1,8 @@
-# Class 6, 2025/03/10
+# Class 6, 2025/10/06
 
 ## Intro (15min)
 
-- A website you like (Simone, Iloy, Julia (F), François)
+- A website you like (-, -, François)
 
 ## An *Ode to CSS*, each present their final project (1h45)
 
