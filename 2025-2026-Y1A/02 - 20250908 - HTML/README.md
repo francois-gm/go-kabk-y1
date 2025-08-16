@@ -4,11 +4,7 @@
 
 - *A website you like* (-, -, François)
 
-## Presentation of exercise 1 (20min)
-
-Everybody present their *XML snapshots* exercice (picture + scan of analogue code).
-
-## Exercise 2, mapping elements (20min)
+## Exercise, mapping elements (20min)
 
 Based on the analogue code previously written. You are assigned someone else's previous *XML snapshot*.
 
@@ -16,6 +12,10 @@ Based on the analogue code previously written. You are assigned someone else's p
 - Annotate each box by their tag name.
 - Take a picture and/or scan this.
 - Add it into the Teams folder corresponding to the right code.
+
+## Presentation of exercises (20min)
+
+Everybody present their *XML snapshots* exercice (picture + scan of analogue code + box).
 
 ## Tutorial: Visual Studio (15min)
 
