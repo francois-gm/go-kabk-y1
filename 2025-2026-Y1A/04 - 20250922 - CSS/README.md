@@ -73,14 +73,5 @@ Then:
 - Size: `width`, `height`.
 - More styling properties (what would you like to see?)
 
-## Time for assignment (individual and/or small groups) (2h30) (TBC)
-<!--
-| Time slot | Group |
-| -- | -------------- |
-| 15h45 | -, -, -, - |
-| 16h05 | -, -, -, - |
-| 16h25 | -, -, -, - |
-| 16h45 | -, -, -, - |
-| 17h05 | -, -, -, - |
-| 17h25 | -, -, -, - |
--->
+## Time for assignment (small groups) (2h)
+(pre-made small group slots)
