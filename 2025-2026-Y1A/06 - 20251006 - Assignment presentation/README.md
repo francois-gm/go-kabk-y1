@@ -2,7 +2,7 @@
 
 ## Intro (15min)
 
-*A website you like*
+- *A website you like* (–, –, François)
 
 ## An *Ode to CSS*, each present their final project (1h45)
 
