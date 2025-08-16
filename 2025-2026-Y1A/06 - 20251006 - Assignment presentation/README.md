@@ -29,5 +29,5 @@ Then:
 - Think of the challenges / difficulties of working with this CSS property? How was this addressed?
 - If you would have to work on this website, are there elements you could either fine-tune or push further? Think functional, aesthetical, conceptual.
 
-**On the assignment URLs spreadsheet, go *two* names after your name, this will be the website you will present.**
+You will **present the website** of the **person after the person after you** on the list (so second-after your name).
 
