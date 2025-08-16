@@ -130,7 +130,7 @@ In example 2, we also have a **pseudo-class** selector, the `:first-of-type` sel
 
 ## Class time to work on the *Ode to CSS* assignment (1h30)
 
-Make **small groups** based on your CSS property (see below), and present your `property` to the other members of the group. You each have **15 minutes** to present this to your small group peers.
+In **small groups** based on your CSS property (see below), present your `property` to the other members of the group. You each have **15 minutes** to present this to your small group peers.
 
 Questions to think about related to your property:
 
@@ -145,13 +145,6 @@ While listening to others' properties:
 - How about trying out the other's property?
 - Could some of these properties help you in your own project?
 
-I will join the conversation at the following times:
-
-| Time slot | Group |
-| -- | -------------- |
-| 15h40 | -, -, -, -, -, - |
-| 16h10 | -, -, -, -, -, - |
-| 16h40 | -, -, -, -, -, - |
-| 17h10 | -, -, -, -, -, - |
+I will join the conversation for about 15 minutes in each groups.
 
 [See dedicated page](https://github.com/francois-gm/go-kabk-y1/tree/main/2025-2026-Y1A/02%20-%20Assignment%201%20(ode%20to%20CSS))
