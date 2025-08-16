@@ -1,4 +1,4 @@
-# A web intervention (assignment 2)
+# A web intervention (assignment 3)
 
 ## In short
 

@@ -1,27 +1,8 @@
-# Class 12, 2025/05/12
+# Class 12, 2025/11/24
 
-## A website you like (15min)
+## Tutorial: web extension, filter and modify text with JavaScript (3h30)
 
-Daniel and Yicheng will each present a website they like.
-
-## Template for presentation page (30min)
-
-See file `my-project-template.zip` within that page.
-
-### Prepare your extension for dowload (for others)
-
-- You unfortunately can't use the Chrome 'pack extension' since your code will need to be reviewed by the Chrome team.
-- But others can download your extension as a .zip file and install it in the same way that you have been able to install it yourself (enabling the 'developer tools'.
-
-See instructions below (to add to your presentation page) for installation:
-
-**Load an unpacked extension**
-
-1) Click on **Window**, and **Extensions**.
-2) Activate the **developer mode** (toggle switch on the top right of the window)
-3) Click on the **Load unpacked** button
-4) Locate and select the folder of the extension (`my-extension-project`).
-
-## *Web intervention* assignment time, sign-up sheet
-
-Time slots (7min per person), see spreadsheet.
+- Replace one element of the page with text.
+- Replace multiple elements with text (using a `forEach` loop).
+- Looping a replace function in a `setInterval` (in order to re-apply dynamically the filter).
+- Filter several terms with a *word map* and using a `TreeWalker` method (website's *tree* structure) to filter the website's DOM.
