@@ -1,8 +1,8 @@
 # Class 4, 2025/09/22
 
-## Intro (20min)
+## Intro (15min)
 
-- A website you like (-, -, François)
+- *A website you like* (–, –, François)
 
 ## Recap (15min)
 
