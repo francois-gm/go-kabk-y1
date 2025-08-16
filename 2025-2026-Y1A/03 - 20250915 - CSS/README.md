@@ -6,6 +6,8 @@
 
 ## Recap (20min)
 
+Questions:
+
 <!--
 - Name an example of a HTML `tag`?
 - How would you define, in your own words, what a HTML `tag` does?
