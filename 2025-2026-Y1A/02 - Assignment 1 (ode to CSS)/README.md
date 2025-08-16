@@ -14,8 +14,8 @@ Schedule:
 
 - **8 September**: introduction of the assignment
 - **15 September**: class presentation of your property (2h)
-- **22 September**: individual follow-up on the assignment (4h)
-- **29 September**: small group follow-up on the assignment (2h)
+- **22 September**: individual follow-up on the assignment (2h)
+- **29 September**: small group follow-up on the assignment (4h)
 - **6 October**: delivery and presentation of the assignment in class
 
 ### You can use the starting template we made together before
