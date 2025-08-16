@@ -2,7 +2,7 @@
 
 ## Intro (15min)
 
-- A website you like (-, -, François)
+- *A website you like* (–, –, François)
 
 ## Recap (20min)
 
