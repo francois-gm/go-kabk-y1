@@ -39,7 +39,7 @@ Schedule:
 | Tasteless    | Obnoxious    | Monochrome   | Classic      | Dry          | Functional   |
 | Vernacular   | Generous     | Intrusive    | Concealed    | Serene       | Luminous     |
 
-**List of terms relating to (web) interfaces and experiences**
+**List of terms relating to (web) interfaces**
 
 | Navigation & Structure | Content & Media Display | Forms & Inputs | Feedback & Overlays |
 |------------------------|------------------------|----------------|--------------------|
