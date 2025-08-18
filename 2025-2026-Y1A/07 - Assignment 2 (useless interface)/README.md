@@ -25,7 +25,7 @@ Schedule:
 
 List of qualities
 
-| Q1           | Q2           | Q3           | Q4           | Q5           | Q6           |
+| — | — | — | — | — | — |
 |--------------|--------------|--------------|--------------|--------------|--------------|
 | Expansive    | Sublime      | Fragmented   | Oscillating  | Blissful     | Paradoxical  |
 | Euphoric     | Labyrinthine | Dissonant    | Timeless     | Withered     | Fierce       |
