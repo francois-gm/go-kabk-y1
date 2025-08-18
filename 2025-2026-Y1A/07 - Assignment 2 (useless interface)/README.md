@@ -25,34 +25,19 @@ Schedule:
 
 List of qualities
 
-| Qualities (1)     | Qualities (2)     | Qualities (3)     | Qualities (4)     |
-|-------------------|-------------------|-------------------|-------------------|
-| Expansive         | Frantic           | Fragmented        | Radiant           |
-| Dreamlike         | Bold              | Arbitrary         | Heavy             |
-| Detached          | Abrupt            | Euphoric          | Convoluted        |
-| Harsh             | Minimalist        | Compassionate     | Erratic           |
-| Blissful          | Oppressive        | Vibrant           | Cyclical          |
-| Claustrophobic    | Fierce            | Subdued           | Timeless          |
-| Subtle            | Infinite          | Frightening       | Contradictory     |
-| Forlorn           | Complex           | Energetic         | Lingering         |
-| Melancholic       | Ambiguous         | Chaotic           | Crisp             |
-| Inevitable        | Withered          | Gentle            | Monolithic        |
-| Oscillating       | Dissonant         | Spacious          | Fleeting          |
-| Eerie             | Sudden            | Deliberate        | Tangled           |
-| Vibrant           | Brooding          | Harmonious        | Ephemeral         |
-| Aggressive        | Lopsided          | Calm              | Rushed            |
-| Layered           | Frantic           | Weightless        | Dynamic           |
-| Gloomy            | Bold              | Oppressive        | Subtle            |
-| Compassionate     | Erratic           | Surreal           | Powerful          |
-| Agitated          | Saturated         | Linear            | Joyful            |
-| Anxious           | Labyrinthine      | Distorted         | Perpetual         |
-| Infinite          | Energetic         | Light             | Arbitrary         |
-| Delicate          | Withered          | Nostalgic         | Expansive         |
-| Crisp             | Aggressive        | Fragmented        | Ephemeral         |
-| Radiant           | Oppressive        | Vibrant           | Detached          |
-| Paradoxical       | Spacious          | Overgrown         | Melancholic       |
-| Weightless        | Timeless          | Brooding          | Euphoric          |
-
+| Q1           | Q2           | Q3           | Q4           | Q5           | Q6           |
+|--------------|--------------|--------------|--------------|--------------|--------------|
+| Expansive    | Sublime      | Fragmented   | Oscillating  | Blissful     | Paradoxical  |
+| Euphoric     | Labyrinthine | Dissonant    | Timeless     | Withered     | Fierce       |
+| Gentle       | Abrupt       | Infinite     | Hazy         | Delicate     | Saturated    |
+| Conflicted   | Bold         | Forlorn      | Minimalist   | Dynamic      | Ephemeral    |
+| Arbitrary    | Joyful       | Convoluted   | Radiant      | Monolithic   | Frantic      |
+| Compassionate| Blissful     | Vibrant      | Heavy        | Perpetual    | Subdued      |
+| Stagnant     | Fleeting     | Aggressive   | Powerful     | Agitated     | Overgrown    |
+| Labyrinthine | Crisp        | Harmonious   | Arbitrary    | Calm         | Fleeting     |
+| Paradoxical  | Oppressive   | Fragmented   | Nostalgic    | Momentary    | Euphoric     |
+| Chaotic      | Layered      | Sublime      | Erratic      | Delicate     | Energetic    |
+| Luxurious    | Moist        | Scary        | Authentic    | Tasteless    | Obnoxious    |
 
 
 
