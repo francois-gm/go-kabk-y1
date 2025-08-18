@@ -2,13 +2,13 @@
 
 ## In short
 
-- You get assigned a word (adjective, quality)
-- You get assigned with a term related to web interface
-- You have to create the interface element with the assigned word in mind
+- You get assigned a **word** (adjective, quality)
+- You get assigned with a **term related to web interface**
+- You have to **create the interface element** with the **assigned word** in mind
 
 Example:
 
-Word: `Useless`
+Word: `Useless` <br>
 Element: `Button`
 
 Make a *useless* button.
