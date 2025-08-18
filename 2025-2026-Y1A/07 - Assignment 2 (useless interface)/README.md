@@ -45,6 +45,59 @@ List of qualities
 List of terms relating to (web) interfaces and experiences
 
 
+| Navigation & Structure | Content & Media Display | Forms & Inputs | Feedback & Overlays |
+|------------------------|------------------------|----------------|--------------------|
+| Hamburger (button and menu) | Gallery | Button | Modal (dialog) |
+| Sidebar | Carousel (image slider) | Input (fields: text, email, password) | Toast (snackbar) |
+| Breadcrumbs | Lightbox (zoom in) | Select (dropdown) | Tooltip |
+| Pagination | Hero (section / banner) | Checkbox (and radio buttons) |
+| Tabs | Cards (content) | Toggle (switch) | Alert (notification) |
+| Navigation bar | Cards (hoverable/preview) | File Upload | Loader |
+| Anchor (links) |  | Input with Validation / Error Messages | Ratings |
+| Scroll-to-Top Button |  | Range Slider / Number Slider | Progress Bar / Circle |
+|  |  | Captcha / Verification Input | Confirmation Dialog |
+|  |  | Conditional field | Error Page |
+|  |  | Tags and categories | Accordion / Expandable Section |
+
+
+Hamburger (button and menu)
+Sidebar
+Breadcrumbs
+Pagination
+Tabs
+Gallery
+Carousel / Image Slider
+Zoom in / Lightbox
+Navigation bar
+Anchor links
+Tags and categories
+Accordion / Expandable Section
+Scroll-to-Top Button
+Hero Section / Banner
+Content Cards
+Hover Cards / Preview Cards
+Button
+Input Fields (text, email, password)
+Select / Dropdown
+Radio Buttons & Checkboxes
+Toggle Switch
+File Upload
+Input with Validation / Error Messages
+Range Slider / Number Slider
+Captcha / Verification Input
+Conditional field
+Modal / Dialog
+Toast / Snackbar
+Tooltip
+Popover
+Alert / Notification
+Loader / Spinner / Skeleton
+Ratings
+Progress Bar / Circle
+Confirmation Dialog
+Error Page
+
+
 
 
 
