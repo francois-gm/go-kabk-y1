@@ -2,9 +2,16 @@
 
 ## In short
 
-- A
-- B
-- C
+- You get assigned a word (adjective, quality)
+- You get assigned with a term related to web interface
+- You have to create the interface element with the assigned word in mind
+
+Example:
+
+Word: `Useless`
+Element: `Button`
+
+Make a *useless* button.
 
 Schedule:
 
@@ -15,16 +22,24 @@ Schedule:
   
 ## Presentation
 
--
+A small paragraph about the assignment
+
+### Ressources
+
+Links to go to get to see the elements
 
 ### Inspiration
 
+Links to bad UI stuff
+
 ### Things to keep in mind
+
+Short paragraph about the short amount of time, and also some JS but please not much, mostly HTML and CSS.
 
 ## Getting started
 
 **List of qualities**
-
+<!--
 | — | — | — | — | — | — |
 |--------------|--------------|--------------|--------------|--------------|--------------|
 | Expansive    | Sublime      | Fragmented   | Oscillating  | Blissful     | Paradoxical  |
@@ -38,9 +53,9 @@ Schedule:
 | Layered      | Erratic      | Luxurious    | Moist        | Scary        | Authentic    |
 | Tasteless    | Obnoxious    | Monochrome   | Classic      | Dry          | Functional   |
 | Vernacular   | Generous     | Intrusive    | Concealed    | Serene       | Luminous     |
-
+-->
 **List of terms relating to (web) interfaces**
-
+<!--
 | Navigation & Structure | Content & Media Display | Forms & Inputs | Feedback & Overlays |
 |------------------------|------------------------|----------------|--------------------|
 | Hamburger (button and menu) | Gallery | Button | Modal (dialog) |
@@ -54,7 +69,7 @@ Schedule:
 |  |  | Captcha (verification input) | Confirmation (dialog) |
 |  |  | Conditional field | Error page |
 |  |  | Tags (and categories) | Accordion (expandable section) |
-
+-->
 
 
 
