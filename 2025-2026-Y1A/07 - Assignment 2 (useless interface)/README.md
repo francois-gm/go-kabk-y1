@@ -28,17 +28,16 @@ List of qualities
 | — | — | — | — | — | — |
 |--------------|--------------|--------------|--------------|--------------|--------------|
 | Expansive    | Sublime      | Fragmented   | Oscillating  | Blissful     | Paradoxical  |
-| Euphoric     | Labyrinthine | Dissonant    | Timeless     | Withered     | Fierce       |
+| Euphoric     | Personal     | Dissonant    | Timeless     | Withered     | Fierce       |
 | Gentle       | Abrupt       | Infinite     | Hazy         | Delicate     | Saturated    |
 | Conflicted   | Bold         | Forlorn      | Minimalist   | Dynamic      | Ephemeral    |
 | Arbitrary    | Joyful       | Convoluted   | Radiant      | Monolithic   | Frantic      |
-| Compassionate| Blissful     | Vibrant      | Heavy        | Perpetual    | Subdued      |
-| Stagnant     | Fleeting     | Aggressive   | Powerful     | Agitated     | Overgrown    |
-| Labyrinthine | Crisp        | Harmonious   | Arbitrary    | Calm         | Fleeting     |
-| Paradoxical  | Oppressive   | Fragmented   | Nostalgic    | Momentary    | Euphoric     |
-| Chaotic      | Layered      | Sublime      | Erratic      | Delicate     | Energetic    |
-| Luxurious    | Moist        | Scary        | Authentic    | Tasteless    | Obnoxious    |
-
+| Compassionate| Vibrant      | Heavy        | Perpetual    | Subdued      | Stagnant     |
+| Fleeting     | Aggressive   | Powerful     | Agitated     | Overgrown    | Labyrinthine |
+| Crisp        | Harmonious   | Calm         | Nostalgic    | Momentary    | Chaotic      |
+| Layered      | Erratic      | Luxurious    | Moist        | Scary        | Authentic    |
+| Tasteless    | Obnoxious    | Monochrome   | Classic      | Dry          | Functional   |
+| Vernacular   | Generous     | Intrusive    | Concealed    | Serene       | Luminous     |
 
 
 
