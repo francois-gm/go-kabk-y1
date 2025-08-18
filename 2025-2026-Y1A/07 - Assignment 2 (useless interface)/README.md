@@ -23,7 +23,7 @@ Schedule:
 
 ## Getting started
 
-List of qualities
+### List of qualities:
 
 | — | — | — | — | — | — |
 |--------------|--------------|--------------|--------------|--------------|--------------|
@@ -39,11 +39,7 @@ List of qualities
 | Tasteless    | Obnoxious    | Monochrome   | Classic      | Dry          | Functional   |
 | Vernacular   | Generous     | Intrusive    | Concealed    | Serene       | Luminous     |
 
-
-
-
-List of terms relating to (web) interfaces and experiences
-
+### List of terms relating to (web) interfaces and experiences:
 
 | Navigation & Structure | Content & Media Display | Forms & Inputs | Feedback & Overlays |
 |------------------------|------------------------|----------------|--------------------|
@@ -58,10 +54,6 @@ List of terms relating to (web) interfaces and experiences
 |  |  | Captcha (verification input) | Confirmation (dialog) |
 |  |  | Conditional field | Error page |
 |  |  | Tags (and categories) | Accordion (expandable section) |
-
-
-
-
 
 
 
