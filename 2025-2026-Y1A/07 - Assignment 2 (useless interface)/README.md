@@ -53,49 +53,13 @@ List of terms relating to (web) interfaces and experiences
 | Pagination | Hero (section / banner) | Checkbox (and radio buttons) |
 | Tabs | Cards (content) | Toggle (switch) | Alert (notification) |
 | Navigation bar | Cards (hoverable/preview) | File Upload | Loader |
-| Anchor (links) |  | Input with Validation / Error Messages | Ratings |
-| Scroll-to-Top Button |  | Range Slider / Number Slider | Progress Bar / Circle |
-|  |  | Captcha / Verification Input | Confirmation Dialog |
-|  |  | Conditional field | Error Page |
-|  |  | Tags and categories | Accordion / Expandable Section |
+| Anchor (links) |  | Input (with validation / error Messages) | Ratings |
+| Scroll-to-Top (button) |  | Range (number slider) | Progress indicator |
+|  |  | Captcha (verification input) | Confirmation (dialog) |
+|  |  | Conditional field | Error page |
+|  |  | Tags (and categories) | Accordion (expandable section) |
 
 
-Hamburger (button and menu)
-Sidebar
-Breadcrumbs
-Pagination
-Tabs
-Gallery
-Carousel / Image Slider
-Zoom in / Lightbox
-Navigation bar
-Anchor links
-Tags and categories
-Accordion / Expandable Section
-Scroll-to-Top Button
-Hero Section / Banner
-Content Cards
-Hover Cards / Preview Cards
-Button
-Input Fields (text, email, password)
-Select / Dropdown
-Radio Buttons & Checkboxes
-Toggle Switch
-File Upload
-Input with Validation / Error Messages
-Range Slider / Number Slider
-Captcha / Verification Input
-Conditional field
-Modal / Dialog
-Toast / Snackbar
-Tooltip
-Popover
-Alert / Notification
-Loader / Spinner / Skeleton
-Ratings
-Progress Bar / Circle
-Confirmation Dialog
-Error Page
 
 
 
