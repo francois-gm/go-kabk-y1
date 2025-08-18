@@ -48,7 +48,7 @@ List of terms relating to (web) interfaces and experiences
 | Navigation & Structure | Content & Media Display | Forms & Inputs | Feedback & Overlays |
 |------------------------|------------------------|----------------|--------------------|
 | Hamburger (button and menu) | Gallery | Button | Modal (dialog) |
-| Sidebar | Carousel (image slider) | Input (fields: text, email, password) | Toast (snackbar) |
+| Sidebar | Carousel (image slider) | Input fields (text, email, password) | Toast (snackbar) |
 | Breadcrumbs | Lightbox (zoom in) | Select (dropdown) | Tooltip |
 | Pagination | Hero (section / banner) | Checkbox (and radio buttons) |
 | Tabs | Cards (content) | Toggle (switch) | Alert (notification) |
