@@ -3,8 +3,8 @@
 ## In short
 
 - You get assigned a **word** (adjective, quality)
-- You get assigned with a **term related to web interface**
-- You have to **create the interface element** with the **assigned word** in mind
+- You get assigned with a **term related to user/web interface**
+- You have to **create the user interface element** with the **assigned word** in mind
 
 Example:
 
@@ -37,9 +37,9 @@ Links to bad UI stuff
 Short paragraph about the short amount of time, and also some JS but please not much, mostly HTML and CSS.
 
 ## Getting started
-
-**List of qualities**
 <!--
+### List of qualities
+
 | — | — | — | — | — | — |
 |--------------|--------------|--------------|--------------|--------------|--------------|
 | Expansive    | Sublime      | Fragmented   | Oscillating  | Blissful     | Paradoxical  |
@@ -53,9 +53,9 @@ Short paragraph about the short amount of time, and also some JS but please not 
 | Layered      | Erratic      | Luxurious    | Moist        | Scary        | Authentic    |
 | Tasteless    | Obnoxious    | Monochrome   | Classic      | Dry          | Functional   |
 | Vernacular   | Generous     | Intrusive    | Concealed    | Serene       | Luminous     |
--->
-**List of terms relating to (web) interfaces**
-<!--
+
+### List of terms relating to (web) interfaces
+
 | Navigation & Structure | Content & Media Display | Forms & Inputs | Feedback & Overlays |
 |------------------------|------------------------|----------------|--------------------|
 | Hamburger (button and menu) | Gallery | Button | Modal (dialog) |
@@ -70,8 +70,34 @@ Short paragraph about the short amount of time, and also some JS but please not 
 |  |  | Conditional field | Error page |
 |  |  | Tags (and categories) | Accordion (expandable section) |
 -->
+### Student / word / UI element pairings
 
-
+| Student name | Quality | UI element |
+|--------------|--------------|--------------|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
+|-|-|-|
 
 <!--
 We'll start by [building a starterkit](https://github.com/francois-gm/go-kabk-y1b/tree/main/09%20-%2020250331%20-%20Assignment%20time).
