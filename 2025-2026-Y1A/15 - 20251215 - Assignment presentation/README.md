@@ -1,8 +1,8 @@
 # Class 15, 2025/12/15
 
-## Intro (20min)
+## Intro (15min)
 
-- A website you like (Yicheng, Eva)
+- *A website you like* (–, –, François)
 
 ## *Web intervention*, each present their final project (2h)
 
@@ -79,7 +79,7 @@ Then read out these three sentences.
 
 ## Archiving your projects
 
-Your exercices and projects done during the semester can be visited at: https://kabk.francoisgm.com/24-25/y1/b/
+Your exercices and projects done during the semester can be visited at: https://kabk.francoisgm.com/25-26/y1/a/
 
 Later on this week I will archive your last assignment as well as the *holes* workshop's outcome and will add these to the url above.
 
