@@ -66,6 +66,6 @@ Read more at [What are extensions](https://developer.mozilla.org/en-US/docs/Mozi
 
 ## Getting started
 
-We'll start by [building a starterkit](https://github.com/francois-gm/go-kabk-y1b/tree/main/09%20-%2020250331%20-%20Assignment%20time).
+We'll start by [building a starterkit](https://github.com/francois-gm/go-kabk-y1/tree/main/2025-2026-Y1A/11%20-%2020251117%20-%20Assignment%20time).
 
 
