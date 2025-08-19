@@ -92,5 +92,5 @@ on layers on layers.
 
 2025/09/01 <br>
 François Girard-Meunier <br>
-KABK, Den Haag
-Version 2.0
+KABK, Den Haag <br>
+*Version 2.0*
