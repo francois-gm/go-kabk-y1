@@ -1,8 +1,8 @@
 # Class 12, 2025/12/08
 
-## A website you like (15min)
+## Intro (15min)
 
-Daniel and Yicheng will each present a website they like.
+- *A website you like* (–, –, François)
 
 ## Template for presentation page (30min)
 
