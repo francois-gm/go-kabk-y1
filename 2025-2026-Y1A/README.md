@@ -8,13 +8,13 @@ During this semester, we will unbox basics about coding, with a focus on the ‘
 
 ## Main assignments
 
-In addition to in-class exercises, you will have 3-4 short assignments, each to be completed in a 2-3 weeks period. These assignments, building one on top of each other, will result in a common compendium of ‘poetic’, interconnected web pages. Ultimately, we can see this class as a space where each student, catering to their own ‘web space’ patch, together contribute to the growing and flourishing of a (web-based) garden, or community of mutually, somewhat interdependent virtual web spaces.
+In addition to in-class exercises, you will have 3-4 short assignments, each to be completed in a 2-3 weeks period. These assignments, building one on top of each other, will result in a common compendium of ‘poetic’, interconnected web pages. Ultimately, we can see this class as a space where each student, catering to their own ‘web space’ patch.
 
 ## Small presentation assignment
 
 *At the beginning of each class, 2 students will make a short presentation about a website they like, and tell us a bit more about it. I will also do the same.*
 
-[A website you like, read more on the assignment page](https://github.com/francois-gm/go-kabk-y1b/tree/main/01-2%20-%20Assignment%2C%20A%20Website%20you%20like)
+[A website you like, read more on the assignment page](https://github.com/francois-gm/go-kabk-y1/tree/main/2025-2026-Y1A/01-2%20-%20Assignment%2C%20A%20Website%20you%20like)
 
 ## Time schedule
 
@@ -27,7 +27,7 @@ Small presentation assignment, I present and you present
 1h30-ish: exercices and class time for assignment
 
 **Teaching methods, assessment methods,
-competencies, etc**:  [See ECTS table here](https://denhaagkabk-my.sharepoint.com/:x:/g/personal/f_girard-meunier_kabk_nl/EZyFrnFEOdFBtG2cfrBLhGYB4j_aEfZXs8XxJUmyKYhLog?e=mcim5P).
+competencies, etc**:  [See ECTS table here](https://denhaagkabk-my.sharepoint.com/:x:/g/personal/f_girard-meunier_kabk_nl/EZyFrnFEOdFBtG2cfrBLhGYB4j_aEfZXs8XxJUmyKYhLog?e=mcim5P). [**TO UPDATE**]
 
 <img src="improvement.jpg" width="350px">
 
