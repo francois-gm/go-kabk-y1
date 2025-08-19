@@ -39,7 +39,7 @@ How-to and code:
 - [W3schools how-to, several examples](https://www.w3schools.com/howto/)
 - [CSS Tricks, links and buttons](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
   
-Design System References:
+Design System References (to see the "archetypical" apperance of these *components*):
 
 - [Bootstrap](https://getbootstrap.com/docs/5.3/components/accordion/)
 - [Google's Material Design Stylebook](https://m2.material.io/components)
