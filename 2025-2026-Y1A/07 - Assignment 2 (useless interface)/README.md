@@ -5,6 +5,7 @@
 - You get assigned a **word** (adjective, quality)
 - You get assigned with a **term related to user/web interface**
 - You have to **create the user interface element** with the **assigned word** in mind
+- This assignment is **mostly** focused on **HTML/CSS**, but you are allowed to use a bit of Javascript if your element requires it.
 - During the assignment, you will have time to share your findings on your "user interface element", as well as learn about other's findings
 
 Example:
@@ -33,28 +34,36 @@ do `Command` + `Shift` + `S` while on the page.
 
 ### Ressources
 
-Links to go to get to see the elements
+How-to and code:
+
+- [W3schools how-to, several examples](https://www.w3schools.com/howto/)
+- [CSS Tricks, links and buttons](https://css-tricks.com/a-complete-guide-to-links-and-buttons/)
+  
+Design System References:
+
+- [Bootstrap](https://getbootstrap.com/docs/5.3/components/accordion/)
+- [Google's Material Design Stylebook](https://m2.material.io/components)
+- [IBM's Carbon Design Stylebook](https://carbondesignsystem.com/components/overview/components/)
 
 ### Inspiration
 
-Links to bad UI stuff
-
 - [User Inyerface](https://userinyerface.com)
-- [Reddit's "bad UI battle"](https://www.reddit.com/r/badUIbattles/best/)
-- [Different computer shutdown alerts](http://www.therestartpage.com)
 - [Click click click](https://clickclickclick.click)
 - [Busy simulator](https://busysimulator.com)
 - [Password From Hell](https://passwordfromhell.com)
 - [Sebastian Ly Serena's website](http://sebastianlyserena.dk)
 - [Non user events](https://non-user-events.computer-feeling.xyz)
+- [Reddit's "bad UI battle"](https://www.reddit.com/r/badUIbattles/best/)
+- [Different computer shutdown alerts](http://www.therestartpage.com)
 - [Cursor library](http://www.rw-designer.com/cursor-library)
 - [Computer user interfaces archive](https://guidebookgallery.org/guis/grid)
 - ["Magic Cap" computer interface](https://en.wikipedia.org/wiki/Magic_Cap)
-
-### Things to keep in mind
-
-Short paragraph about the short amount of time, and also some JS but please not much, mostly HTML and CSS.
-
+- [TempleOS](https://en.wikipedia.org/wiki/TempleOS)
+- [Olia Lialina's "A Vernacular Web"](http://art.teleportacia.org/observation/vernacular/)
+- [Olia Lialina's "A Vernacular Web 2 (2017)"](http://contemporary-home-computing.org/vernacular-web-2/)
+- [Olia Lialina's "A Vernacular Web 3 / Prof. Dr. Style (2010)"](http://contemporary-home-computing.org/prof-dr-style/)
+- [Olia Lialina on "affordances"](http://contemporary-home-computing.org/affordance/)
+  
 ## Getting started
 <!--
 ### List of qualities
