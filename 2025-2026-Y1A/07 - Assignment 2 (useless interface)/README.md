@@ -1,10 +1,11 @@
 # Useless interface (assignment 2)
 
-## In short
+## Presentation
 
 - You get assigned a **word** (adjective, quality)
 - You get assigned with a **term related to user/web interface**
 - You have to **create the user interface element** with the **assigned word** in mind
+- During the assignment, you will have time to share your findings on your "user interface element", as well as learn about other's findings
 
 Example:
 
@@ -20,9 +21,15 @@ Schedule:
 - **3 November**: individual follow-up on the assignment (4h) (*you have a working coded page*)
 - **10 November**: delivery and presentation of the assignment in class
   
-## Presentation
+### You can use the starting template we made together before
 
-A small paragraph about the assignment
+You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/02%20-%20Assignment%201%20(ode%20to%20CSS)/my-project-template.zip)
+
+(click on the three dots button `...` on the top right of your screen and then `download`)
+
+**OR** 
+
+do `Command` + `Shift` + `S` while on the page.
 
 ### Ressources
 
@@ -31,6 +38,9 @@ Links to go to get to see the elements
 ### Inspiration
 
 Links to bad UI stuff
+
+- [User Inyerface](https://userinyerface.com)
+- [Reddit's "bad UI battle"](https://www.reddit.com/r/badUIbattles/best/)
 
 ### Things to keep in mind
 
