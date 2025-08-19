@@ -1,5 +1,9 @@
 # Class 8, 2025/10/27
 
+## Intro (15min)
+
+- *A website you like* (–, –, François)
+  
 ## Tutorial: Javascript essentials (30min)
 
 What does Javascript do?
@@ -123,7 +127,7 @@ else{
 - If that is the case, our juice is a citrus punch.
 - If it's not a lemonade or a citrus punch, then it's a fruit punch.
 
-## Tutorial: manipulating the document (the *DOM*) with Javascript (2h)
+## Tutorial: manipulating the document (the *DOM*) with Javascript (1h30)
 
 - Create a JS counter (increment)
 - Create a JS random color generator
