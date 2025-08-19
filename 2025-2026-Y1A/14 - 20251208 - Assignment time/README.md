@@ -24,4 +24,4 @@ See instructions below (to add to your presentation page) for installation:
 
 ## *Web intervention* assignment time, sign-up sheet
 
-Time slots (7min per person), see spreadsheet.
+Time slots, see spreadsheet.
