@@ -8,7 +8,7 @@ During this semester, we will unbox basics about coding, with a focus on the ‘
 
 ## Main assignments
 
-In addition to in-class exercises, you will have 3-4 short assignments, each to be completed in a 2-3 weeks period. These assignments, building one on top of each other, will result in a common compendium of ‘poetic’, interconnected web pages. Ultimately, we can see this class as a space where each student, catering to their own ‘web space’ patch.
+In addition to in-class exercises, you will have 3-4 short assignments, each to be completed in a 2-3 weeks period. These assignments, building one on top of each other, will result in a common compendium of *poetic*, interconnected web pages. Ultimately, we can see this class as a space where each student, caters to their own *web space* patch.
 
 ## Small presentation assignment
 
