@@ -41,6 +41,15 @@ Links to bad UI stuff
 
 - [User Inyerface](https://userinyerface.com)
 - [Reddit's "bad UI battle"](https://www.reddit.com/r/badUIbattles/best/)
+- [Different computer shutdown alerts](http://www.therestartpage.com)
+- [Click click click](https://clickclickclick.click)
+- [Busy simulator](https://busysimulator.com)
+- [Password From Hell](https://passwordfromhell.com)
+- [Sebastian Ly Serena's website](http://sebastianlyserena.dk)
+- [Non user events](https://non-user-events.computer-feeling.xyz)
+- [Cursor library](http://www.rw-designer.com/cursor-library)
+- [Computer user interfaces archive](https://guidebookgallery.org/guis/grid)
+- ["Magic Cap" computer interface](https://en.wikipedia.org/wiki/Magic_Cap)
 
 ### Things to keep in mind
 
