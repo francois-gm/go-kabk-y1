@@ -27,7 +27,7 @@ Small presentation assignment, I present and you present
 1h30-ish: exercices and class time for assignment
 
 **Teaching methods, assessment methods,
-competencies, etc**:  [See ECTS table here](https://denhaagkabk-my.sharepoint.com/:x:/g/personal/f_girard-meunier_kabk_nl/EZyFrnFEOdFBtG2cfrBLhGYB4j_aEfZXs8XxJUmyKYhLog?e=mcim5P). [**TO UPDATE**]
+competencies, etc**:  [See ECTS table here](https://denhaagkabk-my.sharepoint.com/:x:/g/personal/f_girard-meunier_kabk_nl/EZyFrnFEOdFBtG2cfrBLhGYB4j_aEfZXs8XxJUmyKYhLog?e=mcim5P).
 
 <img src="improvement.jpg" width="350px">
 
