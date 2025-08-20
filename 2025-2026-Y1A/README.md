@@ -18,10 +18,10 @@ In addition to in-class exercises, you will have 3-4 short assignments, each to 
 
 ## Time schedule
 
-Every monday, 13h30-17h30, Class to be determined
+Every **Monday**, **13h30-17h30**, Classroom to be determined
 
 First 15 minutes: web culture <br>
-Small presentation assignment, I present and you present
+Small presentation assignment
 
 2h-ish: presentations, workshop-based <br>
 1h30-ish: exercices and class time for assignment
