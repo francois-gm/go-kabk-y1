@@ -24,7 +24,7 @@ Schedule:
   
 ### You can use the starting template we made together before
 
-You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/07%20-%20Assignment%202%20(useless%20interface)/my-project-template.zip)
+You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1B/07%20-%20Assignment%202%20(useless%20interface)/my-project-template.zip)
 
 (click on the three dots button `...` on the top right of your screen and then `download`)
 
