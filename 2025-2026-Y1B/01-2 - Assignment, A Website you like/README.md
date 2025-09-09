@@ -54,6 +54,8 @@ Duration of the presentation: **around 2 minutes** per person.
 | December 1 (class 13) | - | - |
 | December 8 (class 14) | - | - |
 | December 8 (class 14) | - | - |
+| December 15 (class 15) | - | - |
+| December 15 (class 15) | - | - |
 
 ## Ressources list
 
