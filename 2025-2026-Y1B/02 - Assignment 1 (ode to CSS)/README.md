@@ -20,7 +20,7 @@ Schedule:
 
 ### You can use the starting template we made together before
 
-You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/02%20-%20Assignment%201%20(ode%20to%20CSS)/my-project-template.zip)
+You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1B/02%20-%20Assignment%201%20(ode%20to%20CSS)/my-project-template.zip)
 
 (click on the three dots button `...` on the top right of your screen and then `download`)
 
@@ -35,33 +35,33 @@ See table below:
 | | CSS property | Name |
 | -------- | --------  | --------------------- |
 | **Decoration**  | | |
-| 1 | `color` | – |
-| 2 | `background` (and sub-properties) | – |
-| 3 | `opacity` | – |
-| 4 | `border` | – |
-| 5 | `filter`, `backdrop-filter` | – |
-| 6 | `box-shadow` | – |
-| 7 | `mix-blend-mode` | – |
+<!--| 1 | `color` | - |-->
+| 2 | `background` (and sub-properties) | Isaac |
+| 3 | `opacity` | Mia |
+| 4 | `border` | Finn |
+| 5 | `filter`, `backdrop-filter` | Erwin |
+| 6 | `box-shadow` | Miruna |
+<!--| XX | `mix-blend-mode` | – |-->
 | **Layout** | | |
-| 8 | CSS size units (`px`, `%`, `vw`, `vh`) | – |
-| 9 | `position` | – |
-| 10 | `display:block;`, `float` | – |
-| 11 | `display:flex;` | – |
-| 12 | `margin`, `padding` | – |
-| 13 | `z-index` | – |
+<!--| 7 | CSS size units (`px`, `%`, `vw`, `vh`) | – |-->
+| 7 | `position` | Anntonina |
+<!--| XX | `display:block;`, `float` | – |-->
+| 8 | `display:flex;` | – |
+| 9 | `margin`, `padding` | – |
+| 10 | `z-index` | – |
 | **Typography** | | |
-| 14 | `font` (and sub-properties) | – |
-| 15 | `text-align`, `text-indent` | – |
-| 16 | `line-height` | – |
-| 17 | `text-decoration` | – |
-| 18 | `letter-spacing`, `word-spacing` | – |
-| 19 | `text-shadow` | – |
+| 11 | `font` (and sub-properties) | – |
+<!--| XX | `text-align`, `text-indent` | – |-->
+| 12 | `line-height` | – |
+| 13 | `text-decoration` | – |
+| 14 | `letter-spacing`, `word-spacing` | – |
+| 15 | `text-shadow` | – |
 | **Functionality** | | |
-| 20 | `cursor` | – |
-| 21 | `@media` | – |
-| 22 | `transition` | – |
-| 23 | `transform` | – |
-| 24 | `overflow` | – |
+| 16 | `cursor` | – |
+| 17 | `@media` | – |
+| 18 | `transition` | – |
+| 19 | `transform` | – |
+| 20 | `overflow` | – |
 
 Some links to help you research your CSS property:
 
