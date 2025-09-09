@@ -1,4 +1,4 @@
-# Class 12, 2025/11/24
+# Class 12, 2025/12/01
 
 ## Tutorial: web extension, filter and modify text with JavaScript (2h)
 
