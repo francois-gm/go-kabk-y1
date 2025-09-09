@@ -34,7 +34,7 @@ Look at the page, resize it, and look at how blocks behave. Can you see each HTM
 
 ## Tutorial: CSS (1h)
 
-You can [download a project template there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/03%20-%2020250915%20-%20CSS/my-project-template.zip)
+You can [download a project template there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1B/03%20-%2020250922%20-%20CSS/my-project-template.zip)
 
 (click on the three dots button `...` on the top right of your screen and then `download`)
 
@@ -147,4 +147,4 @@ While listening to others' properties:
 
 I will join the conversation for about 15 minutes in each groups.
 
-[See dedicated page](https://github.com/francois-gm/go-kabk-y1/tree/main/2025-2026-Y1A/02%20-%20Assignment%201%20(ode%20to%20CSS))
+[See dedicated page](https://github.com/francois-gm/go-kabk-y1/tree/main/2025-2026-Y1B/02%20-%20Assignment%201%20(ode%20to%20CSS))
