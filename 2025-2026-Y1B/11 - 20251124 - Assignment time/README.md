@@ -1,4 +1,4 @@
-# Class 11, 2025/11/17
+# Class 11, 2025/11/24
 
 ## Tutorial: web extension starter kit (2h)
 
