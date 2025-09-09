@@ -1,6 +1,6 @@
-# Class 7, 2025/10/13
+# Class 7, 2025/10/27
 
-## Guest presentation, [TBC](https://www.google.com) (12h45-13h30)
+## Guest presentation, [Doriane Timmermans](https://ungual.digital) (12h45-13h30)
 
 ## Guest class
 
