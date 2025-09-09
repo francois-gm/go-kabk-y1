@@ -11,12 +11,11 @@
 
 Schedule:
 
-- **10 November**: introduction of the assignment
-- **17 November**: small group follow-up on the assignment (2h) (*you have an idea, and can discuss it with sketches*) 
-- **24 November**: small group follow-up on the assignment (2h) (*you have a working document and started sketching/coding in your document*)
-- **1 December**: individual follow-up on the assignment (4h) + (*your project does what is is supposed to do, you are fine-tuning it and gathering user feedback*)
-- **8 December**: individual/small group follow-up on the assignment (*you have a presentation page as well for your extension*)
-- **15 December**: delivery and presentation of the assignment in class
+- **17 November**: introduction of the assignment
+- **24 November**: small group follow-up on the assignment (2h) (*you have an idea, and can discuss it with sketches*) 
+- **1 December**: small group follow-up on the assignment (2h) (*you have a working document and started sketching/coding in your document*)
+- **8 December**: individual follow-up on the assignment (3h) + (*your project does what is is supposed to do, you are fine-tuning it and gathering user feedback*)
+- **15 December**: delivery and presentation of the assignment in class (*you have a presentation page as well for your extension*)
   
 ## Presentation
 
@@ -66,6 +65,6 @@ Read more at [What are extensions](https://developer.mozilla.org/en-US/docs/Mozi
 
 ## Getting started
 
-We'll start by [building a starterkit](https://github.com/francois-gm/go-kabk-y1/tree/main/2025-2026-Y1A/11%20-%2020251117%20-%20Assignment%20time).
+We'll start by [building a starterkit](https://github.com/francois-gm/go-kabk-y1/tree/main/2025-2026-Y1B/11%20-%2020251124%20-%20Assignment%20time).
 
 

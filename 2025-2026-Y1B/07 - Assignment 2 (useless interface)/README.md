@@ -24,7 +24,7 @@ Schedule:
   
 ### You can use the starting template we made together before
 
-You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/07%20-%20Assignment%202%20(useless%20interface)/my-project-template.zip)
+You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1B/07%20-%20Assignment%202%20(useless%20interface)/my-project-template.zip)
 
 (click on the three dots button `...` on the top right of your screen and then `download`)
 
@@ -102,33 +102,28 @@ Design System References (to see the "archetypical" apperance of these *componen
 
 | Student name | Quality | UI element |
 |--------------|--------------|--------------|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
+| Isaac | - | - |
+| Mia | - | - |
+| Finn | - | - |
+| Erwin | - | - |
+| Miruna | - | - |
+| Antonina | - | - |
+| Enola | - | - |
+| Ye Gon | - | - |
+| Sonia | - | - |
+| Martyna | - | - |
+| Nana | - | - |
+| Nora | - | - |
+| Christina | - | - |
+| Antrea | - | - |
+| Márk | - | - |
+| Francesco | - | - |
+| Jordy | - | - |
+| Gosha | - | - |
+| Adriana | - | - |
 
 <!--
-We'll start by [building a starterkit](https://github.com/francois-gm/go-kabk-y1b/tree/main/09%20-%2020250331%20-%20Assignment%20time).
+We'll start by [building a starterkit]().
 -->
 
 
