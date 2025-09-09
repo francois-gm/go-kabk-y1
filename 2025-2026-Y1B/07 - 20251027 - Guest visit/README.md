@@ -4,4 +4,8 @@
 
 ## Guest class
 
+### Intro (15min)
+
+- *A website you like* (Sonia, Martyna)
+  
 ## Outcomes
