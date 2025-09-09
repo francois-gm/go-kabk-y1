@@ -17,10 +17,10 @@ Make a *useless* button.
 
 Schedule:
 
-- **13 October**: introduction of the assignment
-- **27 October**: small group follow-up on the assignment (2h) (*you can present the terms you've been attributed with, you have ideas and have "sketched" them*) 
-- **3 November**: individual follow-up on the assignment (4h) (*you have a working coded page*)
-- **10 November**: delivery and presentation of the assignment in class
+- **XX October**: introduction of the assignment
+- **3 November**: small group follow-up on the assignment (2h) (*you can present the terms you've been attributed with, you have ideas and have "sketched" them*) 
+- **10 November**: individual follow-up on the assignment (4h) (*you have a working coded page*)
+- **17 November**: delivery and presentation of the assignment in class
   
 ### You can use the starting template we made together before
 
