@@ -35,33 +35,43 @@ See table below:
 | | CSS property | Name |
 | -------- | --------  | --------------------- |
 | **Decoration**  | | |
-<!--| 1 | `color` | - |-->
-| 2 | `background` (and sub-properties) | Isaac |
-| 3 | `opacity` | Mia |
-| 4 | `border` | Finn |
-| 5 | `filter`, `backdrop-filter` | Erwin |
-| 6 | `box-shadow` | Miruna |
-<!--| XX | `mix-blend-mode` | – |-->
+| 1 | `background` (and sub-properties) | Isaac |
+| 2 | `opacity` | Mia |
+| 3 | `border` | Finn |
+| 4 | `filter`, `backdrop-filter` | Erwin |
+| 5 | `box-shadow` | Miruna |
 | **Layout** | | |
-<!--| 7 | CSS size units (`px`, `%`, `vw`, `vh`) | – |-->
-| 7 | `position` | Anntonina |
-<!--| XX | `display:block;`, `float` | – |-->
-| 8 | `display:flex;` | – |
-| 9 | `margin`, `padding` | – |
-| 10 | `z-index` | – |
+| 6 | `position` | Antonina |
+| 7 | `display:flex;` | Enola |
+| 8 | `margin`, `padding` | Ye Gon |
+| 9 | `z-index` | Sonia |
 | **Typography** | | |
-| 11 | `font` (and sub-properties) | – |
-<!--| XX | `text-align`, `text-indent` | – |-->
-| 12 | `line-height` | – |
-| 13 | `text-decoration` | – |
-| 14 | `letter-spacing`, `word-spacing` | – |
-| 15 | `text-shadow` | – |
+| 10 | `font` (and sub-properties) | Martyna |
+| 11 | `line-height` | Nana |
+| 12 | `text-decoration` | Nora |
+| 13 | `letter-spacing`, `word-spacing` | Christina |
+| 14 | `text-shadow` | Antrea |
 | **Functionality** | | |
-| 16 | `cursor` | – |
-| 17 | `@media` | – |
-| 18 | `transition` | – |
-| 19 | `transform` | – |
-| 20 | `overflow` | – |
+| 15 | `cursor` | Márk |
+| 16 | `@media` | Francesco |
+| 17 | `transition` | Jordy |
+| 18 | `transform` | Gosha |
+| 19 | `overflow` | Adriana |
+
+<!-- 
+
+Decoration
+| XX | `color` | - | 
+| XX | `mix-blend-mode` | – |
+
+Layout
+| XX | CSS size units (`px`, `%`, `vw`, `vh`) | – |
+| XX | `display:block;`, `float` | – |
+
+Typography
+| XX | `text-align`, `text-indent` | – |
+
+-->
 
 Some links to help you research your CSS property:
 
