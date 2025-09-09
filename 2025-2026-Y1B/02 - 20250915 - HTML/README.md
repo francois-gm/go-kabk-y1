@@ -2,7 +2,7 @@
 
 ## Intro (20min)
 
-- *A website you like* (-, -, François)
+- *A website you like* (Isaac, Miruna, François)
 
 ## Exercise, mapping elements (20min)
 
