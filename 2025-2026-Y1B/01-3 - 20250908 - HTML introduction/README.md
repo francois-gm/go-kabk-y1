@@ -1,5 +1,5 @@
 # HTML introduction
-*(2025/09/01, at Hortus Botanicus Leiden)*
+*(2025/09/08, at Hortus Botanicus Leiden)*
 
 Presentation: An overview of HTML
 
