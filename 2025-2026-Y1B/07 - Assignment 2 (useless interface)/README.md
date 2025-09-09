@@ -102,33 +102,28 @@ Design System References (to see the "archetypical" apperance of these *componen
 
 | Student name | Quality | UI element |
 |--------------|--------------|--------------|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
-|-|-|-|
+| Isaac | - | - |
+| Mia | - | - |
+| Finn | - | - |
+| Erwin | - | - |
+| Miruna | - | - |
+| Antonina | - | - |
+| Enola | - | - |
+| Ye Gon | - | - |
+| Sonia | - | - |
+| Martyna | - | - |
+| Nana | - | - |
+| Nora | - | - |
+| Christina | - | - |
+| Antrea | - | - |
+| Márk | - | - |
+| Francesco | - | - |
+| Jordy | - | - |
+| Gosha | - | - |
+| Adriana | - | - |
 
 <!--
-We'll start by [building a starterkit](https://github.com/francois-gm/go-kabk-y1b/tree/main/09%20-%2020250331%20-%20Assignment%20time).
+We'll start by [building a starterkit]().
 -->
 
 
