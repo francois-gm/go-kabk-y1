@@ -32,29 +32,25 @@ Duration of the presentation: **around 2 minutes** per person.
 
 | Class | Student | Site |
 | -------- | --------------------- | --------------------- |
-| September 8 (class 2) | - | - |
-| September 8 (class 2) | - | - |
-| September 15 (class 3) | - | - |
-| September 15 (class 3) | - | - |
-| September 22 (class 4) | - | - |
-| September 22 (class 4) | - | - |
-| September 29 (class 5) | - | - |
-| September 29 (class 5) | - | - |
-| October 6 (class 6) | - | - |
-| October 6 (class 6) | - | - |
-| October 13 (class 7) | - | - |
-| October 13 (class 7) | - | - |
-| October 27 (class 8) | - | - |
-| October 27 (class 8) | - | - |
-| November 3 (class 9) | - | - |
-| November 3 (class 9) | - | - |
-| November 10 (class 10) | - | - |
-| November 10 (class 10) | - | - |
-| November 17 (class 11) | - | - |
-| November 17 (class 11) | - | - |
-| November 24 (class 12) | - | - |
-| November 24 (class 12) | - | - |
-| December 1 (class 13) | - | - |
+| September 15 (class 3) | Isaac | - |
+| September 15 (class 3) | Miruna | - |
+| September 22 (class 4) | Mia | - |
+| September 22 (class 4) | Finn | - |
+| October 6 (class 6) | Erwin | - |
+| October 6 (class 6) | Antonina | - |
+| October 13 (class 7) | Enola | - |
+| October 13 (class 7) | Ye Gon | - |
+| October 27 (class 8) | Sonia | - |
+| October 27 (class 8) | Martyna | - |
+| November 3 (class 9) | Nana | - |
+| November 3 (class 9) | Nora | - |
+| November 10 (class 10) | Christina | - |
+| November 10 (class 10) | Antrea | - |
+| November 17 (class 11) | Márk | - |
+| November 17 (class 11) | Francesco | - |
+| November 24 (class 12) | Jordy | - |
+| November 24 (class 12) | Gosha | - |
+| December 1 (class 13) | Adriana | - |
 | December 1 (class 13) | - | - |
 | December 8 (class 14) | - | - |
 | December 8 (class 14) | - | - |
