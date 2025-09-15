@@ -32,7 +32,7 @@ do `Command` + `Shift` + `S` while on the page.
 
 See table below:
 
-<!--
+
 
 | | CSS property | Name |
 | -------- | --------  | --------------------- |
@@ -60,7 +60,7 @@ See table below:
 | 18 | `transform` | Gosha |
 | 19 | `overflow` | Adriana |
 
--->
+
 
 <!-- 
 
