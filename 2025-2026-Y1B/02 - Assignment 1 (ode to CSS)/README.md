@@ -43,7 +43,7 @@ See table below:
 | 4 | `filter`, `backdrop-filter` | Erwin |
 | 5 | `box-shadow` | Miruna |
 | **Layout** | | |
-| 6 | `position` | Antonina |
+| 6 | `position` | Tosia |
 | 7 | `display:flex;` | Enola |
 | 8 | `margin`, `padding` | Ye Gon |
 | 9 | `z-index` | Sonia |
