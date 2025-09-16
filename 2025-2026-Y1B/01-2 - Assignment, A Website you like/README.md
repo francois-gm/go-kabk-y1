@@ -32,8 +32,8 @@ Duration of the presentation: **around 2 minutes** per person.
 
 | Class | Student | Site |
 | -------- | --------------------- | --------------------- |
-| September 15 (class 3) | Isaac | - |
-| September 15 (class 3) | Miruna | - |
+| September 15 (class 3) | Isaac | https://gam.onl |
+| September 15 (class 3) | Miruna | https://www.marvis.com |
 | September 22 (class 4) | Mia | - |
 | September 22 (class 4) | Finn | - |
 | October 6 (class 6) | Erwin | - |
