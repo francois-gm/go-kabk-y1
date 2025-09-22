@@ -2,7 +2,7 @@
 
 ## Intro (15min)
 
-- *A website you like* (Mia, Finn, François)
+- *A website you like* (Mia, ~~Finn~~, François)
 
 ## Recap (20min)
 
