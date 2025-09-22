@@ -147,9 +147,9 @@ I will join the conversation for about 15 minutes in each groups.
 
 | Group |
 -------------- |
-| –, –, –, –, – |
-| –, –, –, –, – |
-| –, –, –, –, – |
-| –, –, –, –, – |
+| Isaac, Miruna, Sonia, Christina, Jordy |
+| Mia, Tosia, Martyna, Antrea, Gosha |
+| Finn, Enola, Nana, Márk, Adriana |
+| Erwin, Ye Gon, Nora, Francesco |
 
 [See dedicated page](https://github.com/francois-gm/go-kabk-y1/tree/main/2025-2026-Y1B/02%20-%20Assignment%201%20(ode%20to%20CSS))
