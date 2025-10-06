@@ -136,10 +136,10 @@ Read more:
 ## Time for assignment (small groups) (2h)
 (pre-made small group slots)
 
-| Group |
--------------- |
-| Isaac, Tosia, Nana, Francesco | (25min)
-| Mia, Enola, Nora, Christina | (25min)
-| Finn, Ye Gon, Sonia, Antrea | (25min)
-| Erwin, Miruna, Martyna, Márk | (25min)
-| Jordy, Gosha, Adriana | (20min)
+| Time | Group |
+|-|-------------- |
+| 15h30 | Isaac, Tosia, Nana, Francesco | (25min)
+| 15h55 | Mia, Enola, Nora, Christina | (25min)
+| 16h20 | Finn, Ye Gon, Sonia, Antrea | (25min)
+| 16h55 | Erwin, Miruna, Martyna, Márk | (25min)
+| 17h10 | Jordy, Gosha, Adriana | (20min)
