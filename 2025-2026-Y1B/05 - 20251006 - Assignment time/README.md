@@ -127,6 +127,10 @@ Then:
 - Size: `width`, `height`.
 - More styling properties (what would you like to see?)
 
+Read more:
+
+- [The box model](https://www.w3schools.com/css/css_boxmodel.asp): understand how borders, margin, and padding are calculated.
+
 ## Time for assignment (small groups) (2h)
 (pre-made small group slots)
 
