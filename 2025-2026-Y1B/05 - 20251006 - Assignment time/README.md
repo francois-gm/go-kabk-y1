@@ -31,7 +31,7 @@ Questions:
 
 Bonus:
 
-- What was the most **common** coding "issue" experienced during our last class (guess: it's not really a ~~coding~~ mistake)?
+- What was the most **common** coding "issue" experienced during previous class (guess: it's not really a ~~coding~~ mistake)?
 -->
 
 ## Tutorial: extending on CSS selectors (15min)
@@ -58,7 +58,7 @@ But how does the 'CSS algorithm' actually works?
 - Practice your selectors by [playing the CSS Diner](https://flukeout.github.io) game!
 - ... or play [this other game](https://toolness.github.io/css-selector-game/)
 
-## Tutorial: linking files (self-hosted vs. online, relative vs. absolute)
+## Tutorial: linking files (self-hosted vs. online, relative vs. absolute) (15min)
 
 ### Self-hosted
 
