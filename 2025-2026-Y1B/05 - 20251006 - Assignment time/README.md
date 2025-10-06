@@ -131,12 +131,12 @@ Read more:
 
 - [The box model](https://www.w3schools.com/css/css_boxmodel.asp): understand how borders, margin, and padding are calculated.
 
-## Time for assignment (small groups) (2h)
+## Time for assignment (small groups) (1h30)
 
 | Time | Group |
 |-|-------------- |
-| 15h30 | Isaac, Tosia, Nana, Francesco | (25min)
-| 15h55 | Mia, Enola, Nora, Christina | (25min)
-| 16h20 | Finn, Ye Gon, Sonia, Antrea | (25min)
-| 16h55 | Erwin, Miruna, Martyna, Márk | (25min)
-| 17h10 | Jordy, Gosha, Adriana | (20min)
+| 15h30 | Isaac, Tosia, Nana, Francesco | (20min)
+| 15h55 | Mia, Enola, Nora, Christina | (20min)
+| 16h20 | Finn, Ye Gon, Sonia, Antrea | (20min)
+| 16h55 | Erwin, Miruna, Martyna, Márk | (20min)
+| 17h10 | Jordy, Gosha, Adriana | (15min)
