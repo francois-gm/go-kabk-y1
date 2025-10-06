@@ -58,6 +58,39 @@ But how does the 'CSS algorithm' actually works?
 - Practice your selectors by [playing the CSS Diner](https://flukeout.github.io) game!
 - ... or play [this other game](https://toolness.github.io/css-selector-game/)
 
+## Tutorial: linking files (self-hosted vs. online, relative vs. absolute)
+
+- `./` → Current folder (you can often skip this)
+- `../` → Go *up one folder level* (to the parent folder)
+- `../../` → Go *up two levels*
+- `../../../` → Go *up three levels*, etc.
+
+Common mistakes:
+
+- ❌ Forgetting `../` → the browser looks in the same folder and fails to find the file.
+- ❌ Too many `../` → you go above the root folder, which doesn’t exist.
+- ✅ Always think in “steps”: each `../` goes one folder up.
+
+`/`→ Start from the root of the website.
+
+Example: 
+
+```
+https://example.com/
+```
+
+Doing something like...
+
+```
+<link rel="stylesheet" href="/css/style.css">
+```
+
+then `/css/style.css` means:
+
+`https://example.com/css/style.css`
+
+… even if the page in which the stylesheet link is like `https://example.com/content/subpage/sub-subpage/index.html`
+
 ## Tutorial: layouting basics with CSS (1h)
 
 We start with the blank template that we made in the previous class (download on this page). You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1B/05%20-%2020251006%20-%20Assignment%20time/my-project-template.zip)
