@@ -60,6 +60,12 @@ But how does the 'CSS algorithm' actually works?
 
 ## Tutorial: linking files (self-hosted vs. online, relative vs. absolute)
 
+### Self-hosted
+
+**The files are in your website folder** (you push them online, they are hosted under the url of your project).
+
+#### Relative links
+
 - `./` → Current folder (you can often skip this)
 - `../` → Go *up one folder level* (to the parent folder)
 - `../../` → Go *up two levels*
@@ -90,6 +96,16 @@ then `/css/style.css` means:
 `https://example.com/css/style.css`
 
 … even if the page in which the stylesheet link is like `https://example.com/content/subpage/sub-subpage/index.html`
+
+### Hosted by a third party / online
+
+#### Absolute link
+
+Usually used as external links (point to other websites). Preferably **not used** for images in your website (if the hosting party deletes the images, your website does not display the images anymore).
+
+Example: `<a href="https://www.another-website.com/another-link" target="_blank">Another link</a>`
+
+An absolute link always has the `https://` starting the links, as well as the full domain of the website.
 
 ## Tutorial: layouting basics with CSS (1h)
 
