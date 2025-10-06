@@ -111,7 +111,7 @@ For images files, always prefer the **.jpg** format!
 
 ## Tutorial: layouting basics with CSS (1h)
 
-We start with the blank template that we made in the previous class (download on this page). You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1B/05%20-%2020251006%20-%20Assignment%20time/my-project-template.zip)
+We start with the blank template that we made in the previous class (download on this page). You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1B/05%20-%2020251006%20-%20Assignment%20time/tutorial-layout/layout-setup.zip)
 
 (click on the three dots button `...` on the top right of your screen and then `download`)
 
