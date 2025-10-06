@@ -9,7 +9,7 @@
 - Guess tutor class with [Doriane Timmermans](https://ungual.digital).
 - TBC will do a lunch lecture/presentation of their work (12h45-13h30) before that class, 1-2 students to create a visual for that (?)
   
-## Recap (15min)
+## Recap (10min)
 
 Questions:
 
@@ -34,7 +34,7 @@ Bonus:
 - What was the most **common** coding "issue" experienced during previous class (guess: it's not really a ~~coding~~ mistake)?
 -->
 
-## Tutorial: extending on CSS selectors (15min)
+## Tutorial: extending on CSS selectors (10min)
 
 Last class, we saw several ways of writing *CSS selectors* to style our HTML elements.
 
@@ -58,7 +58,7 @@ But how does the 'CSS algorithm' actually works?
 - Practice your selectors by [playing the CSS Diner](https://flukeout.github.io) game!
 - ... or play [this other game](https://toolness.github.io/css-selector-game/)
 
-## Tutorial: linking files (self-hosted vs. online, relative vs. absolute) (15min)
+## Tutorial: linking files (self-hosted vs. online, relative vs. absolute) (10min)
 
 ### Self-hosted
 
@@ -107,6 +107,8 @@ Example: `<a href="https://www.another-website.com/another-link" target="_blank"
 
 An absolute link always has the `https://` starting the links, as well as the full domain of the website.
 
+For images files, always prefer the **.jpg** format!
+
 ## Tutorial: layouting basics with CSS (1h)
 
 We start with the blank template that we made in the previous class (download on this page). You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1B/05%20-%2020251006%20-%20Assignment%20time/my-project-template.zip)
@@ -134,3 +136,10 @@ Read more:
 ## Time for assignment (small groups) (2h)
 (pre-made small group slots)
 
+| Group |
+-------------- |
+| Isaac, Tosia, Nana, Francesco | (25min)
+| Mia, Enola, Nora, Christina | (25min)
+| Finn, Ye Gon, Sonia, Antrea | (25min)
+| Erwin, Miruna, Martyna, Márk | (25min)
+| Jordy, Gosha, Adriana | (20min)
