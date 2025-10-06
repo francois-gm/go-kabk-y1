@@ -135,8 +135,8 @@ Read more:
 
 | Time | Group |
 |-|-------------- |
-| 15h30 | Isaac, Tosia, Nana, Francesco | (20min)
-| 15h55 | Mia, Enola, Nora, Christina | (20min)
-| 16h20 | Finn, Ye Gon, Sonia, Antrea | (20min)
-| 16h55 | Erwin, Miruna, Martyna, Márk | (20min)
-| 17h10 | Jordy, Gosha, Adriana | (15min)
+| 15min | Isaac, Tosia, Nana, Francesco |
+| 15min | Mia, Enola, Nora, Christina |
+| 15min | Finn, Ye Gon, Sonia, Antrea |
+| 15min | Erwin, Miruna, Martyna, Márk |
+| 15min | Jordy, Gosha, Adriana |
