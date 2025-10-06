@@ -13,7 +13,6 @@
 
 Questions:
 
-<!--
 - Why would one wants to add some `CSS` in project / what can CSS bring more to a `HTML` project?
 - Name three ways to add CSS styles in an HTML document. Can you tell us the plus and minuses of each method?
 - What is the "cascade"?
@@ -32,7 +31,6 @@ Questions:
 Bonus:
 
 - What was the most **common** coding "issue" experienced during previous class (guess: it's not really a ~~coding~~ mistake)?
--->
 
 ## Tutorial: extending on CSS selectors (10min)
 
