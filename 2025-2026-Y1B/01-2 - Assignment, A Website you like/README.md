@@ -35,23 +35,25 @@ Duration of the presentation: **around 2 minutes** per person.
 | September 15 (class 3) | Isaac | https://gam.onl |
 | September 15 (class 3) | Miruna | https://www.marvis.com |
 | September 22 (class 4) | Mia | https://everynoise.com |
-| September 22 (class 4) | Finn | - |
-| October 6 (class 6) | Erwin | - |
-| October 6 (class 6) | Antonina | - |
-| October 13 (class 7) | Enola | - |
-| October 13 (class 7) | Ye Gon | - |
-| October 27 (class 8) | Sonia | - |
-| October 27 (class 8) | Martyna | - |
+| September 22 (class 4) | - | - |
+| October 6 (class 6) | - | - |
+| October 6 (class 6) | - | - |
+| October 13 (class 7) | Finn | - |
+| October 13 (class 7) | Erwin | - |
+| October 13 (class 7) | Antonina | - |
+| October 27 (class 8) | Enola | - |
+| October 27 (class 8) | Ye Gon | - |
+| November 3 (class 9) | Sonia | - |
+| November 3 (class 9) | Martyna | - |
 | November 3 (class 9) | Nana | - |
-| November 3 (class 9) | Nora | - |
+| November 10 (class 10) | Nora | - |
 | November 10 (class 10) | Christina | - |
-| November 10 (class 10) | Antrea | - |
+| November 17 (class 11) | Antrea | - |
 | November 17 (class 11) | Márk | - |
-| November 17 (class 11) | Francesco | - |
+| November 24 (class 12) | Francesco | - |
 | November 24 (class 12) | Jordy | - |
-| November 24 (class 12) | Gosha | - |
+| December 1 (class 13) | Gosha | - |
 | December 1 (class 13) | Adriana | - |
-| December 1 (class 13) | - | - |
 | December 8 (class 14) | - | - |
 | December 8 (class 14) | - | - |
 | December 15 (class 15) | - | - |
