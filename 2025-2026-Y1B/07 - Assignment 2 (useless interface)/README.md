@@ -65,9 +65,9 @@ Design System References (to see the "archetypical" apperance of these *componen
 - [Olia Lialina's "A Vernacular Web 2 (2017)"](http://contemporary-home-computing.org/vernacular-web-2/)
 - [Olia Lialina's "A Vernacular Web 3 / Prof. Dr. Style (2010)"](http://contemporary-home-computing.org/prof-dr-style/)
 - [Olia Lialina on "affordances"](http://contemporary-home-computing.org/affordance/)
---> 
+
 ## Getting started
-<!--
+
 ### List of qualities
 
 | — | — | — | — | — | — |
@@ -99,9 +99,9 @@ Design System References (to see the "archetypical" apperance of these *componen
 |  |  | Captcha (verification input) | Confirmation (dialog) |
 |  |  | Conditional field | Error page |
 |  |  | Tags (and categories) | Accordion (expandable section) |
--->
+
 ### Student / word / UI element pairings
-<!--
+
 | Student name | Quality | UI element |
 |--------------|--------------|--------------|
 | Isaac | - | - |
@@ -123,8 +123,7 @@ Design System References (to see the "archetypical" apperance of these *componen
 | Jordy | - | - |
 | Gosha | - | - |
 | Adriana | - | - |
--->
-<!--
+
 We'll start by [building a starterkit]().
 -->
 
