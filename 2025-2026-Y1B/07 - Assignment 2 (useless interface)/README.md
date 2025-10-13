@@ -89,12 +89,12 @@ Design System References (to see the "archetypical" apperance of these *componen
 | Hamburger (button and menu) | Gallery | Button | Modal (dialog) |
 | Sidebar | Carousel (image slider) | Input fields (text, email, password) | Toast (snackbar) |
 | Breadcrumbs | Lightbox (zoom in) | Select (dropdown) | Tooltip |
-| Pagination | Hero (section / banner) | Checkbox (and radio buttons) |
+| Pagination | Hero (section / banner) | Checkbox (and radio buttons) | Popup |
 | Tabs | Cards (content) | Toggle (switch) | Alert (notification) |
 | Navigation bar | Cards (hoverable/preview) | File Upload | Loader |
 | Anchor (links) |  | Input (with validation / error Messages) | Ratings |
 | Scroll-to-Top (button) |  | Range (number slider) | Progress indicator |
-|  | Popup | Captcha (verification input) | Confirmation (dialog) |
+|  |  | Captcha (verification input) | Confirmation (dialog) |
 |  |  | Conditional field | Error page |
 |  |  | Tags (and categories) | Accordion (expandable section) |
 
