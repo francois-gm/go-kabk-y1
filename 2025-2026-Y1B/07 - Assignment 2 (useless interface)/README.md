@@ -122,7 +122,7 @@ Design System References (to see the "archetypical" apperance of these *componen
 | Gosha | Compassionate | Ratings |
 | Adriana | Timeless | Toast (snackbar) |
 
-We'll start by [building a starterkit]().
+We'll start by [using a starterkit](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1B/07%20-%20Assignment%202%20(useless%20interface)/my-project-template.zip).
 
 
 
