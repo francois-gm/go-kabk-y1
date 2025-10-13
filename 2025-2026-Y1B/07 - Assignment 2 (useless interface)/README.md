@@ -94,7 +94,7 @@ Design System References (to see the "archetypical" apperance of these *componen
 | Navigation bar | Cards (hoverable/preview) | File Upload | Loader |
 | Anchor (links) |  | Input (with validation / error Messages) | Ratings |
 | Scroll-to-Top (button) |  | Range (number slider) | Progress indicator |
-|  |  | Captcha (verification input) | Confirmation (dialog) |
+|  | Popup | Captcha (verification input) | Confirmation (dialog) |
 |  |  | Conditional field | Error page |
 |  |  | Tags (and categories) | Accordion (expandable section) |
 
@@ -102,25 +102,25 @@ Design System References (to see the "archetypical" apperance of these *componen
 
 | Student name | Quality | UI element |
 |--------------|--------------|--------------|
-| Isaac | - | - |
-| Mia | - | - |
-| Finn | - | - |
-| Erwin | - | - |
-| Miruna | - | - |
-| Antonina | - | - |
-| Enola | - | - |
-| Ye Gon | - | - |
-| Sonia | - | - |
-| Martyna | - | - |
-| Nana | - | - |
-| Nora | - | - |
-| Christina | - | - |
-| Antrea | - | - |
-| Márk | - | - |
-| Francesco | - | - |
-| Jordy | - | - |
-| Gosha | - | - |
-| Adriana | - | - |
+| Isaac | Minimalist | Loader |
+| Mia | Fleeting | Input fields (text, email, password) |
+| Finn | Arbritrary | Breadcrumbs |
+| Erwin | Classic | Cards (content) |
+| Miruna | Euphoric | Select (dropdown) |
+| Tosia | Intrusive | Carousel (image slider) |
+| Enola | Gentle | Hero (section / banner) |
+| Ye Gon | Dry | Error page |
+| Sonia | Saturated | Navigation bar |
+| Martyna | Expansive | Gallery |
+| Nana | Heavy | Checkbox (and radio buttons) |
+| Nora | Joyful | Tooltip |
+| Christina | Tasteless | Popup |
+| Antrea | Nostalgic | Pagination |
+| Márk | Luminous | Tags (and categories) |
+| Francesco | Vernacular | Button |
+| Jordy | Delicate | Input (with validation / error Messages) |
+| Gosha | Compassionate | Ratings |
+| Adriana | Timeless | Toast (snackbar) |
 
 We'll start by [building a starterkit]().
 
