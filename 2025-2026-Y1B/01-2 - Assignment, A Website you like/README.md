@@ -38,9 +38,9 @@ Duration of the presentation: **around 2 minutes** per person.
 | September 22 (class 4) | - | - |
 | October 6 (class 6) | - | - |
 | October 6 (class 6) | - | - |
-| October 13 (class 7) | Finn | - |
-| October 13 (class 7) | Erwin | - |
-| October 13 (class 7) | Antonina | - |
+| October 13 (class 7) | Finn | https://web.archive.org/web/20150316034049/https://www.sortieenmer.com/ |
+| October 13 (class 7) | Erwin | https://pointerpointer.com |
+| October 13 (class 7) | Antonina | https://sandboxels.r74n.com/ |
 | October 27 (class 8) | Enola | - |
 | October 27 (class 8) | Ye Gon | - |
 | November 3 (class 9) | Sonia | - |
