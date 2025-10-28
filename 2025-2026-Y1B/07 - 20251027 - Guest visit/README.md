@@ -6,6 +6,6 @@
 
 ### Intro (15min)
 
-- *A website you like* (Enola, Ye Gon)
+- *A website you like* (-, -)
   
 ## Outcomes
