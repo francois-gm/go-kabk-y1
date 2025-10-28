@@ -38,16 +38,18 @@ Duration of the presentation: **around 2 minutes** per person.
 | September 22 (class 4) | - | - |
 | October 6 (class 6) | - | - |
 | October 6 (class 6) | - | - |
-| October 13 (class 7) | Finn | - |
-| October 13 (class 7) | Erwin | - |
-| October 13 (class 7) | Antonina | - |
-| October 27 (class 8) | Enola | - |
-| October 27 (class 8) | Ye Gon | - |
+| October 13 (class 7) | Finn | https://web.archive.org/web/20150316034049/https://www.sortieenmer.com/ |
+| October 13 (class 7) | Erwin | https://pointerpointer.com |
+| October 13 (class 7) | Antonina | https://sandboxels.r74n.com/ |
+| October 27 (class 8) | - | - |
+| October 27 (class 8) | - | - |
+| November 3 (class 9) | Enola | - |
+| November 3 (class 9) | Ye Gon | - |
 | November 3 (class 9) | Sonia | - |
-| November 3 (class 9) | Martyna | - |
-| November 3 (class 9) | Nana | - |
+| November 10 (class 10) | Martyna | - |
+| November 10 (class 10) | Nana | - |
 | November 10 (class 10) | Nora | - |
-| November 10 (class 10) | Christina | - |
+| November 17 (class 11) | Christina | - |
 | November 17 (class 11) | Antrea | - |
 | November 17 (class 11) | Márk | - |
 | November 24 (class 12) | Francesco | - |
