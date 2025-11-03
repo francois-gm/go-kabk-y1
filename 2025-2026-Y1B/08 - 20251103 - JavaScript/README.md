@@ -133,6 +133,17 @@ else{
 - Create a JS random color generator
 - Create a toggler button (dark mode, and or a modal menu)
 
-## Pseudo-code examples
+## Class time to work on the *Useless interface* assignment (1h30)
 
-Look at [Pseudo-code](https://en.wikipedia.org/wiki/Pseudocode), [Structured English](https://en.wikipedia.org/wiki/Structured_English), [Natural-language programming](https://en.wikipedia.org/wiki/Natural-language_programming), [esoteric language](https://en.wikipedia.org/wiki/Esoteric_programming_language) (2h)
+In **small groups**, present your `interface` element to the other members of the group. Provide a few examples (visual and also how it’s coded). You each have **15 minutes** to present this to your small group peers.
+
+I will join the conversation for about 15 minutes in each groups.
+
+| Group |
+-------------- |
+| Isaac, Tosia, Nana, Christina, Francesco |
+| Mia, Enola, Nora, Antrea, Jordy |
+| Finn, Ye Gon, Sonia, Márk, Gosha |
+| Erwin, Miruna, Martyna, Adriana |
+
+[See dedicated page](https://github.com/francois-gm/go-kabk-y1/tree/main/2025-2026-Y1B/07%20-%20Assignment%202%20(useless%20interface))
