@@ -2,7 +2,7 @@
 
 ## Intro (15min)
 
-- *A website you like* (Martyna, Nana, Nora ,François)
+- *A website you like* (Martyna, Christina, Nora ,François)
   
 ## *Useless interface* assignment time, sign-up sheet (3h30)
 (sign-up individual slots)
