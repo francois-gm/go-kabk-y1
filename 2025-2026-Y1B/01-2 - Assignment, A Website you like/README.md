@@ -46,10 +46,10 @@ Duration of the presentation: **around 2 minutes** per person.
 | November 3 (class 9) | Enola | https://neal.fun/perfect-circle/ |
 | November 3 (class 9) | Ye Gon | https://pippinbarr.com/itisasifyouweremakinglove/ |
 | November 3 (class 9) | Sonia | https://www.patatap.com |
-| November 10 (class 10) | Martyna | - |
-| November 10 (class 10) | Nana | - |
-| November 10 (class 10) | Nora | - |
-| November 17 (class 11) | Christina | - |
+| November 10 (class 10) | Martyna | https://thehtml.review/04/ |
+| November 10 (class 10) | Nora | https://zinecoop.org/en |
+| November 10 (class 10) | Christina | https://internetphonebook.net |
+| November 17 (class 11) | Nana | - |
 | November 17 (class 11) | Antrea | - |
 | November 17 (class 11) | Márk | - |
 | November 24 (class 12) | Francesco | - |
