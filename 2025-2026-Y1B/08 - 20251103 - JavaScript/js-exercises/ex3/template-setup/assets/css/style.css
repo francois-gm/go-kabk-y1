@@ -51,53 +51,14 @@ ul{
 	padding:0;
 }
 
-/* is light mode */
-/*
-body{
-	color: black;
-	background-color: white;
-}
-
-body button{
-	color: black;
-	background-color: white;
-	border-color: black;
-}
-
-body button.btn-dark-mode{
-	color: white;
-	background-color: black;
-	border-color: white;
-}
-
-body span.btn-modal-text-lightmode{
-	display: none;
-}
-
-body span.btn-modal-text-darkmode{
-	display: block;
-}
-*/
 /* is dark mode */
 
 
 
 /* is closed */
-/*
-nav.menu span.btn-modal-text-close{
-	display: none;
-}
 
-nav.menu span.btn-modal-text-open{
-	display: block;
-}
 
-div.modal{
-	display: none;
-}
-*/
+
 /* is opened */
-
-
 
 

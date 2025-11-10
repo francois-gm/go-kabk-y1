@@ -51,33 +51,6 @@ ul{
 	padding:0;
 }
 
-/* is light mode */
-
-body{
-	color: black;
-	background-color: white;
-}
-
-body button{
-	color: black;
-	background-color: white;
-	border-color: black;
-}
-
-body button.btn-dark-mode{
-	color: white;
-	background-color: black;
-	border-color: white;
-}
-
-body span.btn-modal-text-lightmode{
-	display: none;
-}
-
-body span.btn-modal-text-darkmode{
-	display: block;
-}
-
 /* is dark mode */
 
 body.dark-mode{
@@ -85,52 +58,48 @@ body.dark-mode{
 	background-color: black;
 }
 
-body.dark-mode button{
-	color: white;
-	background-color: black;
-	border-color: white;
-}
-
-body.dark-mode button.btn-dark-mode{
+body.dark-mode .btn-dark-mode{
 	color: black;
 	background-color: white;
 	border-color: black;
 }
 
-body.dark-mode span.btn-modal-text-lightmode{
+body.dark-mode .btn-modal-text-lightmode{
 	display: block;
 }
 
-body.dark-mode span.btn-modal-text-darkmode{
+body.dark-mode .btn-modal-text-darkmode{
 	display: none;
 }
 
 /* is closed */
 
-nav.menu span.btn-modal-text-close{
+nav.menu div.modal{
 	display: none;
 }
 
-nav.menu span.btn-modal-text-open{
+nav.menu .btn-modal-text-close{
+	display: none;
+}
+
+nav.menu .btn-modal-text-open{
 	display: block;
-}
-
-div.modal{
-	display: none;
 }
 
 /* is opened */
 
-nav.menu.modal-is-open span.btn-modal-text-close{
-	display: block;
-}
-
-nav.menu.modal-is-open span.btn-modal-text-open{
-	display: none;
-}
-
 nav.menu.modal-is-open div.modal{
 	display: block;
 }
+
+nav.menu.modal-is-open .btn-modal-text-close{
+	display: block;
+}
+
+nav.menu.modal-is-open .btn-modal-text-open{
+	display: none;
+}
+
+
 
 
