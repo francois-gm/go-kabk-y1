@@ -5,7 +5,7 @@
 - *A website you like* (Nana, Antrea, Márk, François)
 
 ## *Ode to CSS*, students that didn't present yet present their final project (0h30)
-## *Useless Interface*, each present their final project (1h45)
+## *Useless Interface*, each present their final project (1h30)
 
 ### a) Put your website online (30min)
 
