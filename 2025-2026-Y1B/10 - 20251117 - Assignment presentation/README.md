@@ -2,9 +2,9 @@
 
 ## Intro (15min)
 
-- *A website you like* (–, –, François)
+- *A website you like* (Nana, Antrea, Márk, François)
 
-## *Ode to CSS*, students that didn't present yet present their final project (1h45)
+## *Ode to CSS*, students that didn't present yet present their final project (0h30)
 ## *Useless Interface*, each present their final project (1h45)
 
 ### a) Put your website online (30min)
@@ -16,22 +16,19 @@
 
 Add your url to the list.
 
-### b) Presentation (1h15)
+### b) Presentation (1h)
 
-To be determined
 
-<!--
-- You have **two minutes** to present the website of one of your classmate (so not your website).
+- As in the first assignment, you have **two minutes** to present the website of one of your classmate (so not your website).
 - First, do a *test drive* of the website. *Click, resize, scroll*…
 - **How does the website works?** Functionality? Aesthetics? Conceptual? **Describe it in a few sentences**.
 
 Then:
 
-- **Guess the CSS property** (class can help if not easy to guess, too).
+- **Name the interaction/word pair **
+- Explain what elements from the project (design choices, functionality) relate to the words?
 - What does this project make you think of?
 - Give a **positive quality** / something you **appreciate** in the website, and tell us **why**.
-- Think of the challenges / difficulties of working with this CSS property? How was this addressed?
-- If you would have to work on this website, are there elements you could either fine-tune or push further? Think functional, aesthetical, conceptual.
+- Think of the challenges / difficulties of working with this interface/word pairing? How was this addressed?
 
-You will **present the website** of the **person after the person after you** on the list (so second-after your name).
--->
+You will **present the website** of the **person before you** on the list.
