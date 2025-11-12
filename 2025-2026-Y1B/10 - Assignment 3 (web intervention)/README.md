@@ -52,6 +52,7 @@ Read more at [What are extensions](https://developer.mozilla.org/en-US/docs/Mozi
 - [Oops all Elons!](https://chromewebstore.google.com/detail/oops-all-elons/eapgijmimbcjmkjcnmngngdjhaimjhdg?hl=en&authuser=0): *changes all facebook user's images and names for Elon Musk*
 - [Choice language](https://chromewebstore.google.com/detail/choice-language/bfpnbfcglkogjgceechnidfcmpchobmd): *replaces the term "pro-life" by "anti-choice" on any websites*
 - [The Revolving Internet](https://therevolvinginternet.com/): *makes the website rotates on itself (uses iframes)*
+- [Dark patterns (YT video)](https://www.youtube.com/watch?v=kxkrdLI6e6M)
 
 ### Things to keep in mind
 
