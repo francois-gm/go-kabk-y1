@@ -25,7 +25,7 @@ Add your url to the list.
 
 Then:
 
-- **Name the interaction/word pair **
+- **Name the interaction/word pair**
 - Explain what elements from the project (design choices, functionality) relate to the words?
 - What does this project make you think of?
 - Give a **positive quality** / something you **appreciate** in the website, and tell us **why**.
