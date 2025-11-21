@@ -4,7 +4,7 @@
 
 - *A website you like* (Francesco, Jordy, François)
 
-## remaining *CSS* and *Interface* projects presentation (15min)
+## Remaining *CSS* and *Interface* projects presentation (15min)
 
 ## Tutorial: web extension starter kit (1h30)
 
