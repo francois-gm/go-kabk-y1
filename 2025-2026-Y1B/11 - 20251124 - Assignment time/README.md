@@ -4,7 +4,7 @@
 
 - *A website you like* (Francesco, Jordy, François)
 
-## *Ode to CSS* and *Useless Interface*, students that didn't present yet present their final project (15min)
+## remaining *CSS* and *Interface* projects presentation (15min)
 
 ## Tutorial: web extension starter kit (1h30)
 
