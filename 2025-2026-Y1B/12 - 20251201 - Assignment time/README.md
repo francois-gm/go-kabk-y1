@@ -3,7 +3,7 @@
 ## Intro (20min)
 
 - *A website you like* (Adriana, Gosha, François)
-- Remaining *CSS and *Interface* projects presentation
+- Remaining *CSS* and *Interface* projects presentation
 
 ## Tutorial: web extension, inject basic HTML elements and add eventListeners to the page (1h)
 
