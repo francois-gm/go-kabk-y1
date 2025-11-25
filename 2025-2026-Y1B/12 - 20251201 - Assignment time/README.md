@@ -5,7 +5,7 @@
 - *A website you like* (Adriana, Gosha, François)
 - Remaining *CSS* and *Interface* projects presentation
 
-## Tutorial: web extension, inject basic HTML elements and add eventListeners to the page (1h)
+## Tutorial: web extension, inject basic HTML elements and add eventListeners to the page (45min)
 
 - CreateElement, innerHTML.
 - Create a click function that hides text when clicked on it.
