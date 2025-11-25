@@ -3,7 +3,6 @@
 ## Intro (15min)
 
 - *A website you like* (Adriana, Gosha, François)
-- Remaining *CSS* and *Interface* projects presentation
 
 ## Tutorial: web extension, inject HTML elements and add functions to the page (45min)
 
