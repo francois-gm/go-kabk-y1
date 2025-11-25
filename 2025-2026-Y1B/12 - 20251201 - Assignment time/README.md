@@ -1,6 +1,6 @@
 # Class 12, 2025/12/01
 
-## Intro (20min)
+## Intro (15min)
 
 - *A website you like* (Adriana, Gosha, François)
 - Remaining *CSS* and *Interface* projects presentation
