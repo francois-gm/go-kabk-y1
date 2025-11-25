@@ -2,7 +2,7 @@
 
 ## Intro (15min)
 
-- *A website you like* (–, –, François)
+- Remaining *CSS* and *Interface* projects presentation
 
 ## Template for presentation page (30min)
 
