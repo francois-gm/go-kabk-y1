@@ -4,8 +4,6 @@
 
 - *A website you like* (Francesco, Jordy, François)
 
-## Remaining *CSS* and *Interface* projects presentation (15min)
-
 ## Tutorial: web extension starter kit (1h30)
 
 1) Create a folder named `my-extension-project`.
