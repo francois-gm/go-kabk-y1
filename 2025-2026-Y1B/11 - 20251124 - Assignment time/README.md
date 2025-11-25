@@ -1,6 +1,12 @@
 # Class 11, 2025/11/24
 
-## Tutorial: web extension starter kit (2h)
+## Intro (15min)
+
+- *A website you like* (Francesco, Jordy, François)
+
+## Remaining *CSS* and *Interface* projects presentation (15min)
+
+## Tutorial: web extension starter kit (1h30)
 
 1) Create a folder named `my-extension-project`.
 2) Create your `manifest.json` file inside your project folder.
