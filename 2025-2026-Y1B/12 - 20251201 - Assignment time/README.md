@@ -10,7 +10,7 @@
 - CreateElement, innerHTML.
 - Create a click function that hides text when clicked on it.
 
-## Tutorial: web extension, filter and modify text with JavaScript (1h)
+## Tutorial: web extension, filter and modify text with JavaScript (1h15)
 
 - Replace one element of the page with text.
 - Replace multiple elements with text (using a `forEach` loop).
