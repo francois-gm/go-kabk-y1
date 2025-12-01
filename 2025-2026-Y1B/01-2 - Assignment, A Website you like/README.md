@@ -54,8 +54,8 @@ Duration of the presentation: **around 2 minutes** per person.
 | November 17 (class 11) | Márk | https://haveagood.today |
 | November 24 (class 12) | Francesco | https://radio.garden |
 | November 24 (class 12) | Jordy | https://jmail.world |
-| December 1 (class 13) | Gosha | - |
-| December 1 (class 13) | Adriana | - |
+| December 1 (class 13) | Gosha | http://w3bcrash.com |
+| December 1 (class 13) | Adriana | https://intertapes.net |
 | December 8 (class 14) | - | - |
 | December 8 (class 14) | - | - |
 | December 15 (class 15) | - | - |
