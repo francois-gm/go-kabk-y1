@@ -17,7 +17,9 @@ textCollection.forEach(text => {
 // Loop through all image elements
 imgCollection.forEach(img => {
   
-  img.addEventListener("click", function() {
+  img.addEventListener("click", function(event) {
+
+    event.preventDefault();
 
     // Ensure opacity is set to 1 initially (if not already set)
     if (img.style.opacity === "") {
