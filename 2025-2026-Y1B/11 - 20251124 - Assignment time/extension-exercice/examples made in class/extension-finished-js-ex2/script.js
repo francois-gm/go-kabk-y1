@@ -17,21 +17,27 @@ textCollection.forEach(text => {
 // Loop through all image elements
 imgCollection.forEach(img => {
   
+  // for each element, on click, do stuff
   img.addEventListener("click", function(event) {
 
+    // cancels the default click behaviour (if click on a link)
     event.preventDefault();
 
-    // Ensure opacity is set to 1 initially (if not already set)
+    // DO STUFF
+    // In this example, the opacity goes down 10% every time you click on an image
+
+    // First, ensure opacity is set to 1 initially (if not already set)
     if (img.style.opacity === "") {
       img.style.opacity = 1;
     }
 
+    // Then, declare a variable of the current opacity of the image
     let currentOpacity = parseFloat(img.style.opacity);
 
-    // Decrease opacity by 0.1, ensuring it doesn't go below 0
+    // Then, decrease the variable value of opacity by 0.1, while ensuring it doesn't go below 0
     currentOpacity -= 0.1;
 
-    // Set the new opacity, ensuring it doesn't go below 0
+    // Finally, set the new opacity with our variable, ensuring it doesn't go below 0
     img.style.opacity = Math.max(0, currentOpacity);
 
   });
