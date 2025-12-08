@@ -1,9 +1,5 @@
 # Class 13, 2025/12/08
 
-## Intro (15min)
-
-- Remaining *CSS* and *Interface* projects presentation
-
 ## Template for presentation page (30min)
 
 See file `my-project-template.zip` within that page.
