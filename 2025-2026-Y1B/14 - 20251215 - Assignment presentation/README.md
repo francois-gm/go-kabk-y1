@@ -28,8 +28,9 @@ Points you can include in your sentence:
 - What could work better?
 - What is the overall experience?
 
-
 Write your sentences in [this writing pad](https://pad.xpub.nl/p/2526_Y1B_peer-reviews).
+
+(see spreadsheet for project URLs)
 
 #### 2) Adding reviews to your project (30min)
 
@@ -42,8 +43,6 @@ Look again at what was written under your name in the writing pad. Pick up **two
 You will present your extension to the class. Show how it works.
 
 Then read out these three sentences.
-
-(see spreadsheet for URLs)
 
 ## Archiving your projects
 
