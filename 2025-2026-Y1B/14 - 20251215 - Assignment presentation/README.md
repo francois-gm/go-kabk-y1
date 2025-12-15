@@ -1,7 +1,5 @@
 # Class 14, 2025/12/15
 
-## Intro (15min)
-
 ## *Web intervention*, each present their final project (2h)
 
 ### a) Put your web extension online (30min)
