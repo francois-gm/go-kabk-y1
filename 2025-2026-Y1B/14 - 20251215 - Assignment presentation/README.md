@@ -31,22 +31,13 @@ Points you can include in your sentence:
 
 Write your sentences in [this writing pad](https://pad.xpub.nl/p/2526_Y1B_peer-reviews).
 
--->
+#### 2) Adding reviews to your project (30min)
 
-<!--https://pad.xpub.nl/p/2525_Y1B_peer-reviews
-[this writing pad](https://pad.xpub.nl/p/Y1A_peer_reviews).
-[this writing pad](https://pad.xpub.nl/p/2525_Y1B_peer-reviews).
--->
-
-<!--
-
-#### 2) Adding reviews to your project
-
---
+First, look at what has been written under your name in the writing pad. Replace your empty reviews by selected parts of that written content, and re-upload your project (with an updated URL).
 
 #### 3) Showcasing your website (60min)
 
-First, look at what has been written under your name in the writing pad. Pick up **two** sentences that you think summarize the best your project.
+Look again at what was written under your name in the writing pad. Pick up **two** sentences that you think summarize the best your project.
 
 You will present your extension to the class. Show how it works.
 
@@ -54,12 +45,8 @@ Then read out these three sentences.
 
 (see spreadsheet for URLs)
 
-## Archiving your projects (30min)
+## Archiving your projects
 
 Your exercices and projects done during the semester can be visited at: https://kabk.francoisgm.com/25-26/y1/b/
 
-
-
 Later on this week I will archive your last assignment and will add these to the url above.
-
--->
