@@ -2,32 +2,7 @@
 
 ## Intro (20min)
 
-- *A website you like* (Isaac, Miruna, François)
-
-## Exercise, mapping elements (20min)
-
-Based on the analogue code previously written. You are assigned someone else's previous *XML snapshot*.
-
-- Draw a the structure of all elements as boxes on a piece of paper.
-- Annotate each box by their tag name.
-- Take a picture and/or scan this.
-- Add it into the Teams folder corresponding to the right code.
-
-## Presentation of exercises (20min)
-
-Everybody present their *XML snapshots* exercice (picture + scan of analogue code + box).
-
-## Tutorial: Visual Studio (15min)
-
-Install VS code + set up a document (and do’s and don’t)
-
-- Download and install: https://code.visualstudio.com <br>
-- Set `word wrap` option on by going to `view` -> `word wrap`.
-
-Shortcut for HTML template:
-
-- When creating a new document, either select `HTML`, or if creating a new 'text file', then click on `choose language` and select (by typing) `html`.
-- `Shift` + `1` and `Enter` to auto-populate HTML Doctype in HTML.
+- *A website you like* (Laura, Anastasia, Anita)
 
 ## Tutorial: A clean working document (15min)
 
