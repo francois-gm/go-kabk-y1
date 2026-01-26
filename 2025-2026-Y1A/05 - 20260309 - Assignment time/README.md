@@ -128,6 +128,8 @@ Read more:
 
 ## Time for assignment (small groups) (1h30)
 
+<!--
+
 | Time | Group |
 |-|-------------- |
 | 15min | Isaac, Tosia, Nana, Francesco |
@@ -135,3 +137,5 @@ Read more:
 | 15min | Finn, Ye Gon, Sonia, Antrea |
 | 15min | Erwin, Miruna, Martyna, Márk |
 | 15min | Jordy, Gosha, Adriana |
+
+-->
