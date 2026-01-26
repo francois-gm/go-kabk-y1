@@ -1,14 +1,16 @@
-# Class 5, 2025/10/06
+# Class 5, 2026/03/09
 
 ## Intro (15min)
 
-- *A website you like* (Finn, Erwin, Antonina, François)
+- *A website you like* (Alex, Szófia, Preslav)
 
-## About Monday October 27th's workshop…
+## About Monday March 16th's workshop…
 
+<!--
 - Guess tutor class with [Doriane Timmermans](https://ungual.digital).
 - TBC will do a lunch lecture/presentation of their work (12h45-13h30) before that class, 1-2 students to create a visual for that (?)
-  
+-->
+
 ## Recap (10min)
 
 Questions:
