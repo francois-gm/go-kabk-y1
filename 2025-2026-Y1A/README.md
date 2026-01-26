@@ -27,8 +27,9 @@ Small presentation assignment
 1h30-ish: exercices and class time for assignment
 
 **Teaching methods, assessment methods,
-competencies, etc**:  [See ECTS table here](https://denhaagkabk-my.sharepoint.com/:x:/g/personal/f_girard-meunier_kabk_nl/EZyFrnFEOdFBtG2cfrBLhGYB4j_aEfZXs8XxJUmyKYhLog?e=mcim5P).
-See also: [Assessment of coding competencies](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/2526_Y1-coding_competencies.pdf)
+competencies, etc**:
+- See [ECTS table here](https://denhaagkabk-my.sharepoint.com/:x:/g/personal/f_girard-meunier_kabk_nl/EZyFrnFEOdFBtG2cfrBLhGYB4j_aEfZXs8XxJUmyKYhLog?e=mcim5P).
+- See also [assessment of coding competencies document](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/2526_Y1-coding_competencies.pdf)
 
 <img src="improvement.jpg" width="350px">
 
