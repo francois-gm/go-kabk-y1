@@ -42,23 +42,26 @@ See table below:
 | 3 | `border` | - |
 | 4 | `filter`, `backdrop-filter` | - |
 | 5 | `box-shadow` | - |
+| 6 | `color` | - |
+| 7 | `mix-blend-mode` | – |
 | **Layout** | | |
-| 6 | `position` | - |
-| 7 | `display:flex;` | - |
-| 8 | `margin`, `padding` | - |
-| 9 | `z-index` | - |
+| 8 | `position` | - |
+| 9 | `display:flex;` | - |
+| 10 | `margin`, `padding` | - |
+| 11 | `z-index` | - |
+| 12 | CSS size units (`px`, `%`, `vw`, `vh`) | – |
 | **Typography** | | |
-| 10 | `font` (and sub-properties) | - |
-| 11 | `line-height` | - |
-| 12 | `text-decoration` | - |
-| 13 | `letter-spacing`, `word-spacing` | - |
-| 14 | `text-shadow` | - |
+| 13 | `font` (and sub-properties) | - |
+| 14 | `line-height` | - |
+| 15 | `text-decoration` | - |
+| 16 | `letter-spacing`, `word-spacing` | - |
+| 17 | `text-shadow` | - |
 | **Functionality** | | |
-| 15 | `cursor` | - |
-| 16 | `@media` | - |
-| 17 | `transition` | - |
-| 18 | `transform` | - |
-| 19 | `overflow` | - |
+| 18 | `cursor` | - |
+| 19 | `@media` | - |
+| 20 | `transition` | - |
+| 21 | `transform` | - |
+| 22 | `overflow` | - |
 
 
 
