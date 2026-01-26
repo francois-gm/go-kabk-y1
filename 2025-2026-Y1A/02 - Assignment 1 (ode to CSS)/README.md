@@ -12,15 +12,15 @@
 
 Schedule:
 
-- **15 September**: introduction of the assignment
-- **22 September**: class presentation of your property (2h)
-- **29 September**: individual follow-up on the assignment (4h)
-- **6 October**: small group follow-up on the assignment (2h)
-- **13 October**: delivery and presentation of the assignment in class
+- **09 February**: introduction of the assignment
+- **23 February**: class presentation of your property (2h)
+- **02 March**: individual follow-up on the assignment (4h)
+- **09 March**: small group follow-up on the assignment (2h)
+- **23 March**: delivery and presentation of the assignment in class
 
 ### You can use the starting template we made together before
 
-You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1B/02%20-%20Assignment%201%20(ode%20to%20CSS)/my-project-template.zip)
+You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/02%20-%20Assignment%201%20(ode%20to%20CSS)/my-project-template.zip)
 
 (click on the three dots button `...` on the top right of your screen and then `download`)
 
@@ -37,28 +37,28 @@ See table below:
 | | CSS property | Name |
 | -------- | --------  | --------------------- |
 | **Decoration**  | | |
-| 1 | `background` (and sub-properties) | Isaac |
-| 2 | `opacity` | Mia |
-| 3 | `border` | Finn |
-| 4 | `filter`, `backdrop-filter` | Erwin |
-| 5 | `box-shadow` | Miruna |
+| 1 | `background` (and sub-properties) | - |
+| 2 | `opacity` | - |
+| 3 | `border` | - |
+| 4 | `filter`, `backdrop-filter` | - |
+| 5 | `box-shadow` | - |
 | **Layout** | | |
-| 6 | `position` | Tosia |
-| 7 | `display:flex;` | Enola |
-| 8 | `margin`, `padding` | Ye Gon |
-| 9 | `z-index` | Sonia |
+| 6 | `position` | - |
+| 7 | `display:flex;` | - |
+| 8 | `margin`, `padding` | - |
+| 9 | `z-index` | - |
 | **Typography** | | |
-| 10 | `font` (and sub-properties) | Martyna |
-| 11 | `line-height` | Nana |
-| 12 | `text-decoration` | Nora |
-| 13 | `letter-spacing`, `word-spacing` | Christina |
-| 14 | `text-shadow` | Antrea |
+| 10 | `font` (and sub-properties) | - |
+| 11 | `line-height` | - |
+| 12 | `text-decoration` | - |
+| 13 | `letter-spacing`, `word-spacing` | - |
+| 14 | `text-shadow` | - |
 | **Functionality** | | |
-| 15 | `cursor` | Márk |
-| 16 | `@media` | Francesco |
-| 17 | `transition` | Jordy |
-| 18 | `transform` | Gosha |
-| 19 | `overflow` | Adriana |
+| 15 | `cursor` | - |
+| 16 | `@media` | - |
+| 17 | `transition` | - |
+| 18 | `transform` | - |
+| 19 | `overflow` | - |
 
 
 
