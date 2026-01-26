@@ -1,8 +1,8 @@
-# Class 3, 2025/09/22
+# Class 3, 2026/02/23
 
 ## Intro (15min)
 
-- *A website you like* (Mia, ~~Finn~~, François)
+- *A website you like* (Pepijn, Emily, K)
 
 ## Recap (20min)
 
