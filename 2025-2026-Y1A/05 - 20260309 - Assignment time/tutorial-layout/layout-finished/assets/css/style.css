@@ -1,0 +1,153 @@
+@charset "UTF-8";
+
+/* CSS rules go below */
+
+body{
+  /* try other fonts to show */
+  font-family: "Arial", sans-serif;
+  font-size: 18px;
+}
+
+.site-header {
+  position: relative;
+  /* DO IN STEP 3 (fixed demo)
+  position: fixed;
+  z-index: 9;
+  */
+  width: 100%;
+}
+
+.main-nav {
+  width: 100%;
+  /* DO IN STEP 4 (flex demo)
+  display: flex;
+  justify-content: space-between;
+  */
+  background: #00F;
+  color: white;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+.main-nav ul {
+  list-style: none;
+  /* DO IN STEP 4 (flex demo)
+  display: flex;
+  */
+}
+
+.main-nav li {
+  display: block;
+  margin: 0.5em;
+}
+
+.main-nav a {
+  /* can switch between inline-block, block, and inline */
+  display: inline-block;
+  border: 1px solid currentColor;
+  border-radius: 100%;
+  padding: 0.5em;
+  color: white;
+  text-decoration: none;
+  transition: all 100ms ease-in-out 0ms;
+}
+
+.main-nav a:hover {
+  color:red;
+  transform: scale(1.1) rotate(5deg);
+}
+
+/* --- Wrapper --- */
+
+.wrapper {
+  position: relative; /* relative so children can be absolutely positioned if needed */
+  float: left;
+  width: 100%;
+  /* DO IN STEP 3 (fixed demo), when header is fixed, add margin 
+  margin-top:17rem;
+  */
+}
+
+/* --- Sidebar --- */
+
+.sidebar {
+  /* DO IN STEP 2 (sticky demo)
+  position: sticky;
+  top:0;
+  */
+  float: left;
+  width: 25%;
+  background: #F00;
+  padding: 2rem;
+  box-sizing: border-box;
+}
+
+/* --- Content --- */
+.content {
+  float: right;
+  width: 75%;
+  background: #0F0;
+  padding: 2rem;
+  box-sizing: border-box;
+}
+
+/* DO IN STEP 4 (flex demo)
+.columns{
+  display: flex;
+  flex-direction: row-reverse;
+}
+*/
+
+.col {
+  float: left;
+  width: 33.333%;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+.col:nth-child(1){
+  background-color: #FF0;
+}
+
+.col:nth-child(2){
+  background-color: #0FF;
+}
+
+.col:nth-child(3){
+  background-color: #F0F;
+}
+
+/* --- Footer --- */
+.site-footer {
+  position: relative; /* later we’ll make it fixed */
+  /* DO IN STEP 3 (fixed demo)
+  position: fixed;
+  bottom: 0;
+  z-index: 9;
+  */
+  float:left;
+  width: 100%;
+  background: #00F;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+
+/* IN STEP 5 (responsive example)
+
+@media (max-width: 768px) {
+  .wrapper {
+    flex-direction: column;
+  }
+  .sidebar, .content, .columns, .col{
+    float: none;
+    width: 100%;
+  }
+  .columns {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+*/
