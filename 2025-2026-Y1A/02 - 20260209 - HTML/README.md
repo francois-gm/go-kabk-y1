@@ -166,4 +166,3 @@ In example 2, we also have a **pseudo-class** selector, the `:first-of-type` sel
 ## Exercise (15min)
 
 - Complete levels 1-15 on [the CSS Diner](https://flukeout.github.io).
-- Then we will do them together.
