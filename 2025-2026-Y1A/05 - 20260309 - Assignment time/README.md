@@ -87,21 +87,21 @@ An absolute link always has the `https://` starting the links, as well as the fu
 
 For images files, always prefer the **.jpg** format!
 
-## Your small presentation: *how I solved a problem* (1h) (2min each)
+## Time for assignment, small groups (1h15)
 
-Text
-
-## Time for assignment (individual) (3h)
-
-See spreadsheet
 <!--
 
 | Time | Group |
 |-|-------------- |
-| 15min | Isaac, Tosia, Nana, Francesco |
-| 15min | Mia, Enola, Nora, Christina |
-| 15min | Finn, Ye Gon, Sonia, Antrea |
-| 15min | Erwin, Miruna, Martyna, Márk |
-| 15min | Jordy, Gosha, Adriana |
+| 15min | Laura, Alex, Szófia, Milena, Loth |
+| 15min | K, Valentijn, Izabela, Fabian, Emily |
+| 15min | Issy, Frédérique, Anita, Bente |
+| 15min | Simone, Anastasia, Arina, Beena |
+| 15min | Pepijn, Lara, Preslav, Billie |
 
 -->
+
+
+## Time for assignment (individual) (2h) (5min each)
+
+(see spreadsheet)

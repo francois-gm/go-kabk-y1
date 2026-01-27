@@ -4,10 +4,11 @@
 
 - *A website you like* (Lara, Arina, Bente)
 
-## Recap (10min)
+## Recap (15min)
 
 Questions:
 
+<!--
 - Why would one wants to add some `CSS` in project / what can CSS bring more to a `HTML` project?
 - Name three ways to add CSS styles in an HTML document. Can you tell us the plus and minuses of each method?
 - What is the "cascade"?
@@ -22,6 +23,7 @@ Questions:
   - Each HTML element needs to have its individual selector in order to be *styled* by CSS.
   - **General** `CSS` selector are **more important** than **specific ones** (and their styling overwrite specific ones).
 - **Name three** examples of CSS properties and **what** they visually do.
+-->
 
 ## About Monday March 16th's workshop…
 
@@ -32,7 +34,7 @@ Questions:
 
 ## Tutorial: layouting basics with CSS (1h)
 
-We start with the blank template that we made in the previous class (download on this page). You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1B/05%20-%2020251006%20-%20Assignment%20time/tutorial-layout/layout-setup.zip)
+We start with the blank template that we made in the previous class (download on this page). You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/04%20-%2020260302%20-%20CSS/tutorial-layout/layout-setup.zip)
 
 (click on the three dots button `...` on the top right of your screen and then `download`)
 
@@ -56,4 +58,4 @@ Read more:
 
 ## *Ode to CSS* assignment time, sign-up sheet (2h30) (6min each)
 
-(sign-up individual slots)
+(see spreadsheet)
