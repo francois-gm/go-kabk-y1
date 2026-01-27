@@ -3,7 +3,8 @@
 
 ## Presentation of the class (1h30)
 
-Structure, assignments, assessement criteria...
+- Structure, assignments, assessement criteria
+- Round table (names, pronoums, curiosities, anxieties)
 
 ## Introduction
 
