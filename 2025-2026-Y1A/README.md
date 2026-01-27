@@ -66,14 +66,13 @@ Unnaceptable uses of AI:
 - Using AI to write blocks of code that you cannot explain afterwards.
 
 
-Prompts suggestion:
+Prompts suggestion: [Socractic Tutor Instruction Prompt (to be copied-pasted or uploaded)](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/tutor-instruction-prompt.md)
 
+Or (basic logic):
 ```
-"I’m having a persistent problem with [x] despite having taken all the necessary countermeasures I could think of. Ask me enough questions about the problem to find a new approach."
+"I’m having a persistent problem with [x] despite having taken all the necessary countermeasures I could think of.
+Ask me enough questions about the problem to find a new approach."
 ```
-
-or see: ...
-
 
 <img src="improvement.jpg" width="350px">
 
