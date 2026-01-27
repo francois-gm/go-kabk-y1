@@ -15,7 +15,7 @@ Schedule:
 - **09 February**: introduction of the assignment
 - **23 February**: class presentation of your property (2h)
 - **02 March**: individual follow-up on the assignment (4h)
-- **09 March**: small group follow-up on the assignment (2h)
+- **09 March**: small group and individual follow-up on the assignment (2h)
 - **23 March**: delivery and presentation of the assignment in class
 
 ### You can use the starting template we made together before
