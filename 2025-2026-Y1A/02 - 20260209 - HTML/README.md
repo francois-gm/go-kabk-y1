@@ -36,7 +36,7 @@ For `script.js`:
 - For the `script.js` document, this should be at the end of your html document.
 - `<script src="assets/js/script.js"></script>`
 
-## Tutorial: HTML (1h15)
+## Tutorial: HTML (1h)
 
 - HTML (1h)
 - Overview of possible HTML tags, [W3school, by category](https://www.w3schools.com/TAGS/ref_byfunc.asp), [W3School, semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
@@ -47,7 +47,7 @@ For `script.js`:
   - `<figure>`, `<figcaption>`
   - `<ul>`, `<ol>`, `<li>`
   - `<summary>` and `<details>`
-- How to use developer tool (15min)
+- How to use developer tool
   - Google Chrome -> [Shift]+[Cmd]+[C], or `View -> Developer Tools` | Firefox -> [Alt]+[Cmd]+[I], or `Tools -> Browser tools -> Web development tools`.
   
 ## Presentation assignment 1
