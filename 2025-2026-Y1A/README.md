@@ -65,6 +65,16 @@ Unnaceptable uses of AI:
 - Having AI to generate structures of your project.
 - Using AI to write blocks of code that you cannot explain afterwards.
 
+
+Prompts suggestion:
+
+```
+"I’m having a persistent problem with [x] despite having taken all the necessary countermeasures I could think of. Ask me enough questions about the problem to find a new approach."
+```
+
+or see: ...
+
+
 <img src="improvement.jpg" width="350px">
 
 ## Contact hours
