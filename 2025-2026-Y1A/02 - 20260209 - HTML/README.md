@@ -164,7 +164,7 @@ In example 2, we also have a **pseudo-class** selector, the `:first-of-type` sel
 - [All CSS properties on W3school](https://www.w3schools.com/cssref/index.php)
 - [CSS tutorial W3school](https://www.w3schools.com/css/default.asp)
 
-## Exercise 3 (15min)
+## Exercise (15min)
 
 - Complete levels 1-15 on [the CSS Diner](https://flukeout.github.io).
 - Then we will do them together.
