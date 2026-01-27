@@ -13,7 +13,7 @@ Presentation: An overview of HTML
 
 ## Exercice
 
-**XML ‘in-situ snapshot’ coding exercice (30min)**
+### XML ‘in-situ snapshot’ coding exercice (30min)
 
 Bring in class a picture from your surrounding. When taking that picture, document it. Record audio / video as well. Think about what you see but also what you hear and smell. 
 
@@ -59,7 +59,7 @@ Example:
 </pond>
 ```
 
-**Mapping elements (30min)**
+### Mapping elements (30min)
 
 Based on the analogue code previously written. You are assigned someone else's previous *XML snapshot*.
 
@@ -68,7 +68,7 @@ Based on the analogue code previously written. You are assigned someone else's p
 - Take a picture and/or scan this.
 - Add it into the Teams folder corresponding to the right code.
 
-**Presentation of the exercises (30min)**
+### Presentation of the exercises (30min)
 
 Everybody present their *XML snapshots* exercice (picture + scan of analogue code + box).
 
