@@ -31,6 +31,34 @@ More about XML:
 - [RecipeML, a XML for recipesl](https://en.wikipedia.org/wiki/RecipeML)
 - [XML plant catalog on W3Schools](https://www.w3schools.com/xml/plant_catalog.xml)
 
+Example:
+
+```
+<pond size=”small”>
+
+  <surface status=”still”>
+
+    <waterlilies>
+
+      <waterlily blossom-count=”3”></waterlily>
+      <waterlily blossom-count=”2”></waterlily>
+      <waterlily blossom-count=”5”></waterlily>
+      <frog status=”sleeping”></frog>
+
+    </waterlilies>
+
+  </surface>
+
+  <underwater>
+
+    <fish color=”red”></fish>
+    <frog status=”active”></frog>
+
+  </underwater>
+
+</pond>
+```
+
 **Mapping elements (30min)**
 
 Based on the analogue code previously written. You are assigned someone else's previous *XML snapshot*.
