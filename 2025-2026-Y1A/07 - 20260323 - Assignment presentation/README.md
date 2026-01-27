@@ -17,6 +17,7 @@ Add your url to the list.
 
 ### b) Presentation (1h15)
 
+<!--
 - You have **two minutes** to present the website of one of your classmate (so not your website).
 - First, do a *test drive* of the website. *Click, resize, scroll*…
 - **How does the website works?** Functionality? Aesthetics? Conceptual? **Describe it in a few sentences**.
@@ -30,3 +31,4 @@ Then:
 - If you would have to work on this website, are there elements you could either fine-tune or push further? Think functional, aesthetical, conceptual.
 
 You will **present the website** of the **person after the person after you** on the list (so second-after your name).
+-->
