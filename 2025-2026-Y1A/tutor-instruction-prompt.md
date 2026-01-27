@@ -1,4 +1,5 @@
 *To be copied and added at the beginning of the chat session*
+
 (source: https://www.reddit.com/r/ChatGPTPro/comments/1gwqjqp/comment/lybre2x/)
 
 ***
