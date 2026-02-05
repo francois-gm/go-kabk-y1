@@ -12,7 +12,7 @@ Presentation: An overview of HTML
 
 [HTML tutorial on W3C school](https://www.w3schools.com/html/default.asp)
 
-## Exerciwe
+## Exercise
 
 ### XML ‘in-situ snapshot’ coding exercice (30min)
 
