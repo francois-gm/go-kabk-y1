@@ -12,7 +12,13 @@ Presentation: An overview of HTML
 
 [HTML tutorial on W3C school](https://www.w3schools.com/html/default.asp)
 
+Semantic Elements in HTML
 
+Many web sites contain HTML code like: <div id="nav"> <div class="header"> <div id="footer"> to indicate navigation, header, and footer.
+
+In HTML there are some semantic elements that can be used to define different parts of a web page:
+
+<img src="semantic-html.jpg" width="650px">
 
 ## Exercise
 
