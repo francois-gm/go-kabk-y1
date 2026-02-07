@@ -4,6 +4,18 @@
 
 - *A website you like* (Laura, Anastasia, Anita)
 
+## Tutorial: Visual Studio (15min)
+
+Install VS code + set up a document (and do’s and don’t)
+
+- Download and install: https://code.visualstudio.com <br>
+- Set `word wrap` option on by going to `view` -> `word wrap`.
+
+Shortcut for HTML template:
+
+- When creating a new document, either select `HTML`, or if creating a new 'text file', then click on `choose language` and select (by typing) `html`.
+- `Shift` + `1` and `Enter` to auto-populate HTML Doctype in HTML.
+
 ## Tutorial: A clean working document (15min)
 
 - Your project has its project own folder.
