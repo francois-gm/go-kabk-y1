@@ -126,18 +126,6 @@ In example 2, we also have a **pseudo-class** selector, the `:first-of-type` sel
 
 - Complete levels 1-15 on [the CSS Diner](https://flukeout.github.io).
 
-## Small group talks, sketches and ideas on your *Ode to CSS* (2h)
+## *Ode to CSS* assignment time, sign-up sheet (1h15) (3min each)
 
-I will join the conversation for about 15 minutes (3min per person) in each groups.
-
-<!--
-| Group |
-|-|-------------- |
-| 15min | Laura, K, Anastasia, Anita, Emily |
-| 15min | Alex, Valentijn, Lara, Arina, Bente |
-| 15min | Issy, Szófia, Preslav, Beena |
-| 15min | Simone, Izabela, Milena, Fabian |
-| 15min | Pepijn, Frédérique, Billie, Loth |
--->
-
-[See dedicated page](https://github.com/francois-gm/go-kabk-y1/tree/main/2025-2026-Y1A/02%20-%20Assignment%201%20(ode%20to%20CSS))
+(see spreadsheet)
