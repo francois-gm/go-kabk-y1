@@ -32,8 +32,6 @@ do `Command` + `Shift` + `S` while on the page.
 
 See table below:
 
-<!--
-
 | | CSS property | Name |
 | -------- | --------  | --------------------- |
 | **Decoration**  | | |
@@ -62,8 +60,6 @@ See table below:
 | 20 | `transition` | Beena |
 | 21 | `transform` | Billie |
 | 22 | `overflow` | Loth |
-
--->
 
 <!-- 
 
