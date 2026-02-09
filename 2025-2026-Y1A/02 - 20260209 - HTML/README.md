@@ -146,15 +146,23 @@ CSS selectors are used to “find” (or select) the HTML elements you want to s
 
 #### Combinator selectors
 
-Select elements based on a specific relationship between them.
+Select elements based on a specific relationship between them. **Commonly use:**
 
-Example 1:
+- Space: `, ` as in `p em`, means **INSIDE THIS**, `p INSIDE THIS, em`. Or, rephrased, *the em inside a p*.
+- Comma: `, ` as in `ul, ol`, means **AND**, `ul AND ol`.
+
+**Less commonly used:**
+
+- Plus: `+ ` as in `div + p`, means **RIGHT AFTER THIS**, `div RIGHT AFTER THIS, p`. Or, rephrased, *the p right after the div (on the same level)*.
+- Greater-than: `> ` as in `div > p`, means **DIRECTLY INSIDE THIS**, `div DIRECTLY INSIDE THIS, p`. Or, rephrased, *the p directly inside a div*.
+
+**Example 1:**
 
 - `p.my-class a.my-other-class`
 - Applies to `<a>` elements with the class `"my-other-class"` inside `<p>` elements with the class `"my-class"`
 - More specific than simple selector, so even even more CSS cascade points. The more specific, the more points, the more 'deep' in the cascade, the more it has precedence over less specific CSS rules.
 
-Example 2:
+**Example 2:**
 
 - `div.my-class p:first-of-type`
 - Applies to the first `<p>` element inside a `<div>` element with the class `"my-class"`
