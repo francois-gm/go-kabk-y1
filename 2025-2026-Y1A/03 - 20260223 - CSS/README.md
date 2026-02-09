@@ -17,7 +17,7 @@ Questions:
 - In an HTML document, what goes inside of the `<body>` tag?
 -->
 
-## Your CSS **tutorial** presentation (2h) (5min each)
+## Your CSS **tutorial** presentation (1h15) (180 seconds (3min) each)
 
 Based on your CSS property, prepare a presentation of your `property` for the class. Your tutorial presentation should last **5 minutes**. *You* are the expert. You can prepare a slideshow or do a recording if necessary.
 
