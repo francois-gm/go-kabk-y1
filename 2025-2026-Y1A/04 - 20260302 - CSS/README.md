@@ -75,6 +75,6 @@ Read more:
 
 - [The box model](https://www.w3schools.com/css/css_boxmodel.asp): understand how borders, margin, and padding are calculated.
 
-## *Ode to CSS* assignment time, sign-up sheet (2h30) (6min each)
+## *Ode to CSS* assignment time, sign-up sheet (1h15) (3min each)
 
 (see spreadsheet)
