@@ -17,7 +17,14 @@ Questions:
 - In an HTML document, what goes inside of the `<body>` tag?
 -->
 
-## Tutorial: CSS (1h)
+## About Monday March 16th's workshop…
+
+<!--
+- Guess tutor class with [Kim Kleinert](https://kimkleinert.com/).
+- TBC will do a lunch lecture/presentation of their work (12h45-13h30) before that class, 1-2 students to create a visual for that (?)
+-->
+
+## Tutorial: CSS (1h30)
 
 You can [download a project template there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/02%20-%2020260209%20-%20HTML/my-project-template.zip)
 (click on the three dots button `...` on the top right of your screen and then `download`)
@@ -119,26 +126,7 @@ In example 2, we also have a **pseudo-class** selector, the `:first-of-type` sel
 
 - Complete levels 1-15 on [the CSS Diner](https://flukeout.github.io).
 
-## Your CSS **tutorial** presentation (1h15) (180 seconds, or *3min*, each)
-
-Based on your CSS property, prepare a presentation of your `property` for the class. Your tutorial presentation should last **5 minutes**. *You* are the expert. You can prepare a slideshow or do a recording if necessary.
-
-Questions to think about related to your property:
-
-- **What** does your property **do**?
-- **When** do you **use** it?
-- **How** does it **work** / how do you declare it?
-- What are the possible *options* of that property (color, accepted units, other options)?
-- How does it **looks like** when applied to HTML elements?
-- If applicable, to which HTML elements does the property works on?
-- Show a working example and explain the code.
-
-While listening to others' properties:
-
-- Could some of these properties help you in your own project?
-- Pay attention to how they are declared.
-
-## Small group talks, sketches and ideas on your *Ode to CSS* (1h15)
+## Small group talks, sketches and ideas on your *Ode to CSS* (2h)
 
 I will join the conversation for about 15 minutes (3min per person) in each groups.
 
