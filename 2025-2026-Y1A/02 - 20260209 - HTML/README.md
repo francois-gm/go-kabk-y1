@@ -16,7 +16,7 @@ Shortcut for HTML template:
 - When creating a new document, either select `HTML`, or if creating a new 'text file', then click on `choose language` and select (by typing) `html`.
 - `Shift` + `1` and `Enter` to auto-populate HTML Doctype in HTML.
 
-## Tutorial: A clean working document (15min)
+## Tutorial: A clean working document (30min)
 
 - Your project has its project own folder.
 - Inside your project folder, you have an html file named `index.html`.
@@ -48,7 +48,7 @@ For `script.js`:
 - For the `script.js` document, this should be at the end of your html document.
 - `<script src="assets/js/script.js"></script>`
 
-## Tutorial: HTML (1h)
+## Tutorial: HTML (1h30)
 
 - HTML (1h)
 - Overview of possible HTML tags, [W3school, by category](https://www.w3schools.com/TAGS/ref_byfunc.asp), [W3School, semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
@@ -62,7 +62,7 @@ For `script.js`:
 - How to use developer tool
   - Google Chrome -> [Shift]+[Cmd]+[C], or `View -> Developer Tools` | Firefox -> [Alt]+[Cmd]+[I], or `Tools -> Browser tools -> Web development tools`.
 
-### Small developer tool exercice (15min)
+### Small developer tool exercice (20min)
 
 - Do 'command + shift + C' (the shortcut for accessing your browser's *developer tools*)
 - Create a new stylesheet rule from your browser inspector (click on the '+' button in Chrome):
