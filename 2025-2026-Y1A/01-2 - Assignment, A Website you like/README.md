@@ -32,12 +32,12 @@ Duration of the presentation: **around 2 minutes** per person.
 
 | Class | Student | Site |
 | -------- | --------------------- | --------------------- |
-| February 9 (class 2) | Laura | - |
-| February 9 (class 2) | Anastasia | - |
-| February 9 (class 2) | Anita | - |
-| February 23 (class 3) | Pepijn | - |
-| February 23 (class 3) | Emily | - |
-| February 23 (class 3) | K | - |
+| February 9 (class 2) | Laura | https://fonderie.download/ |
+| February 9 (class 2) | Anastasia | https://grids.obys.agency/ |
+| February 9 (class 2) | Anita | https://veravandeseyp.com/ |
+| February 23 (class 3) | Pepijn | https://everynoise.com/ |
+| February 23 (class 3) | Emily | https://itsabook.de/books |
+| February 23 (class 3) | K | https://www.bychudy.com/ |
 | March 2 (class 4) | Lara | - |
 | March 2 (class 4) | Arina | - |
 | March 2 (class 4) | Bente | - |
