@@ -8,21 +8,17 @@
 
 Questions:
 
-<!--
 - Name an example of a HTML `tag`?
 - How would you define, in your own words, what a HTML `tag` does?
 - Name an example of a HTML `attribute`?
 - How would you define, in your own words, what a HTML `attribute` does?
 - In an HTML document, what goes inside of the `<head>` tag?
 - In an HTML document, what goes inside of the `<body>` tag?
--->
 
 ## About Monday March 16th's workshop…
 
-<!--
 - Guess tutor class with [Kim Kleinert](https://kimkleinert.com/).
 - TBC will do a lunch lecture/presentation of their work (12h45-13h30) before that class, 1-2 students to create a visual for that (?)
--->
 
 ## Tutorial: CSS (1h30)
 
