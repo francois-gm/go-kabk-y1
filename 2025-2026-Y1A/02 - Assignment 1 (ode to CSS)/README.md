@@ -8,6 +8,7 @@
 - But(!), you need to stay true to the property assigned
 - Ultimately, each combined pages will form a collection of pages
 - You might have to use other CSS properties as well in order to "highlight" your property.
+- This is a **CSS only** assignment: no JavaScript is allowed.
 - During the assignment, you will have time to share your findings on your assigned property, as well as learn about other's findings
 
 Schedule:
