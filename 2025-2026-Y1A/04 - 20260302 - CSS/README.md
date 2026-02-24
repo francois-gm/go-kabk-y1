@@ -25,9 +25,9 @@ Questions:
 - **Name three** examples of CSS properties and **what** they visually do.
 -->
 
-## Your CSS **tutorial** presentation (1h15) (180 seconds, or *3min*, each)
+## Your CSS **tutorial** presentation (1h) (120 seconds, or *2min*, each)
 
-Based on your CSS property, prepare a presentation of your `property` for the class. Your tutorial presentation should last **5 minutes**. *You* are the expert. You can prepare a slideshow or do a recording if necessary.
+Based on your CSS property, prepare a presentation of your `property` for the class. Your tutorial presentation should last **2 minutes**. *You* are the expert. You can prepare a slideshow or do a recording if necessary.
 
 Questions to think about related to your property:
 
