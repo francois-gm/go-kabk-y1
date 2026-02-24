@@ -46,7 +46,7 @@ While listening to others' properties:
 
 ## Tutorial: layouting basics with CSS (1h)
 
-We start with the blank template that we made in the previous class (download on this page). You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/04%20-%2020260302%20-%20CSS/tutorial-layout/layout-setup.zip)
+We start with the blank template that we made in the previous class. You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/04%20-%2020260302%20-%20CSS/tutorial-layout/layout-setup.zip)
 
 (click on the three dots button `...` on the top right of your screen and then `download`)
 
