@@ -87,20 +87,29 @@ An absolute link always has the `https://` starting the links, as well as the fu
 
 For images files, always prefer the **.jpg** format!
 
-## Time for assignment, small groups (1h15)
+## Tutorial: layouting basics with CSS (1h)
 
-<!--
+We start with the blank template that we made in the previous class. You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/04%20-%2020260302%20-%20CSS/tutorial-layout/layout-setup.zip)
 
-| Time | Group |
-|-|-------------- |
-| 15min | Laura, Alex, Szófia, Milena, Loth |
-| 15min | K, Valentijn, Izabela, Fabian, Emily |
-| 15min | Issy, Frédérique, Anita, Bente |
-| 15min | Simone, Anastasia, Arina, Beena |
-| 15min | Pepijn, Lara, Preslav, Billie |
+(click on the three dots button `...` on the top right of your screen and then `download`)
 
--->
+First, let's do a [CSS reset](https://meyerweb.com/eric/tools/css/reset/) or a [CSS normalize](https://nicolasgallagher.com/about-normalize-css/)
 
+Then:
+
+- Let's make a basic page layout with a *header*, a *sidebar*, a *main content section*, and a *footer*.
+- We will use: relative positioning, absolute/fixed/sticky positioning.
+- We will add some visual differentiation across elements.
+
+(in other words):
+
+- Layout properties: `display`, `position`, `float`, `clear`.
+- Size: `width`, `height`.
+- More styling properties (what would you like to see?)
+
+Read more:
+
+- [The box model](https://www.w3schools.com/css/css_boxmodel.asp): understand how borders, margin, and padding are calculated.
 
 ## Time for assignment (individual) (2h) (5min each)
 
