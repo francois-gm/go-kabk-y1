@@ -42,30 +42,6 @@ While listening to others' properties:
 - Could some of these properties help you in your own project?
 - Pay attention to how they are declared.
 
-## Tutorial: layouting basics with CSS (1h)
-
-We start with the blank template that we made in the previous class. You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/04%20-%2020260302%20-%20CSS/tutorial-layout/layout-setup.zip)
-
-(click on the three dots button `...` on the top right of your screen and then `download`)
-
-First, let's do a [CSS reset](https://meyerweb.com/eric/tools/css/reset/) or a [CSS normalize](https://nicolasgallagher.com/about-normalize-css/)
-
-Then:
-
-- Let's make a basic page layout with a *header*, a *sidebar*, a *main content section*, and a *footer*.
-- We will use: relative positioning, absolute/fixed/sticky positioning.
-- We will add some visual differentiation across elements.
-
-(in other words):
-
-- Layout properties: `display`, `position`, `float`, `clear`.
-- Size: `width`, `height`.
-- More styling properties (what would you like to see?)
-
-Read more:
-
-- [The box model](https://www.w3schools.com/css/css_boxmodel.asp): understand how borders, margin, and padding are calculated.
-
 ## Small group talks, sketches and ideas on your *Ode to CSS* (1h)
 
 I will join the conversation for about 10 minutes (2min per person) in each groups.
