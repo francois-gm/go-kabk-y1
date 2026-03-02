@@ -48,7 +48,7 @@ See table below:
 | 9 | `display:flex;` | Lara |
 | 10 | `margin`, `padding` | Szófia |
 | 11 | `z-index` | Izabela |
-| 12 | CSS size units (`px`, `%`, `vw`, `vh`) | Frédérique |
+| 12 | CSS size units (`px`, `%`, `vw`, `vh`) | Fré |
 | **Typography** | | |
 | 13 | `font` (and sub-properties) | Anita |
 | 14 | `line-height` | Arina |
