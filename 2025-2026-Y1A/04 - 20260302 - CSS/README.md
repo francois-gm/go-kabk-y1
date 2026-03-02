@@ -70,14 +70,12 @@ Read more:
 
 I will join the conversation for about 10 minutes (2min per person) in each groups.
 
-<!--
 | Group |
 |-|-------------- |
 | 10min | Laura, K, Anastasia, Anita, Emily |
 | 10min | Alex, Valentijn, Lara, Arina, Bente |
 | 10min | Issy, Szófia, Preslav, Beena |
 | 10min | Simone, Izabela, Milena, Fabian |
-| 10min | Pepijn, Frédérique, Billie, Loth |
--->
+| 10min | Pepijn, Fré, Billie, Loth |
 
 [See dedicated page](https://github.com/francois-gm/go-kabk-y1/tree/main/2025-2026-Y1A/02%20-%20Assignment%201%20(ode%20to%20CSS))
