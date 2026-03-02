@@ -70,7 +70,7 @@ Read more:
 
 I will join the conversation for about 10 minutes (2min per person) in each groups.
 
-| Group |
+| Group |-|
 |-|-------------- |
 | 10min | Laura, K, Anastasia, Anita, Emily |
 | 10min | Alex, Valentijn, Lara, Arina, Bente |
