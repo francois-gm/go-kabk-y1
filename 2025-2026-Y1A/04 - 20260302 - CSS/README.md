@@ -8,7 +8,6 @@
 
 Questions:
 
-<!--
 - Why would one wants to add some `CSS` in project / what can CSS bring more to a `HTML` project?
 - Name three ways to add CSS styles in an HTML document. Can you tell us the plus and minuses of each method?
 - What is the "cascade"?
@@ -23,7 +22,6 @@ Questions:
   - Each HTML element needs to have its individual selector in order to be *styled* by CSS.
   - **General** `CSS` selector are **more important** than **specific ones** (and their styling overwrite specific ones).
 - **Name three** examples of CSS properties and **what** they visually do.
--->
 
 ## Your CSS **tutorial** presentation (1h) (120 seconds, or *2min*, each)
 
