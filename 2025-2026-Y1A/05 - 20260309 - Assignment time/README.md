@@ -8,9 +8,7 @@
 
 Question:
 
-<!--
 - What is likely to be the most **common** coding "issue" experienced during previous classes (guess: it's not really a ~~coding~~ mistake)?
--->
 
 ## Tutorial: extending on CSS selectors (10min)
 
