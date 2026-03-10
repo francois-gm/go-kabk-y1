@@ -1,8 +1,8 @@
-# Class 7, 2026/03/23
+# Class 8, 2026/03/27
 
 ## Intro (15min)
 
-- *A website you like* (Beena, Valentijn, Izabela)
+- *A website you like* (Milena, Billie, Issy)
 
 ## An *Ode to CSS*, each present their final project (1h45)
 
