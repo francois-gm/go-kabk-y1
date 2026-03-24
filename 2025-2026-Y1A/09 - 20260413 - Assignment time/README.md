@@ -1,8 +1,8 @@
-# Class 11, 2025/11/24
+# Class 9, 2026/04/13
 
 ## Intro (15min)
 
-- *A website you like* (Francesco, Jordy, François)
+- *A website you like* (-, -, -)
 
 ## Tutorial: web extension starter kit (1h30)
 
