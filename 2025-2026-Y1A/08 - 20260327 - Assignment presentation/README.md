@@ -19,7 +19,7 @@ Add your url to the list.
 
 The presentation is as follow:
 
-Setting: two people sit at the front, the *website-tester*, and the *website-developper*. You will test one website, as well as you will take part in the presentation of your own project (as the website developper).
+Setting: two people sit at the front, the *website-tester*, and the *website-developer*. You will test one website, as well as you will take part in the presentation of your own project (as the website developper).
 
 First, we take 15 minutes collectively to prepare and test websites. Take notes. Then we will proceed with the 2 minutes presentations.
 
@@ -39,7 +39,7 @@ Then:
 
 You will **present the website** of the **person after the person after you** on the list (so second-after your name).
 
-#### Presentations: as the website-developper (1 minute):
+#### Presentations: as the website-developer (1 minute):
 
 - You sit next to the website tester, but **you can't talk** or **point at things** when the website is being presented.
 - After your classmate's two minutes presentation (sitting next to you), you will have one minute to **explain one challenge** you faced doing your project and how you solved it. Bring documentation of your issues (sketches or code print screen or website print screen).
