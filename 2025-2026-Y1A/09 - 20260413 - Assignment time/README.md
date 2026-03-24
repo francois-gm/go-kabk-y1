@@ -160,7 +160,7 @@ What is the difference between a variable with a ***number*** value, a ***zero**
 - [Create a "tabs" manager](https://developer.chrome.com/docs/extensions/get-started/tutorial/popup-tabs-manager?hl=en), on Chrome for developers
 - [Chrome advanced developer ressources](https://developer.chrome.com/docs/extensions/develop?hl=en)
 
-## *Web intervention* assignment time, small group talks, sign-up sheet
+## *Web intervention* assignment time
 
 (see spreadsheet)
 
