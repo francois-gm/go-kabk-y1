@@ -1,9 +1,9 @@
-# Class 12, 2025/12/01
+# Class 12, 2026/05/04
 
 ## Intro (15min)
 
-- *A website you like* (Adriana, Gosha, François)
-
+- *A website you like* (-, -, -)
+<!--
 ## Tutorial: web extension, inject HTML elements and add functions to the page (2h)
 
 - CreateElement, innerHTML.
@@ -12,3 +12,4 @@
 ## Individual talks, browser extension (2h)
 
 See spreadsheet
+-->
