@@ -51,10 +51,10 @@ Duration of the presentation: **around 2 minutes** per person.
 | March 27 (class 8) | Beena | - |
 | March 27 (class 8) | Valentijn | - |
 | March 27 (class 8) | Milena | - |
-| March 27 (class 9) | Billie | - |
-| March 27 (class 9) | Issy | - |
+| March 13 (class 9) | Billie | - |
+| March 13 (class 9) | Issy | - |
 | April 13 (class 9) | Frédérique | - |
-| April 13 (class 10) | Fabian | - |
+| April 20 (class 10) | Fabian | - |
 | April 20 (class 10) | Loth | - |
 | April 20 (class 10) | Simone | - |
 | May 4 (class 11) | - | - |
