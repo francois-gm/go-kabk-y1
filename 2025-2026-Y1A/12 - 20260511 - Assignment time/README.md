@@ -1,5 +1,5 @@
 # Class 12, 2026/05/11
-
+<!--
 ## Template for presentation page (30min)
 
 See file `extension-presentation-template.zip` within that page.
@@ -21,3 +21,4 @@ See instructions below (to add to your presentation page) for installation:
 ## *Web intervention* assignment time, sign-up sheet
 
 Time slots, see spreadsheet.
+-->
