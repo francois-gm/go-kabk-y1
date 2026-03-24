@@ -127,6 +127,12 @@ else{
 - If that is the case, our juice is a citrus punch.
 - If it's not a lemonade or a citrus punch, then it's a fruit punch.
 
+### Bonus
+
+What is the difference between a variable with a ***number*** value, a ***zero*** value, an ***empty*** value, and being ***undefined***?
+
+<img src="null.jpg" alt="Differences between numbers, zero, empty and null" width="450" height="auto">
+
 ## Tutorial: manipulating the document (the *DOM*) with Javascript (1h30)
 
 - Create a JS counter (increment)
