@@ -4,7 +4,7 @@
 
 - *A website you like* (Milena, Billie, Issy)
 
-## An *Ode to CSS*, each present their final project (2h20)
+## An *Ode to CSS*, each present their final project (2h30)
 
 ### a) Put your website online (20min)
 
