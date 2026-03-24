@@ -3,26 +3,9 @@
 /* CSS rules go below */
 
 body{
-	padding:1rem;
-}
-
-button{
-	font-size:1.25rem;
-	padding:1rem;
-	border-radius: 1rem;
-	border-width:3px;
-	border-style: solid;
 	color: black;
 	background-color: white;
-	border-color: black;
-	opacity:0.5;
-	cursor: pointer;
-}
-
-button:hover{
-	opacity:1;
-	color:blue;
-	text-decoration: underline;
+	padding:1rem;
 }
 
 /* general styling */
@@ -31,34 +14,6 @@ div.container{
 	padding: 5rem;
 }
 
-div.modal{
-	position:fixed;
-	left:25vw;
-	top:25vh;
-	width:50vw;
-	height:50vh;
-	background-color: red;
-	color:blue;
-	font-size: 3vw;
-	text-align: center;
-	z-index:2;
-	line-height: 125%;
-}
-
-ul{
-	list-style-type: none;
-	margin:0;
-	padding:0;
-}
-
-/* is dark mode */
-
-
-
-/* is closed */
-
-
-
-/* is opened */
+/* HAS DARK MODE */
 
 

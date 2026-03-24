@@ -3,26 +3,9 @@
 /* CSS rules go below */
 
 body{
-	padding:1rem;
-}
-
-button{
-	font-size:1.25rem;
-	padding:1rem;
-	border-radius: 1rem;
-	border-width:3px;
-	border-style: solid;
 	color: black;
 	background-color: white;
-	border-color: black;
-	opacity:0.5;
-	cursor: pointer;
-}
-
-button:hover{
-	opacity:1;
-	color:blue;
-	text-decoration: underline;
+	padding:1rem;
 }
 
 /* general styling */
@@ -31,27 +14,15 @@ div.container{
 	padding: 5rem;
 }
 
-div.modal{
-	position:fixed;
-	left:25vw;
-	top:25vh;
-	width:50vw;
-	height:50vh;
-	background-color: red;
-	color:blue;
-	font-size: 3vw;
-	text-align: center;
-	z-index:2;
-	line-height: 125%;
+span.btn-text-light{
+	display: none;
 }
 
-ul{
-	list-style-type: none;
-	margin:0;
-	padding:0;
+span.btn-text-dark{
+	display: block;
 }
 
-/* is dark mode */
+/* HAS DARK MODE */
 
 body.dark-mode{
 	color: white;
@@ -64,42 +35,10 @@ body.dark-mode .btn-dark-mode{
 	border-color: black;
 }
 
-body.dark-mode .btn-modal-text-lightmode{
+body.dark-mode span.btn-text-light{
 	display: block;
 }
 
-body.dark-mode .btn-modal-text-darkmode{
+body.dark-mode span.btn-text-dark{
 	display: none;
 }
-
-/* is closed */
-
-nav.menu div.modal{
-	display: none;
-}
-
-nav.menu .btn-modal-text-close{
-	display: none;
-}
-
-nav.menu .btn-modal-text-open{
-	display: block;
-}
-
-/* is opened */
-
-nav.menu.modal-is-open div.modal{
-	display: block;
-}
-
-nav.menu.modal-is-open .btn-modal-text-close{
-	display: block;
-}
-
-nav.menu.modal-is-open .btn-modal-text-open{
-	display: none;
-}
-
-
-
-
