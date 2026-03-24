@@ -133,4 +133,6 @@ else{
 - Create a JS random color generator
 - Create a toggler button (dark mode, and or a modal menu)
 
-## Class time to work on the *Web extension* assignment (1h30)
+## *Web intervention* assignment time
+
+(see spreadsheet)
