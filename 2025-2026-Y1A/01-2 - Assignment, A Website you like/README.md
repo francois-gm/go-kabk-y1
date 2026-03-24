@@ -47,7 +47,7 @@ Duration of the presentation: **around 2 minutes** per person.
 | March 16 (class 6) | (workshop) | - |
 | March 16 (class 6) | (workshop) | - |
 | March 16 (class 6) | (workshop) | - |
-| March 23 (class 7) | Izabela | (?) |
+| March 23 (class 7) | Izabela | https://zzz.zoomquilt2.com/ |
 | March 27 (class 8) | Beena | - |
 | March 27 (class 8) | Valentijn | - |
 | March 27 (class 8) | Milena | - |
