@@ -2,7 +2,7 @@
 
 ## Intro (15min)
 
-- *A website you like* (Beena, Valentijn, Izabela)
+- *A website you like* (Izabela)
 
 ## Time for assignment (individual) (3h30) (9min each)
 
