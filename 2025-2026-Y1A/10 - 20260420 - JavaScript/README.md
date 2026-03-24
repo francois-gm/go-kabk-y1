@@ -1,8 +1,8 @@
-# Class 8, 2025/11/03
+# Class 10, 2026/04/20
 
 ## Intro (15min)
 
-- *A website you like* (Enola, Ye Gon, Sonia ,François)
+- *A website you like* (-, -, -)
   
 ## Tutorial: Javascript essentials (30min)
 
@@ -133,17 +133,4 @@ else{
 - Create a JS random color generator
 - Create a toggler button (dark mode, and or a modal menu)
 
-## Class time to work on the *Useless interface* assignment (1h30)
-
-In **small groups**, present your `interface` element to the other members of the group. Provide a few examples (visual and also how it’s coded). You each have **15 minutes** to present this to your small group peers.
-
-I will join the conversation for about 15 minutes in each groups.
-
-| Group |
--------------- |
-| Isaac, Tosia, Nana, Christina, Francesco |
-| Mia, Enola, Nora, Antrea, Jordy |
-| Finn, Ye Gon, Sonia, Márk, Gosha |
-| Erwin, Miruna, Martyna, Adriana |
-
-[See dedicated page](https://github.com/francois-gm/go-kabk-y1/tree/main/2025-2026-Y1B/07%20-%20Assignment%202%20(useless%20interface))
+## Class time to work on the *Web extension* assignment (1h30)
