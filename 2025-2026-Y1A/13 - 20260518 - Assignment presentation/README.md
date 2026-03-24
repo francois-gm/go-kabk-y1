@@ -1,7 +1,5 @@
 # Class 14, 2025/12/15
 
-## Intro (15min)
-
 <!--
 
 ## *Web intervention*, each present their final project (2h)
@@ -59,7 +57,7 @@ Then read out these three sentences.
 
 ## Archiving your projects
 
-Your exercices and projects done during the semester can be visited at: https://kabk.francoisgm.com/25-26/y1/b/
+Your exercices and projects done during the semester can be visited at: https://kabk.francoisgm.com/25-26/y1/a/
 
 Later on this week I will archive your last assignment as well as the *penpals* workshop's outcome and will add these to the url above.
 
