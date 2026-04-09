@@ -53,7 +53,7 @@ Duration of the presentation: **around 2 minutes** per person.
 | March 27 (class 8) | Milena | https://adelfaure.net/ |
 | April 13 (class 9) | Billie | - |
 | April 13 (class 9) | Issy | - |
-| April 13 (class 9) | Frédérique | - |
+| April 13 (class 9) | Fré | - |
 | April 20 (class 10) | Fabian | - |
 | April 20 (class 10) | Loth | - |
 | April 20 (class 10) | Simone | - |
