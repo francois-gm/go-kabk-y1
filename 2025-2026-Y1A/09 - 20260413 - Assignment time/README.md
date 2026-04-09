@@ -2,7 +2,7 @@
 
 ## Intro (15min)
 
-- *A website you like* (-, -, -)
+- *A website you like* (Billie, Issy, Fré)
 
 ## Tutorial: web extension starter kit (1h30)
 
