@@ -48,11 +48,11 @@ Duration of the presentation: **around 2 minutes** per person.
 | March 16 (class 6) | (workshop) | - |
 | March 16 (class 6) | (workshop) | - |
 | March 23 (class 7) | Izabela | https://zzz.zoomquilt2.com/ |
-| March 27 (class 8) | Beena | - |
-| March 27 (class 8) | Valentijn | - |
-| March 27 (class 8) | Milena | - |
-| March 13 (class 9) | Billie | - |
-| March 13 (class 9) | Issy | - |
+| March 27 (class 8) | Beena | https://anotherkind.world/ |
+| March 27 (class 8) | Valentijn | [https://www.meteoblue.com](https://www.meteoblue.com/en/weather-maps#coords=2.74/-56.11/-129.11&map=windAnimation~rainbow~auto~10%20m%20above%20gnd~none) |
+| March 27 (class 8) | Milena | https://adelfaure.net/ |
+| April 13 (class 9) | Billie | - |
+| April 13 (class 9) | Issy | - |
 | April 13 (class 9) | Frédérique | - |
 | April 20 (class 10) | Fabian | - |
 | April 20 (class 10) | Loth | - |
