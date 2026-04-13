@@ -2,7 +2,7 @@
 
 ## Intro (15min)
 
-- *A website you like* (-, -, -)
+- *A website you like* (Billie, Fabian, Loth, Simone)
 <!--
 ## Tutorial: Javascript essentials (30min)
 
