@@ -51,9 +51,9 @@ Duration of the presentation: **around 2 minutes** per person.
 | March 27 (class 8) | Beena | https://anotherkind.world/ |
 | March 27 (class 8) | Valentijn | [https://www.meteoblue.com](https://www.meteoblue.com/en/weather-maps#coords=2.74/-56.11/-129.11&map=windAnimation~rainbow~auto~10%20m%20above%20gnd~none) |
 | March 27 (class 8) | Milena | https://adelfaure.net/ |
-| April 13 (class 9) | Billie | - |
-| April 13 (class 9) | Issy | - |
-| April 13 (class 9) | Fré | - |
+| April 13 (class 9) | Issy | https://www.makewordart.com/ |
+| April 13 (class 9) | Fré | https://art.teleportacia.org/ |
+| April 20 (class 10) | Billie | - |
 | April 20 (class 10) | Fabian | - |
 | April 20 (class 10) | Loth | - |
 | April 20 (class 10) | Simone | - |
