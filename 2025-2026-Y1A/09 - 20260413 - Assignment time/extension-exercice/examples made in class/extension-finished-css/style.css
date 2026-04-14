@@ -40,4 +40,18 @@ img:hover, svg:hover{
 
 /* step 4, use the developer tool to target an element */
 
+/* we are targetting the 'side box' on the wikipedia website, this has the class '.infobox' */
+/* https://en.wikipedia.org/wiki/North_Sea */
+
+.infobox{
+    background-color: red !important;
+    outline: 10px green solid !important;
+    transform: rotate(180deg) !important;
+    transition: transform 250ms ease-in 0s;
+}
+
+.infobox:hover{
+    transform: rotate(0deg)!important;
+}
+
 
