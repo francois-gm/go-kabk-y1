@@ -2,8 +2,8 @@
 
 ## Intro (15min)
 
-- *A website you like* (-, -, -)
-<!--
+- *A website you like* (Billie, Issy, Fré)
+
 ## Tutorial: web extension starter kit (1h30)
 
 1) Create a folder named `my-extension-project`.
@@ -157,5 +157,4 @@ To use the **console** (in **developer tools**) from within the content script, 
 ## *Web intervention* assignment time
 
 (see spreadsheet)
--->
 
