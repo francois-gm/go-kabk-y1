@@ -54,9 +54,9 @@ Duration of the presentation: **around 2 minutes** per person.
 | April 13 (class 9) | Issy | https://www.makewordart.com/ |
 | April 13 (class 9) | Fré | https://art.teleportacia.org/ |
 | April 20 (class 10) | Billie | - |
-| April 20 (class 10) | Fabian | - |
-| April 20 (class 10) | Loth | - |
-| April 20 (class 10) | Simone | - |
+| April 20 (class 10) | Fabian | https://www.suvatypefoundry.ee |
+| April 20 (class 10) | Loth | https://heavenly-angels.org |
+| April 20 (class 10) | Simone | https://wiby.me/ |
 | May 4 (class 11) | - | - |
 | May 11 (class 12) | - | - |
 | May 18 (class 13) | - | - |
