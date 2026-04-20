@@ -3,7 +3,7 @@
 ## Intro (15min)
 
 - *A website you like* (Billie, Fabian, Loth, Simone)
-<!--
+
 ## Tutorial: Javascript essentials (30min)
 
 What does Javascript do?
@@ -142,5 +142,3 @@ What is the difference between a variable with a ***number*** value, a ***zero**
 ## *Web intervention* assignment time
 
 (see spreadsheet)
-
--->
