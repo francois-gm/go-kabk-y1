@@ -4,11 +4,10 @@
 
 - *A website you like* (Billie)
 
-## Tutorial: web extension, inject HTML elements and add functions to the page (1h30)
+## Tutorial: web extension, JS toggler (1h)
 
-- CreateElement, innerHTML.
-- Create a click function that hides text when clicked on it.
+- add a CSS class to the document's body on click
 
-## Individual talks, browser extension (2h30)
+## Individual talks, browser extension (2h45)
 
 See spreadsheet
