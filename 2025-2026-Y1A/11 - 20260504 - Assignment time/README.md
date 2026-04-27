@@ -8,6 +8,10 @@
 
 - add a CSS class to the document's body on click
 
+## Extension, text filters templates
+
+- quick look over these
+
 ## Individual talks, browser extension (2h45)
 
 See spreadsheet
