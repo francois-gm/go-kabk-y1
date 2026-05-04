@@ -14,6 +14,7 @@ heading1.textContent = "Why don't you go outside instead of reading this?";
 */
 
 
+
 // 2) something a bit more complicated, replace selected elements with lorem ipsum
 
 /*
@@ -82,13 +83,7 @@ setInterval(function(){
 
 // 4) Last example, we filter the text for words that we replace with other words
 
-
-
-
-
-
-
-
+/*
 
 // first we set a "word map", it is a JavaScript "value/pair type of" object.
 // The first word is the word to be replaced, and the second one the word to replace with
@@ -137,3 +132,7 @@ scanAndReplace();
 setInterval(function(){
     scanAndReplace();
 },1000);
+
+*/
+
+
