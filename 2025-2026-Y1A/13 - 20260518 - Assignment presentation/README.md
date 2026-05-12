@@ -49,9 +49,9 @@ Write your sentences in [add URL address of the writing pad]
 
 First, look at the list. Pick up **two** sentences that you think summarize the best your project.
 
-You will present your extension to the class. Show how it works.
+You will present your extension to the class. Show how it works. Explain a challenge you faced and how you solved it.
 
-Then read out these three sentences.
+Then read out these two sentences.
 
 (see spreadsheet for URLs)
 
