@@ -53,7 +53,7 @@ Duration of the presentation: **around 2 minutes** per person.
 | March 27 (class 8) | Milena | https://adelfaure.net/ |
 | April 13 (class 9) | Issy | https://www.makewordart.com/ |
 | April 13 (class 9) | Fré | https://art.teleportacia.org/ |
-| April 20 (class 10) | Billie | - |
+| April 20 (class 10) | Billie | https://hackertyper.net/ |
 | April 20 (class 10) | Fabian | https://www.suvatypefoundry.ee |
 | April 20 (class 10) | Loth | https://heavenly-angels.org |
 | April 20 (class 10) | Simone | https://wiby.me/ |
