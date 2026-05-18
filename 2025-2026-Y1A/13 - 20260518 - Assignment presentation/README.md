@@ -40,11 +40,9 @@ Write your sentences in [this writing pad](https://pad.xpub.nl/p/2526_Y1A_peer_r
 
 #### 3) Showcasing your website (45min)
 
-First, look at the list. Pick up **two** sentences that you think summarize the best your project.
+Present your extension briefly to the class. Show how it works. Explain a challenge you faced and how you solved it.
 
-You will present your extension to the class. Show how it works. Explain a challenge you faced and how you solved it.
-
-Then read out these two sentences.
+Then pick up two reviews from your project and read them.
 
 (see spreadsheet for URLs)
 
