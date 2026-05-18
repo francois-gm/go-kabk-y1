@@ -17,7 +17,7 @@ Add your url to the list (you can change the URL to a name you want to keep for 
 
 - You will have to collectively review twelve (12) other student's projects (!) For this we will use EtherPad, which allows to collaboratively (and anonymously) edit text in real time. 
 
-For each project (except yours): write **two sentences** that summarizes the project. First take **one minute** to review the presentation page, download and install the extension, then **one minute** to review the extension itself, **one minute** to **write** your two sentences, and **one last minute** to review your sentences, and edit / wrap up your formulation. The two sentences shall have the form of an 'appraisal'. Please highlight positive points as well as bring a point of critique if that is relevant.
+For each project (except yours): write **two sentences** that summarizes the project. Take **four minutes** per project First take **one minute** to review the presentation page, download and install the extension, then **one minute** to review the extension itself, **one minute** to **write** your two sentences, and **one last minute** to review your sentences, and edit / wrap up your formulation. The two sentences shall have the form of an 'appraisal'. Please highlight positive points as well as bring a point of critique if that is relevant.
 
 **What is critique?** *Not* equal to criticism. Critique more as the *faculty* of judging (a method of disciplined, systematic study).
 
@@ -26,18 +26,13 @@ Points you can include in your sentence:
 - What it does?
 - What works well?
 - What could work better?
-- What is the overall experience?
+- What is the overall experience?1
 
 <!--
 Write your sentences in [add URL address of the writing pad]
 -->
 
-
-<!--
 Write your sentences in [this writing pad](https://pad.xpub.nl/p/2526_Y1A_peer_reviews).
--->
-
-
 
 #### 2) Adding reviews to your project
 
