@@ -50,7 +50,7 @@ Then read out these two sentences.
 
 ## Archiving your projects
 
-Your exercices and projects done during the semester can be visited at: https://kabk.francoisgm.com/25-26/y1/a/
+Your exercises and projects done during the semester can be visited at: https://kabk.francoisgm.com/25-26/y1/a/
 
 Later on this week I will archive your last assignment as well as the *penpals* workshop's outcome and will add these to the url above.
 
