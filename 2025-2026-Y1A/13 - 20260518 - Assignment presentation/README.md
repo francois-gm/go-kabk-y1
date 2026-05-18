@@ -1,7 +1,5 @@
 # Class 13, 2026/05/18
 
-<!--
-
 ## *Web intervention*, each present their final project (2h)
 
 ### a) Put your web extension online (30min)
@@ -30,16 +28,16 @@ Points you can include in your sentence:
 - What could work better?
 - What is the overall experience?
 
-
+<!--
 Write your sentences in [add URL address of the writing pad]
-
 -->
 
-<!--
-[this writing pad](https://pad.xpub.nl/p/Y1A_peer_reviews).
--->
 
 <!--
+Write your sentences in [this writing pad](https://pad.xpub.nl/p/2526_Y1A_peer_reviews).
+-->
+
+
 
 #### 2) Adding reviews to your project
 
@@ -61,4 +59,4 @@ Your exercices and projects done during the semester can be visited at: https://
 
 Later on this week I will archive your last assignment as well as the *penpals* workshop's outcome and will add these to the url above.
 
--->
+
