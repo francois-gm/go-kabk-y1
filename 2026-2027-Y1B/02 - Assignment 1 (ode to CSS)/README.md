@@ -13,7 +13,7 @@
 
 Schedule:
 
-- **09 February**: introduction of the assignment
+- **14 September**: introduction of the assignment
 - **23 February**: class presentation of your property (2h)
 - **02 March**: individual follow-up on the assignment (4h)
 - **09 March**: small group and individual follow-up on the assignment (2h)
