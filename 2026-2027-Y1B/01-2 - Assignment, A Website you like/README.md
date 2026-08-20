@@ -32,34 +32,36 @@ Duration of the presentation: **around 2 minutes** per person.
 
 | Class | Student | Site |
 | -------- | --------------------- | --------------------- |
-| February 9 (class 2) | Laura | https://fonderie.download/ |
-| February 9 (class 2) | Anastasia | https://grids.obys.agency/ |
-| February 9 (class 2) | Anita | https://veravandeseyp.com/ |
-| February 23 (class 3) | Pepijn | https://everynoise.com/ |
-| February 23 (class 3) | Emily | https://itsabook.de/books |
-| February 23 (class 3) | K | https://www.bychudy.com/ |
-| March 2 (class 4) | Lara | https://www.windows93.net/ |
-| March 2 (class 4) | Arina | https://www.pixelcrash.xyz/ |
-| March 2 (class 4) | Bente | https://pointerpointer.com/ |
-| March 9 (class 5) | Alex | https://elara.world/ |
-| March 9 (class 5) | Szófia | https://cari.institute/ |
-| March 9 (class 5) | Preslav | http://adaweb.walkerart.org/ |
-| March 16 (class 6) | (workshop) | - |
-| March 16 (class 6) | (workshop) | - |
-| March 16 (class 6) | (workshop) | - |
-| March 23 (class 7) | Izabela | https://zzz.zoomquilt2.com/ |
-| March 27 (class 8) | Beena | https://anotherkind.world/ |
-| March 27 (class 8) | Valentijn | [https://www.meteoblue.com](https://www.meteoblue.com/en/weather-maps#coords=2.74/-56.11/-129.11&map=windAnimation~rainbow~auto~10%20m%20above%20gnd~none) |
-| March 27 (class 8) | Milena | https://adelfaure.net/ |
-| April 13 (class 9) | Issy | https://www.makewordart.com/ |
-| April 13 (class 9) | Fré | https://art.teleportacia.org/ |
-| April 20 (class 10) | Billie | https://hackertyper.net/ |
-| April 20 (class 10) | Fabian | https://www.suvatypefoundry.ee |
-| April 20 (class 10) | Loth | https://heavenly-angels.org |
-| April 20 (class 10) | Simone | https://wiby.me/ |
-| May 4 (class 11) | - | - |
-| May 11 (class 12) | - | - |
-| May 18 (class 13) | - | - |
+| September 14 (class 2) | – | – |
+| September 14 (class 2) | – | – |
+| September 14 (class 2) | – | – |
+| September 21 (class 3) | – | – |
+| September 21 (class 3) | – | – |
+| September 21 (class 3) | – | – |
+| September 28 (class 4) | – | – |
+| September 28 (class 4) | – | – |
+| September 28 (class 4) | – | – |
+| October 5 (class 5) | – | – |
+| October 5 (class 5) | – | – |
+| October 5 (class 5) | – | – |
+| October 12 (class 6) | – | – |
+| October 12 (class 6) | – | – |
+| October 12 (class 6) | – | – |
+| October 26 (class 7) | – | – |
+| October 26 (class 7) | – | – |
+| October 26 (class 7) | – | – |
+| November 2 (class 8) | – | – |
+| November 2 (class 8) | – | – |
+| November 2 (class 8) | – | – |
+| November 9 (class 9) | – | – |
+| November 9 (class 9) | – | – |
+| November 9 (class 9) | – | – |
+| November 16 (class 10) | – | – |
+| November 16 (class 10) | – | – |
+| November 16 (class 10) | – | – |
+| November 23 (class 11) | – | – |
+| November 23 (class 11) | – | – |
+| November 23 (class 11) | – | – |
 
 ## Ressources list
 
