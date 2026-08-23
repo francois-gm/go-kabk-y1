@@ -4,7 +4,7 @@
 
 ## The course
 
-During this semester, we will unbox basics about coding, with a focus on the ‘web’ triad of HTML/CSS/Javascript. While doing so, we will develop an approach of *thinking through coding*. This means understanding how languages and their syntax systems work and the aspect and logic behind writing code. Via presentation and exercises, we will apply this logic conceptually without aiming too much at the technicalities of "production-oriented" code. In parallel, we will learn to look and talk about how we experience the web, in visual as well as navigational terms.
+During this semester, we will unbox basics about coding, with a focus on the ‘web’ triad of HTML/CSS/Javascript. While doing so, we will develop an approach of *thinking through coding*. We will spend time understanding how coding languages work, how their syntax is structured, and the principles and logic behind writing code. We will do this through presentations and exercises. In parallel, we will learn to look and talk about how we experience the web, in visual as well as navigational terms.
 
 ## Main assignments
 
@@ -44,20 +44,20 @@ AI tools can support your learning when they help you understand concepts, error
 
 **Acceptable uses of AI:**
 
-–	Asking for explanations of concepts (e.g. variables, functions, 
+–	Asking for **explanations of concepts** (e.g. variables, functions, 
 async behavior).
-–	Asking why an error occurs or why something does not behave 
+–	Asking **why an error occurs** or why something does not behave 
 as expected.
-–	Requesting explanations of what existing code does, step by step.
-–	Asking editorial output, or auditing your code against other technical alternatives.
+–	Requesting **explanations** of what existing code does, **step by step**.
+–	Asking **editorial output**, or auditing your code against other technical alternatives.
 
 **Unacceptable uses of AI:**
 
-–	Asking AI to design or generate independent features and 
-copying-pasting them in your project.
-–	Asking AI to produce tutorials you intend to present in class.
-–	Having AI to generate structures of your project.
-–	Using AI to write blocks of code that you cannot explain afterwards.
+–	Asking AI to design or **generate independent features** and 
+**copying-pasting them** in your project.
+–	Asking AI to produce **tutorials you intend to present** in class.
+–	Having AI to **generate structures** of your project.
+–	Using AI to **write blocks** of code that **you cannot explain afterwards**.
 
 *I declare to understand, agree and act in accordance with the guidelines previously mentioned. I understand that not doing so might negatively impact my assessment.*
 
