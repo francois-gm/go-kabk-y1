@@ -45,22 +45,24 @@ See table below:
 | 7 | `mix-blend-mode` | - |
 | **Layout** | | |
 | 8 | `position` | - |
-| 9 | `display:flex;` | - |
-| 10 | `margin`, `padding` | - |
-| 11 | `z-index` | - |
-| 12 | CSS size units (`px`, `%`, `vw`, `vh`) | - |
+| 9 | `display:block;`, `float` | – |
+| 10| `display:flex;` | - |
+| 11 | `margin`, `padding` | - |
+| 12 | `z-index` | - |
+| 13 | CSS size units (`px`, `%`, `vw`, `vh`) | - |
 | **Typography** | | |
-| 13 | `font` (and sub-properties) | - |
-| 14 | `line-height` | - |
-| 15 | `text-decoration` | - |
-| 16 | `letter-spacing`, `word-spacing` | - |
-| 17 | `text-shadow` | - |
+| 14 | `font` (and sub-properties) | - |
+| 15 | `line-height` | - |
+| 16 | `text-decoration` | - |
+| 17 | `letter-spacing`, `word-spacing` | - |
+| 18 | `text-align`, `text-indent` | – |
+| 19 | `text-shadow` | - |
 | **Functionality** | | |
-| 18 | `cursor` | - |
-| 19 | `@media` | - |
-| 20 | `transition` | - |
-| 21 | `transform` | - |
-| 22 | `overflow` | - |
+| 20 | `cursor` | - |
+| 21 | `@media` | - |
+| 22 | `transition` | - |
+| 23 | `transform` | - |
+| 24 | `overflow` | - |
 
 <!-- 
 
