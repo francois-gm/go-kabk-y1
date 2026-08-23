@@ -75,21 +75,6 @@ For `script.js`:
 - How to use developer tool
   - Google Chrome -> [Shift]+[Cmd]+[C], or `View -> Developer Tools` | Firefox -> [Alt]+[Cmd]+[I], or `Tools -> Browser tools -> Web development tools`.
 
-### Small developer tool exercice (30min)
-
-- Do 'command + shift + C' (the shortcut for accessing your browser's *developer tools*)
-- Create a new stylesheet rule from your browser inspector (click on the '+' button in Chrome):
-
-```
-// '*' means 'every elements'
-
-* {
- outline: 1px solid #F00;
-}
-```
-
-Look at the page, resize it, and look at how blocks behave. Can you see each HTML tags?
-
 ## Presentation assignment 1
 
 [See dedicated page](https://github.com/francois-gm/go-kabk-y1/tree/main/2025-2026-Y1A/02%20-%20Assignment%201%20(ode%20to%20CSS))
