@@ -87,7 +87,7 @@ For images files, always prefer the **.jpg** format!
 
 ## Tutorial: layouting basics with CSS (1h15)
 
-We start with the blank template that we made in the previous class. You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/04%20-%2020260302%20-%20CSS/tutorial-layout/layout-setup.zip)
+We start with the blank template that we made in the previous class. You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2026-2027-Y1B/05%20-%2020261005%20-%20Assignment%20time/css-layout-tutorial/css-layout-tutorial-setup.zip)
 
 (click on the three dots button `...` on the top right of your screen and then `download`)
 
