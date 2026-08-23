@@ -1,5 +1,5 @@
 # HTML introduction
-*(2026/02/06)*
+*(2026/09/07)*
 
 ## Presentation of the class (1h30)
 
