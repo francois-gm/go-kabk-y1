@@ -1,6 +1,6 @@
 # Class 8, 2026/11/02
 
-## Guest presentation, <!--[Name](URL) (12h45-13h30)-->
+## Guest presentation<!--, [Name](URL) (12h45-13h30)-->
 
 ## Guest class
   
