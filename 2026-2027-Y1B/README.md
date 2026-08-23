@@ -18,7 +18,7 @@ In addition to in-class exercises, you will have two main assignments, each to b
 
 ## Time schedule
 
-Every Monday, 13h30–17h30, Classroom to be determined
+Every Monday, 13h30–17h30, classroom to be determined
 
 First 15 minutes: web culture <br>
 Small presentation assignment
