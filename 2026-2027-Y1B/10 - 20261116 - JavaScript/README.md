@@ -1,8 +1,8 @@
-# Class 10, 2026/04/20
+# Class 10, 2026/11/16
 
 ## Intro (15min)
 
-- *A website you like* (Billie, Fabian, Loth, Simone)
+- *A website you like*
 
 ## Tutorial: Javascript essentials (30min)
 
