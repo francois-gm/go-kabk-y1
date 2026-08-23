@@ -22,7 +22,7 @@ Questions:
   - Each HTML element needs to have its individual selector in order to be *styled* by CSS.
   - **General** `CSS` selector are **more important** than **specific ones** (and their styling overwrite specific ones).
 -->
-## Your CSS **tutorial** presentation (1h) (120 seconds, or *2min*, each)
+## Your CSS **tutorial** presentation (1h15) (120 seconds, or *2min*, each)
 
 Based on your CSS property, prepare a presentation of your `property` for the class. Your tutorial presentation should last **2 minutes**. *You* are the expert. You can prepare a slideshow or do a recording if necessary.
 
@@ -41,16 +41,16 @@ While listening to others' properties:
 - Could some of these properties help you in your own project?
 - Pay attention to how they are declared.
 
-## Small group talks, sketches and ideas on your *Ode to CSS* (1h)
+## Small group talks, sketches and ideas on your *Ode to CSS* (1h30)
 
-I will join the conversation for about 10 minutes (2min per person) in each groups.
+I will join the conversation for about 15 minutes (2min per person) in each groups.
 
 | Group |-|
 |-|-------------- |
-| 10min | -, -, -, -, - |
-| 10min | -, -, -, -, - |
-| 10min | -, -, -, -, - |
-| 10min | -, -, -, -, - |
-| 10min | -, -, -, -, - |
+| 15min | -, -, -, -, - |
+| 15min | -, -, -, -, - |
+| 15min | -, -, -, -, - |
+| 15min | -, -, -, -, - |
+| 15min | -, -, -, -, - |
 
 [See dedicated page](https://github.com/francois-gm/go-kabk-y1/tree/main/2025-2026-Y1A/02%20-%20Assignment%201%20(ode%20to%20CSS))
