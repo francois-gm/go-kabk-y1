@@ -28,10 +28,11 @@ Small presentation assignment
 
 ## Teaching methods, assessment methods, competencies, etc:
 
-- See, [ECTS table](https://denhaagkabk-my.sharepoint.com/:x:/g/personal/f_girard-meunier_kabk_nl/EZyFrnFEOdFBtG2cfrBLhGYB4j_aEfZXs8XxJUmyKYhLog?e=mcim5P)
-- See also, [Assessment of coding competencies document](https://github.com/francois-gm/go-kabk-y1/blob/main/2026-2027-Y1B/2627_Y1-coding_competencies.pdf)
-
-**Learning, self-learning, and use of LLMs (AI) policies**
+- [Course description and ECTS table](https://github.com/francois-gm/go-kabk-y1/blob/main/2026-2027-Y1B/2627_Y1-coding_courseDescription.pdf)
+- [Assessment of coding competencies document](https://github.com/francois-gm/go-kabk-y1/blob/main/2026-2027-Y1B/2627_Y1-coding_competencies.pdf)
+- [Learning contract](https://github.com/francois-gm/go-kabk-y1/blob/main/2026-2027-Y1B/2627_Y1-coding_learningContract.pdf)
+- 
+**Learning contract**
 
 *A contract*
 
