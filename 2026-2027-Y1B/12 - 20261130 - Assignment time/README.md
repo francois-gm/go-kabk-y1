@@ -1,10 +1,10 @@
-# Class 12, 2026/05/11
+# Class 12, 2026/11/30
 
 ## Template for presentation page (30min)
 
 See file `extension-presentation-template.zip` within that page.
 
-### Prepare your extension for dowload (for others)
+### Prepare your extension for download (for others)
 
 - You unfortunately can't use the Chrome 'pack extension' since your code will need to be reviewed by the Chrome team.
 - But others can download your extension as a .zip file and install it in the same way that you have been able to install it yourself (enabling the 'developer tools'.
