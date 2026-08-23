@@ -12,7 +12,7 @@ In addition to in-class exercises, you will have two main assignments, each to b
 
 ## Small presentation assignment
 
-*At the beginning of each class, 2–3 students will make a short presentation about a website they like, and tell us a bit more about it. I will also do the same.*
+*At the beginning of each class, 2–3 students will make a short presentation about a website they like, and tell us a bit more about it.*
 
 [A website you like, read more on the assignment page](https://github.com/francois-gm/go-kabk-y1/tree/main/2026-2027-Y1B/01-2%20-%20Assignment%2C%20A%20Website%20you%20like)
 
