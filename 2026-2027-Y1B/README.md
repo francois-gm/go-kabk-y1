@@ -14,7 +14,7 @@ In addition to in-class exercises, you will have two main assignments, each to b
 
 *At the beginning of each class, 2–3 students will make a short presentation about a website they like, and tell us a bit more about it. I will also do the same.*
 
-[A website you like, read more on the assignment page](https://github.com/francois-gm/go-kabk-y1/tree/main/2025-2026-Y1A/01-2%20-%20Assignment%2C%20A%20Website%20you%20like)
+[A website you like, read more on the assignment page](https://github.com/francois-gm/go-kabk-y1/tree/main/2026-2027-Y1B/01-2%20-%20Assignment%2C%20A%20Website%20you%20like)
 
 ## Time schedule
 
@@ -31,43 +31,37 @@ Small presentation assignment
 - [Course description and ECTS table](https://github.com/francois-gm/go-kabk-y1/blob/main/2026-2027-Y1B/2627_Y1-coding_courseDescription.pdf)
 - [Assessment of coding competencies document](https://github.com/francois-gm/go-kabk-y1/blob/main/2026-2027-Y1B/2627_Y1-coding_competencies.pdf)
 - [Learning contract](https://github.com/francois-gm/go-kabk-y1/blob/main/2026-2027-Y1B/2627_Y1-coding_learningContract.pdf)
-- 
-**Learning contract**
+  
+## Learning contract
 
-*A contract*
+**Preambule**
 
-By following this class, and this study program, you agree to its learning terms. This is, in a way, similar to the concept of the social contract. Sometimes your studies might seem challenging, but you trust your teachers to provide you with an environment that fosters your personal, creative and technical growth. The learning goals are in the *assessment of coding competencies* document (up).
+Learning to code is not only about learning a technical language; it is about learning a way of thinking. By enrolling in this program, it is expected that you commit to learning the steps involved in understanding a problem, breaking it down, researching possible solutions, testing different approaches, and understanding why something works or does not work. Debugging is an important part of this process: before fixing a problem, you need to be able to identify and describe it clearly. Coding is constantly evolving, and you will never know everything or follow exactly the same process twice. The goal is therefore not necessarily and strictly to learn how to do something, or to produce a working result, but to learn how to find out how to do it and understand what you are doing. This process can be challenging, and that challenge is an essential part of learning.
 
-*Learning*
+**Use of LLMs (AI) policy**
 
-Learning coding is not just about technical 'code', it is a **philosophy** and **methodology** in itself. It is about a *way* to look at the world, (logical) problems, and come up with solutions. Therefore, the skills I wish you to develop through this semester are, besides knowledge foundations, to learn how to **unpack a problem**, **talk about it**, and do the appropriate **research to overcome it**.
+AI tools can support your learning when they help you understand concepts, errors, and possible approaches. Nonetheless, they should not obfuscate the learning process by generating project structures or solutions that you cannot explain or take ownership of. You are expected to be the author of your code and projects: this does not mean writing “every character” yourself, but being able to understand and take responsibility and authorship for what you produce. Understanding does not require memorising every keyword or piece of syntax; it means being able to explain how your project works, what its main components do, and how changes in code, data, or interaction produce the resulting output.
 
-Debugging, or solving coding problems, is a skill in itself. First how do you know your problem? You isolate it, you identify it. You describe the problem in plain english. You learn to use precise language, to use the right terminology to describe the issue. When you can describe it, then you search through various channels, online/offline, deep googling, etc. You come up with logical explainations of what the problem is, and what you can do to fix it. You try it, you try variations on it. You observe what happens.
+**Acceptable uses of AI:**
 
-*Self-learning*
+–	Asking for explanations of concepts (e.g. variables, functions, 
+async behavior).
+–	Asking why an error occurs or why something does not behave 
+as expected.
+–	Requesting explanations of what existing code does, step by step.
+–	Asking editorial output, or auditing your code against other technical alternatives.
 
-One truth is that great coders keep on learning. The world of coding is in constant **evolution**, and you will **never do the same project twice**. Therefore, the aim is not to know 'how do I do this', but 'how do I proceed to find what I need to to do this'.
+**Unacceptable uses of AI:**
 
-*Use of LLMs (AI)*
+–	Asking AI to design or generate independent features and 
+copying-pasting them in your project.
+–	Asking AI to produce tutorials you intend to present in class.
+–	Having AI to generate structures of your project.
+–	Using AI to write blocks of code that you cannot explain afterwards.
 
-- AI tools can support this class learning process **when they are used as explanatory aids**. However, when AI is used to produce outcomes without understanding, it **undermines the learning goals** of the course. Therefore, AI may be used to explain concepts and errors, but may not be used to generate project structures or solutions you cannot explain. 
-- It expected that students are **authors** of their code and projects. Authorship does not mean that 100% of the materials used for the work must be originally written character by character by the student. What it means is that there is a strong **sense of ownership** that can be **collectively agreed** through objective means.
-- Understanding in this course does not mean knowing every keyword or remembering exact syntax. It means being able to reason about how the project works at the level of mechanisms. You should be able to explain the structure of your project, the role of its main components, and the cause-and-effect relationships between interactions, data, and visual output.
+*I declare to understand, agree and act in accordance with the guidelines previously mentioned. I understand that not doing so might negatively impact my assessment.*
 
-Acceptable uses of AI:
-
-- Asking for explanations of concepts (e.g. variables, functions, async behavior).
-- Asking why an error occurs or why something does not behave as expected.
-- Requesting explanations of what existing code does, step by step.
-
-Unnaceptable uses of AI:
-
-- Asking AI to design or generate independent features and copying-pasting them in your project
-- Having AI to generate structures of your project.
-- Using AI to write blocks of code that you cannot explain afterwards.
-
-
-### Prompts suggestions
+### Use of LLMs, additional ressources
 
 The [Socractic Tutor Instruction Prompt (to be copied-pasted or uploaded)](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/tutor-instruction-prompt.md)
 
@@ -81,7 +75,7 @@ Ask me enough questions about the problem to find a new approach."
 
 ## Contact hours
 
-I try to reply to your emails with flexibility, but sometimes it might take a few days (esp. if you email me during mid-week as our class is on Monday)
+I try to reply to your messages with flexibility, but sometimes it might just take more time (esp. if you message me mid-week after our class)
 
 - Available by email via: f.girard-meunier@kabk.nl
 - And also on Teams
