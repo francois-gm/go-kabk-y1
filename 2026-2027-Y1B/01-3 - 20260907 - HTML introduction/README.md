@@ -1,12 +1,13 @@
 # HTML introduction
-*(2026/09/07)*
+*(2026/09/07, at Hortus Botanicus Leiden)*
 
 ## Presentation of the class (1h30)
 
-- Structure, assignments, assessement criteria
-- Round table (names, pronoums, curiosities, anxieties)
+- Structure, assignments, assessement criteria (30min)
+- Round table (names, pronoums, curiosities, anxieties) (30min)
+- Text readings + round table (30min)
 
-## Introduction
+## Introduction (1h)
 
 Presentation: An overview of HTML
 
@@ -22,15 +23,17 @@ In HTML there are some semantic elements that can be used to define different pa
 
 ## Exercise
 
-### XML ‘in-situ snapshot’ coding exercice (30min)
+**XML ‘in-situ snapshot’ coding exercice (1h)**
 
-Bring in class a picture from your surrounding. When taking that picture, document it. Record audio / video as well. Think about what you see but also what you hear and smell. 
+Venture into the Hortus and find a location you want to document. Think about what you see but also what you hear and smell. 
 
 Write the 'code' of the picture on a piece of paper. You do **not** write it in *HTML*. Instead, use the logic of XML languages:
 
 - Tags that open and close
 - Tags that contain other tags
-- The use of attributes that giving specifications on the tags.
+- The use of attributes that give additional specific information about what the tag's content.
+
+Don't forget to also **take a picture with your phone** of the scene/detail you are making a ‘coded snapshot’. We'll need these for next class.
 
 More about XML:
 
@@ -67,16 +70,3 @@ Example:
 
 </pond>
 ```
-
-### Mapping elements (30min)
-
-Based on the analogue code previously written. You are assigned someone else's previous *XML snapshot*.
-
-- Draw a the structure of all elements as boxes on a piece of paper.
-- Annotate each box by their tag name.
-- Take a picture and/or scan this.
-- Add it into the Teams folder corresponding to the right code.
-
-### Presentation of the exercises (30min)
-
-Everybody present their *XML snapshots* exercice (picture + scan of analogue code + box).
