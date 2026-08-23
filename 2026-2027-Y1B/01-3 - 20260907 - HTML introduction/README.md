@@ -7,7 +7,7 @@
 - Round table (names, pronoums, curiosities, anxieties) (30min)
 - Text readings + round table (45min)
 
-## Introduction (30min)
+## HTML Introduction (30min)
 
 Presentation: An overview of HTML
 
