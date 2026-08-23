@@ -31,7 +31,7 @@ Shortcut for HTML template:
 
 ## Tutorial: A clean working document (30min)
 
-- Your project has its project own folder.
+- Your project has its project own folder, let's name it `html-base-tutorial`.
 - Inside your project folder, you have an html file named `index.html`.
 - Inside your project folder, you have a subfolder called `assets`, and in that folder, you have a subfolder for your `CSS`, and one for your `Javascript`.
 - Inside your `css` subfolder you have your `style.css` file.
