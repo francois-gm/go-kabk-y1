@@ -1,15 +1,15 @@
-# Class 5, 2026/03/09
+# Class 5, 2026/10/05
 
 ## Intro (15min)
 
-- *A website you like* (Alex, Szófia, Preslav)
+- *A website you like*
 
 ## Recap (10min)
 
 Question:
-
+<!--
 - What is likely to be the most **common** coding "issue" experienced during previous classes (guess: it's not really a ~~coding~~ mistake)?
-
+-->
 ## Tutorial: extending on CSS selectors (10min)
 
 In previous classes, we saw several ways of writing *CSS selectors* to style our HTML elements.
@@ -109,6 +109,6 @@ Read more:
 
 - [The box model](https://www.w3schools.com/css/css_boxmodel.asp): understand how borders, margin, and padding are calculated.
 
-## Time for assignment (individual) (2h) (5min each)
+## Time for assignment (individual) (2h30) (5min each)
 
 (see spreadsheet)
