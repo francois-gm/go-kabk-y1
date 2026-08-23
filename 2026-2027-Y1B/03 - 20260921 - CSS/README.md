@@ -1,8 +1,8 @@
-# Class 3, 2026/02/23
+# Class 3, 2026/09/21
 
 ## Intro (15min)
 
-- *A website you like* (Pepijn, Emily, K)
+- *A website you like*
 
 ## Recap (10min)
 
