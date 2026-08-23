@@ -1,14 +1,14 @@
-# Coding Y1A @ KABK, 2025–2026
+# Coding Y1B @ KABK, 2026–2027
 
 *(inter)dependencies*
 
 ## The course
 
-During this semester, we will unbox basics about coding, with a focus on the ‘web’ triad of HTML/CSS/Javascript. While doing so, we will keep a certain approach in mind, which is to foster ways of ‘thinking through coding’ optics. This means understanding how languages and their syntax systems work and the aspect and logic behind writing code. Via presentation and exercises, we will apply this logic conceptually without aiming too much at the technicalities of a production-proof code. Besides that, we will also look, and learn to look and talk about web experiences (in visual as well as navigational terms, taking all dimensions into account).
+During this semester, we will unbox basics about coding, with a focus on the ‘web’ triad of HTML/CSS/Javascript. While doing so, we will develop an approach of *thinking through coding*. This means understanding how languages and their syntax systems work and the aspect and logic behind writing code. Via presentation and exercises, we will apply this logic conceptually without aiming too much at the technicalities of "production-oriented" code. In parallel, we will learn to look and talk about how we experience the web, in visual as well as navigational terms.
 
 ## Main assignments
 
-In addition to in-class exercises, you will have 3-4 short assignments, each to be completed in a 2-3 weeks period. These assignments, building one on top of each other, will result in a common compendium of *poetic*, interconnected web pages. Ultimately, we can see this class as a space where each student, caters to their own *web space* patch.
+In addition to in-class exercises, you will have two main assignments, each to be completed in a 4-5 weeks period.
 
 ## Small presentation assignment
 
@@ -29,7 +29,7 @@ Small presentation assignment
 ## Teaching methods, assessment methods, competencies, etc:
 
 - See, [ECTS table](https://denhaagkabk-my.sharepoint.com/:x:/g/personal/f_girard-meunier_kabk_nl/EZyFrnFEOdFBtG2cfrBLhGYB4j_aEfZXs8XxJUmyKYhLog?e=mcim5P)
-- See also, [Assessment of coding competencies document](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/2526_Y1-coding_competencies.pdf)
+- See also, [Assessment of coding competencies document](https://github.com/francois-gm/go-kabk-y1/blob/main/2026-2027-Y1B/2627_Y1-coding_competencies.pdf)
 
 **Learning, self-learning, and use of LLMs (AI) policies**
 
