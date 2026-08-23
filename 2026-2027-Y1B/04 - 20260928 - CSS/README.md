@@ -1,14 +1,14 @@
-# Class 4, 2026/03/02
+# Class 4, 2026/09/28
 
 ## Intro (15min)
 
-- *A website you like* (Lara, Arina, Bente)
+- *A website you like*
 
 ## Recap (15min)
 
 Questions:
-
-- Why would one wants to add some `CSS` in project / what can CSS bring more to a `HTML` project?
+<!--
+- Why would one wants to add some `CSS` in a project / what can CSS bring more to a `HTML` project?
 - Name three ways to add CSS styles in an HTML document. Can you tell us the plus and minuses of each method?
 - What is the "cascade"?
 - *I want to write a `CSS` selector to target an `HTML` element so I can style it...*
@@ -21,8 +21,7 @@ Questions:
   - You can give multiple `id` values to one `HTML` element.
   - Each HTML element needs to have its individual selector in order to be *styled* by CSS.
   - **General** `CSS` selector are **more important** than **specific ones** (and their styling overwrite specific ones).
-- **Name three** examples of CSS properties and **what** they visually do.
-
+-->
 ## Your CSS **tutorial** presentation (1h) (120 seconds, or *2min*, each)
 
 Based on your CSS property, prepare a presentation of your `property` for the class. Your tutorial presentation should last **2 minutes**. *You* are the expert. You can prepare a slideshow or do a recording if necessary.
@@ -48,10 +47,10 @@ I will join the conversation for about 10 minutes (2min per person) in each grou
 
 | Group |-|
 |-|-------------- |
-| 10min | Laura, K, Anastasia, Anita, Emily |
-| 10min | Alex, Valentijn, Lara, Arina, Bente |
-| 10min | Issy, Szófia, Preslav, Beena |
-| 10min | Simone, Izabela, Milena, Fabian |
-| 10min | Pepijn, Fré, Billie, Loth |
+| 10min | -, -, -, -, - |
+| 10min | -, -, -, -, - |
+| 10min | -, -, -, -, - |
+| 10min | -, -, -, -, - |
+| 10min | -, -, -, -, - |
 
 [See dedicated page](https://github.com/francois-gm/go-kabk-y1/tree/main/2025-2026-Y1A/02%20-%20Assignment%201%20(ode%20to%20CSS))
