@@ -1,13 +1,13 @@
 # HTML introduction
 *(2026/09/07, at Hortus Botanicus Leiden)*
 
-## Presentation of the class (1h30)
+## Presentation of the class (1h45)
 
 - Structure, assignments, assessement criteria (30min)
 - Round table (names, pronoums, curiosities, anxieties) (30min)
-- Text readings + round table (30min)
+- Text readings + round table (45min)
 
-## Introduction (1h)
+## Introduction (30min)
 
 Presentation: An overview of HTML
 
