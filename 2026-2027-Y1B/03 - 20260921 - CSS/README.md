@@ -31,7 +31,7 @@ Look at the page, resize it, and look at how blocks behave. Can you see each HTM
 
 ## Tutorial: CSS (1h15)
 
-You can [download a project template there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/03%20-%2020260223%20-%20CSS/my-project-template.zip)
+You can [download a project template there](https://github.com/francois-gm/go-kabk-y1/blob/main/2026-2027-Y1B/03%20-%2020260921%20-%20CSS/css-base-tutorial.zip)
 (click on the three dots button `...` on the top right of your screen and then `download`)
 
 > What is CSS?
