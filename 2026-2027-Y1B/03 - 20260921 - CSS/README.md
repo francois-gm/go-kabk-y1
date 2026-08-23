@@ -29,7 +29,7 @@ Questions:
 ```
 Look at the page, resize it, and look at how blocks behave. Can you see each HTML tags?
 
-## Tutorial: CSS (1h30)
+## Tutorial: CSS (1h15)
 
 You can [download a project template there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/03%20-%2020260223%20-%20CSS/my-project-template.zip)
 (click on the three dots button `...` on the top right of your screen and then `download`)
@@ -131,6 +131,6 @@ In example 2, we also have a **pseudo-class** selector, the `:first-of-type` sel
 
 - Complete levels 1-15 on [the CSS Diner](https://flukeout.github.io).
 
-## *Ode to CSS* assignment time, sign-up sheet (1h15) (3min each)
+## *Ode to CSS* assignment time, sign-up sheet (1h30) (3min each)
 
 (see spreadsheet)
