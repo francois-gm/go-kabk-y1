@@ -2,7 +2,7 @@
 
 ## Template for presentation page (30min)
 
-See file `extension-presentation-template.zip` within that page.
+See file `extension-presentation-starterkit.zip` within that page.
 
 ### Prepare your extension for download (for others)
 
