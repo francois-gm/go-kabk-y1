@@ -22,8 +22,7 @@ Schedule:
 
 ### You can use the starting template we made together before
 
-You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2026-2027-Y1B/02%20-%20Assignment%201%20(ode%20to%20CSS)/my-project-template.zip)????
-
+You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2026-2027-Y1B/02%20-%20Assignment%201%20(ode%20to%20CSS)/css-starterkit.zip)
 (click on the three dots button `...` on the top right of your screen and then `download`)
 
 **OR** 
