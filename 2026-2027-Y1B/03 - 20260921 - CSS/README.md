@@ -15,10 +15,19 @@ Questions:
 - In an HTML document, what goes inside of the `<head>` tag?
 - In an HTML document, what goes inside of the `<body>` tag?
 
-## About Monday March 16th's workshop…
+## Small developer tool exercice (30min)
 
-- Guess tutor class with [Kim Kleinert](https://kimkleinert.com/).
-- TBC will do a lunch lecture/presentation of their work (12h45-13h30) before that class, 1-2 students to create a visual for that (?)
+- Do 'command + shift + C' (the shortcut for accessing your browser's *developer tools*)
+- Create a new stylesheet rule from your browser inspector (click on the '+' button in Chrome):
+
+```
+// '*' means 'every elements'
+
+* {
+ outline: 1px solid #F00;
+}
+```
+Look at the page, resize it, and look at how blocks behave. Can you see each HTML tags?
 
 ## Tutorial: CSS (1h30)
 
