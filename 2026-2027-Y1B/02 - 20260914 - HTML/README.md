@@ -1,8 +1,21 @@
-# Class 2, 2026/02/09
+# Class 2, 2026/09/14
 
-## Intro (20min)
+## Intro (15min)
 
-- *A website you like* (Laura, Anastasia, Anita)
+- *A website you like*
+
+## Exercise, mapping elements (20min)
+
+Based on the analogue code previously written. You are assigned someone else's previous *XML snapshot*.
+
+- Draw a the structure of all elements as boxes on a piece of paper.
+- Annotate each box by their tag name.
+- Take a picture and/or scan this.
+- Add it into the Teams folder corresponding to the right code.
+
+## Presentation of exercises (20min)
+
+Everybody present their *XML snapshots* exercice (picture + scan of analogue code + box).
 
 ## Tutorial: Visual Studio (15min)
 
@@ -48,9 +61,9 @@ For `script.js`:
 - For the `script.js` document, this should be at the end of your html document (right before the end of the `</body>` tag).
 - `<script src="assets/js/script.js"></script>`
 
-## Tutorial: HTML (2h)
+## Tutorial: HTML (1h30)
 
-- HTML (1h30)
+- HTML (1h)
 - Overview of possible HTML tags, [W3school, by category](https://www.w3schools.com/TAGS/ref_byfunc.asp), [W3School, semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - - `<div>` and `<span>` vs. `<section>`, `<article>`, `<nav>`...
   - Paragraphs (`<p>`), headings (`<h1>`-`<h6>`), inline formatting (`<em>`, `<strong>`)
