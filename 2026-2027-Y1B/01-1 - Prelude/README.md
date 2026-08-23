@@ -90,7 +90,7 @@ on layers on layers.
 
 <br>
 
-2026/01/26 <br>
+2026/09/07 <br>
 François Girard-Meunier <br>
 KABK, Den Haag <br>
-*Version 2.0*
+*Version 3.0*
