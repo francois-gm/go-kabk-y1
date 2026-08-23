@@ -61,7 +61,7 @@ For `script.js`:
 - For the `script.js` document, this should be at the end of your html document (right before the end of the `</body>` tag).
 - `<script src="assets/js/script.js"></script>`
 
-## Tutorial: HTML (1h30)
+## Tutorial: HTML (1h15)
 
 - HTML (1h)
 - Overview of possible HTML tags, [W3school, by category](https://www.w3schools.com/TAGS/ref_byfunc.asp), [W3School, semantic HTML](https://www.w3schools.com/html/html5_semantic_elements.asp)
