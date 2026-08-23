@@ -85,7 +85,7 @@ An absolute link always has the `https://` starting the links, as well as the fu
 
 For images files, always prefer the **.jpg** format!
 
-## Tutorial: layouting basics with CSS (1h)
+## Tutorial: layouting basics with CSS (1h30)
 
 We start with the blank template that we made in the previous class. You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/04%20-%2020260302%20-%20CSS/tutorial-layout/layout-setup.zip)
 
@@ -109,6 +109,6 @@ Read more:
 
 - [The box model](https://www.w3schools.com/css/css_boxmodel.asp): understand how borders, margin, and padding are calculated.
 
-## Time for assignment (individual) (2h30) (5min each)
+## Time for assignment (individual) (2h) (4min each)
 
 (see spreadsheet)
