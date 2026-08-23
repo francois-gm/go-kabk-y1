@@ -1,4 +1,4 @@
-# Class 13, 2026/05/18
+# Class 13, 2026/12/07
 
 ## *Web intervention*, each present their final project (2h)
 
@@ -29,10 +29,8 @@ Points you can include in your sentence:
 - What is the overall experience?1
 
 <!--
-Write your sentences in [add URL address of the writing pad]
+Write your sentences in [this writing pad](https://pad.xpub.nl/p/2526_Y1A_peer_reviews || add URL of the writing pad).
 -->
-
-Write your sentences in [this writing pad](https://pad.xpub.nl/p/2526_Y1A_peer_reviews).
 
 #### 2) Adding reviews to your project
 
@@ -48,7 +46,7 @@ Then pick up two reviews from your project and read them.
 
 ## Archiving your projects
 
-Your exercises and projects done during the semester can be visited at: https://kabk.francoisgm.com/25-26/y1/a/
+Your exercises and projects done during the semester can be visited at: https://kabk.francoisgm.com/26-27/y1/b/
 
 Later on this week I will archive your last assignment's outcome and will add these to the url above.
 
