@@ -1,8 +1,8 @@
-# Class 11, 2026/05/04
+# Class 11, 2026/11/23
 
 ## Intro (15min)
 
-- *A website you like* (Billie)
+- *A website you like*
 
 ## Tutorial: web extension, JS toggler (45min)
 
