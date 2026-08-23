@@ -1,8 +1,8 @@
-# Class 9, 2026/04/13
+# Class 9, 2026/11/09
 
 ## Intro (15min)
 
-- *A website you like* (Billie, Issy, Fré)
+- *A website you like*
 
 ## Tutorial: web extension starter kit (1h30)
 
