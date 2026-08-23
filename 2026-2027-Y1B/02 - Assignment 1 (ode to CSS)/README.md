@@ -16,7 +16,7 @@ Schedule:
 - **14 September**: introduction of the assignment
 - **21 September**: individual follow-up on the assignment (1h30)
 - **28 September**: class presentation of your property (2h) + small group follow-up (2h)
-- **05 October**: individual follow-up on the assignment (4h)???
+- **05 October**: small group follow-up on the assignment (2h)
 - **12 October**: individual follow-up on the assignment (4h)
 - **26 October**: delivery and presentation of the assignment in class
 
