@@ -14,14 +14,14 @@
 Schedule:
 
 - **14 September**: introduction of the assignment
-- **23 February**: class presentation of your property (2h)
-- **02 March**: individual follow-up on the assignment (4h)
-- **09 March**: small group and individual follow-up on the assignment (2h)
-- **23 March**: delivery and presentation of the assignment in class
+- **21 September**: class presentation of your property (2h)
+- **28 September**: individual follow-up on the assignment (4h)???
+- **05 October**: small group and individual follow-up on the assignment (2h)???
+- **12 October**: delivery and presentation of the assignment in class
 
 ### You can use the starting template we made together before
 
-You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/02%20-%20Assignment%201%20(ode%20to%20CSS)/my-project-template.zip)
+You can [download it there](https://github.com/francois-gm/go-kabk-y1/blob/main/2026-2027-Y1B/02%20-%20Assignment%201%20(ode%20to%20CSS)/my-project-template.zip)????
 
 (click on the three dots button `...` on the top right of your screen and then `download`)
 
@@ -36,31 +36,31 @@ See table below:
 | | CSS property | Name |
 | -------- | --------  | --------------------- |
 | **Decoration**  | | |
-| 1 | `background` (and sub-properties) | Laura |
-| 2 | `opacity` | K |
-| 3 | `border` | Alex |
-| 4 | `filter`, `backdrop-filter` | Valentijn |
-| 5 | `box-shadow` | Issy |
-| 6 | `color` | Simone |
-| 7 | `mix-blend-mode` | Pepijn |
+| 1 | `background` (and sub-properties) | - |
+| 2 | `opacity` | - |
+| 3 | `border` | - |
+| 4 | `filter`, `backdrop-filter` | - |
+| 5 | `box-shadow` | - |
+| 6 | `color` | - |
+| 7 | `mix-blend-mode` | - |
 | **Layout** | | |
-| 8 | `position` | Anastasia |
-| 9 | `display:flex;` | Lara |
-| 10 | `margin`, `padding` | Szófia |
-| 11 | `z-index` | Izabela |
-| 12 | CSS size units (`px`, `%`, `vw`, `vh`) | Fré |
+| 8 | `position` | - |
+| 9 | `display:flex;` | - |
+| 10 | `margin`, `padding` | - |
+| 11 | `z-index` | - |
+| 12 | CSS size units (`px`, `%`, `vw`, `vh`) | - |
 | **Typography** | | |
-| 13 | `font` (and sub-properties) | Anita |
-| 14 | `line-height` | Arina |
-| 15 | `text-decoration` | Preslav |
-| 16 | `letter-spacing`, `word-spacing` | Milena |
-| 17 | `text-shadow` | Fabian |
+| 13 | `font` (and sub-properties) | - |
+| 14 | `line-height` | - |
+| 15 | `text-decoration` | - |
+| 16 | `letter-spacing`, `word-spacing` | - |
+| 17 | `text-shadow` | - |
 | **Functionality** | | |
-| 18 | `cursor` | Emily |
-| 19 | `@media` | Bente |
-| 20 | `transition` | Beena |
-| 21 | `transform` | Billie |
-| 22 | `overflow` | Loth |
+| 18 | `cursor` | - |
+| 19 | `@media` | - |
+| 20 | `transition` | - |
+| 21 | `transform` | - |
+| 22 | `overflow` | - |
 
 <!-- 
 
