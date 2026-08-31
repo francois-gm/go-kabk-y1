@@ -11,12 +11,12 @@
 
 Schedule:
 
-- **27 March**: introduction of the assignment
-- **13 April**: follow-up on the assignment (1h) (*you have an idea, and can discuss it with sketches*) 
-- **20 April**: follow-up on the assignment (2h) (*you have a working document and started sketching/coding in your document*)
-- **4 May**: follow-up on the assignment (2h) (*you are building your project, trying and experimenting*)
-- **11 May**: follow-up on the assignment (3h) (*your project does what is is supposed to do, you are fine-tuning it and gathering user feedback*)
-- **18 May**: delivery and presentation of the assignment in class (*you have a presentation page as well for your extension*)
+- **26 October**: introduction of the assignment
+- **9 November**: follow-up on the assignment (1h) (*you have an idea, and can discuss it with sketches*) 
+- **16 November**: follow-up on the assignment (2h) (*you have a working document and started sketching/coding in your document*)
+- **23 November**: follow-up on the assignment (2h) (*you are building your project, trying and experimenting*)
+- **30 November**: follow-up on the assignment (3h) (*your project does what is is supposed to do, you are fine-tuning it and gathering user feedback*)
+- **7 December**: delivery and presentation of the assignment in class (*you have a presentation page as well for your extension*)
   
 ## Presentation
 
