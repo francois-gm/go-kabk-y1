@@ -36,33 +36,33 @@ See table below:
 | | CSS property | Name |
 | -------- | --------  | --------------------- |
 | **Decoration**  | | |
-| 1 | `background` (and sub-properties) | - |
-| 2 | `opacity` | - |
-| 3 | `border` | - |
-| 4 | `filter`, `backdrop-filter` | - |
-| 5 | `box-shadow` | - |
-| 6 | `color` | - |
-| 7 | `mix-blend-mode` | - |
+| 1 | `background` (and sub-properties) | Ada |
+| 2 | `opacity` | Bibi |
+| 3 | `border` | Gaj |
+| 4 | `filter`, `backdrop-filter` | Kate |
+| 5 | `box-shadow` | Myrthe |
+| 6 | `color` | Petroesjka |
+| 7 | `mix-blend-mode` | Zsófi |
 | **Layout** | | |
-| 8 | `position` | - |
-| 9 | `display:block;`, `float` | – |
-| 10| `display:flex;` | - |
-| 11 | `margin`, `padding` | - |
-| 12 | `z-index` | - |
-| 13 | CSS size units (`px`, `%`, `vw`, `vh`) | - |
+| 8 | `position` | Alfie (Yunsik) |
+| 9 | `display:block;`, `float` | Emma |
+| 10| `display:flex;` | Josefína |
+| 11 | `margin`, `padding` | Lilly |
+| 12 | `z-index` | Niklas |
+| 13 | CSS size units (`px`, `%`, `vw`, `vh`) | Ririko |
 | **Typography** | | |
-| 14 | `font` (and sub-properties) | - |
-| 15 | `line-height` | - |
-| 16 | `text-decoration` | - |
-| 17 | `letter-spacing`, `word-spacing` | - |
-| 18 | `text-align`, `text-indent` | – |
-| 19 | `text-shadow` | - |
+| 14 | `font` (and sub-properties) | Alice |
+| 15 | `line-height` | Cherry (JeongYeon) |
+| 16 | `text-decoration` | Julia |
+| 17 | `letter-spacing`, `word-spacing` | Marion |
+| 18 | `text-align`, `text-indent` | Nikol |
+| 19 | `text-shadow` | Sophia |
 | **Functionality** | | |
-| 20 | `cursor` | - |
-| 21 | `@media` | - |
-| 22 | `transition` | - |
-| 23 | `transform` | - |
-| 24 | `overflow` | - |
+| 20 | `cursor` | Amina |
+| 21 | `@media` | Fanny |
+| 22 | `transition` | Kata |
+| 23 | `transform` | Muhammed |
+| 24 | `overflow` | Nyssa |
 
 <!-- 
 
