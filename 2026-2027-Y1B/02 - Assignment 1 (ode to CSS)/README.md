@@ -32,7 +32,7 @@ do `Command` + `Shift` + `S` while on the page.
 ## Properties
 
 See table below:
-
+<!--
 | | CSS property | Name |
 | -------- | --------  | --------------------- |
 | **Decoration**  | | |
@@ -63,7 +63,7 @@ See table below:
 | 22 | `transition` | Kata |
 | 23 | `transform` | Muhammed |
 | 24 | `overflow` | Nyssa |
-
+-->
 <!-- 
 
 Decoration
