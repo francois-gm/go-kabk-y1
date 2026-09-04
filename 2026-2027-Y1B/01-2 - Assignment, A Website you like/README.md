@@ -32,30 +32,30 @@ Duration of the presentation: **around 2 minutes** per person.
 
 | Class | Student | Site |
 | -------- | --------------------- | --------------------- |
-| September 14 (class 2) | – | – |
-| September 14 (class 2) | – | – |
-| September 14 (class 2) | – | – |
-| September 21 (class 3) | – | – |
-| September 21 (class 3) | – | – |
-| September 21 (class 3) | – | – |
-| September 28 (class 4) | – | – |
-| September 28 (class 4) | – | – |
-| September 28 (class 4) | – | – |
-| October 5 (class 5) | – | – |
-| October 5 (class 5) | – | – |
-| October 5 (class 5) | – | – |
-| October 12 (class 6) | – | – |
-| October 12 (class 6) | – | – |
-| October 12 (class 6) | – | – |
-| October 26 (class 7) | – | – |
-| October 26 (class 7) | – | – |
-| October 26 (class 7) | – | – |
-| November 2 (class 8) | – | – |
-| November 2 (class 8) | – | – |
-| November 2 (class 8) | – | – |
-| November 9 (class 9) | – | – |
-| November 9 (class 9) | – | – |
-| November 9 (class 9) | – | – |
+| September 14 (class 2) | Ada | – |
+| September 14 (class 2) | Alfie (Yunsik) | – |
+| September 14 (class 2) | Alice | – |
+| September 21 (class 3) | Amina | – |
+| September 21 (class 3) | Bibi | – |
+| September 21 (class 3) | Cherry (JeongYeon) | – |
+| September 28 (class 4) | Emma | – |
+| September 28 (class 4) | Fanny | – |
+| September 28 (class 4) | Gaj | – |
+| October 5 (class 5) | Josefína | – |
+| October 5 (class 5) | Julia | – |
+| October 5 (class 5) | Kata | – |
+| October 12 (class 6) | Kate | – |
+| October 12 (class 6) | Lilly | – |
+| October 12 (class 6) | Marion | – |
+| October 26 (class 7) | Muhammed | – |
+| October 26 (class 7) | Myrthe | – |
+| October 26 (class 7) | Niklas | – |
+| November 2 (class 8) | Nikol | – |
+| November 2 (class 8) | Nyssa | – |
+| November 2 (class 8) | Petroesjka | – |
+| November 9 (class 9) | Ririko | – |
+| November 9 (class 9) | Sophia | – |
+| November 9 (class 9) | Zsófi | – |
 | November 16 (class 10) | – | – |
 | November 16 (class 10) | – | – |
 | November 16 (class 10) | – | – |
