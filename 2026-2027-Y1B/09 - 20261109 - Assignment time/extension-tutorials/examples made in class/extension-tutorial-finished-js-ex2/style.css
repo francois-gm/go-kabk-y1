@@ -1,8 +1,0 @@
-/* then let's try some basic CSS styling */
-
-
-/* example 2, add a opacity transition on images? */
-
-img{
-    transition: opacity 1ms ease-in-out 0ms;
-}
