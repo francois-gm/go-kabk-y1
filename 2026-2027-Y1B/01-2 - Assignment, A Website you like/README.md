@@ -4,7 +4,7 @@
 
 ## Assignment
 
-Every week, 2 students will present us with a website.
+Every week, 2–3 students will present us with a website.
 
 **Think about…**
 
@@ -32,9 +32,9 @@ Duration of the presentation: **around 2 minutes** per person.
 
 | Class | Student | Site |
 | -------- | --------------------- | --------------------- |
-| September 14 (class 2) | Ada | – |
-| September 14 (class 2) | Alfie | – |
-| September 14 (class 2) | Alice | – |
+| September 14 (class 2) | Ada | https://www.kabk.nl/en |
+| September 14 (class 2) | Alfie | https://takeawalkonthewildside.rietveldacademie.nl/page/intro |
+| September 14 (class 2) | Alice | https://www.foam.org/talent-2024 |
 | September 21 (class 3) | Amina | – |
 | September 21 (class 3) | Bibi | – |
 | September 21 (class 3) | Cherry | – |
