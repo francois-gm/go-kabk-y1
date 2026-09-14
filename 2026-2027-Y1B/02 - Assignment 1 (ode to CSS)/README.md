@@ -45,32 +45,30 @@ See table below:
 | 7 | `mix-blend-mode` | Nikol |
 | **Layout** | | |
 | 8 | `position` | Alfie |
-| 9 | `display:block;`, `float` | Zsófi |
-| 10 | `display:flex;` | Josefína |
-| 11 | `margin`, `padding` | Lilly |
-| 12 | `z-index` | Niklas |
-| 13 | CSS size units (`px`, `%`, `vw`, `vh`) | Ririko |
+| 9 | `display:flex;` | Josefína |
+| 10 | `margin`, `padding` | Lilly |
+| 11 | `z-index` | Niklas |
+| 12 | CSS size units (`px`, `%`, `vw`, `vh`) | Ririko |
 | **Typography** | | |
-| 14 | `font` (and sub-properties) | Alice |
-| 15 | `line-height` | Cherry |
-| 16 | `text-decoration` | Julia |
-| 17 | `letter-spacing`, `word-spacing` | Marion |
-| 18 | `text-align`, `text-indent` | Amira |
-| 19 | `text-shadow` | Sophia |
+| 13 | `font` (and sub-properties) | Alice |
+| 14 | `line-height` | Cherry |
+| 15 | `text-decoration` | Julia |
+| 16 | `letter-spacing`, `word-spacing` | Marion |
+| 17 | `text-shadow` | Sophia |
 | **Functionality** | | |
-| 20 | `cursor` | Emma |
-| 21 | `@media` | Fanny |
-| 22 | `transition` | Kata |
-| 23 | `transform` | Muhammed |
-| 24 | `overflow` | Nyssa |
+| 18 | `cursor` | Emma |
+| 19 | `@media` | Fanny |
+| 20 | `transition` | Kata |
+| 21 | `transform` | Muhammed |
+| 22 | `overflow` | Nyssa |
 
 <!-- 
 
 Layout
-| XX | `display:block;`, `float` | Zsófi |
+| XX | `display:block;`, `float` | - |
 
 Typography
-| XX | `text-align`, `text-indent` | Amira |
+| XX | `text-align`, `text-indent` | - |
 
 -->
 
