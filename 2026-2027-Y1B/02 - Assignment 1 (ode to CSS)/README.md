@@ -42,11 +42,11 @@ See table below:
 | 4 | `filter`, `backdrop-filter` | Kate |
 | 5 | `box-shadow` | Myrthe |
 | 6 | `color` | Petroesjka |
-| 7 | `mix-blend-mode` | Zsófi |
+| 7 | `mix-blend-mode` | Nikol |
 | **Layout** | | |
 | 8 | `position` | Alfie |
-| 9 | `display:block;`, `float` | Emma |
-| 10| `display:flex;` | Josefína |
+| 9 | `display:block;`, `float` | Zsófi |
+| 10 | `display:flex;` | Josefína |
 | 11 | `margin`, `padding` | Lilly |
 | 12 | `z-index` | Niklas |
 | 13 | CSS size units (`px`, `%`, `vw`, `vh`) | Ririko |
@@ -55,10 +55,10 @@ See table below:
 | 15 | `line-height` | Cherry |
 | 16 | `text-decoration` | Julia |
 | 17 | `letter-spacing`, `word-spacing` | Marion |
-| 18 | `text-align`, `text-indent` | Nikol |
+| 18 | `text-align`, `text-indent` | Amira |
 | 19 | `text-shadow` | Sophia |
 | **Functionality** | | |
-| 20 | `cursor` | Amina |
+| 20 | `cursor` | Emma |
 | 21 | `@media` | Fanny |
 | 22 | `transition` | Kata |
 | 23 | `transform` | Muhammed |
@@ -66,16 +66,11 @@ See table below:
 
 <!-- 
 
-Decoration
-| XX | `color` | - | 
-| XX | `mix-blend-mode` | – |
-
 Layout
-| XX | CSS size units (`px`, `%`, `vw`, `vh`) | – |
-| XX | `display:block;`, `float` | – |
+| XX | `display:block;`, `float` | Zsófi |
 
 Typography
-| XX | `text-align`, `text-indent` | – |
+| XX | `text-align`, `text-indent` | Amira |
 
 -->
 
