@@ -35,7 +35,6 @@ Duration of the presentation: **around 2 minutes** per person.
 | September 14 (class 2) | Ada | https://www.kabk.nl/en |
 | September 14 (class 2) | Alfie | https://takeawalkonthewildside.rietveldacademie.nl/page/intro |
 | September 14 (class 2) | Alice | https://www.foam.org/talent-2024 |
-| September 21 (class 3) | Amina | – |
 | September 21 (class 3) | Bibi | – |
 | September 21 (class 3) | Cherry | – |
 | September 28 (class 4) | Emma | – |
@@ -55,7 +54,6 @@ Duration of the presentation: **around 2 minutes** per person.
 | November 2 (class 8) | Petroesjka | – |
 | November 9 (class 9) | Ririko | – |
 | November 9 (class 9) | Sophia | – |
-| November 9 (class 9) | Zsófi | – |
 | November 16 (class 10) | – | – |
 | November 16 (class 10) | – | – |
 | November 16 (class 10) | – | – |
