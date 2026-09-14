@@ -33,11 +33,11 @@ Duration of the presentation: **around 2 minutes** per person.
 | Class | Student | Site |
 | -------- | --------------------- | --------------------- |
 | September 14 (class 2) | Ada | – |
-| September 14 (class 2) | Alfie (Yunsik) | – |
+| September 14 (class 2) | Alfie | – |
 | September 14 (class 2) | Alice | – |
 | September 21 (class 3) | Amina | – |
 | September 21 (class 3) | Bibi | – |
-| September 21 (class 3) | Cherry (JeongYeon) | – |
+| September 21 (class 3) | Cherry | – |
 | September 28 (class 4) | Emma | – |
 | September 28 (class 4) | Fanny | – |
 | September 28 (class 4) | Gaj | – |
