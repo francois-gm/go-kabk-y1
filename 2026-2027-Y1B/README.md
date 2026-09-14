@@ -63,7 +63,7 @@ as expected.
 
 ## Use of LLMs, additional ressources
 
-The [Socractic Tutor Instruction Prompt (to be copied-pasted or uploaded)](https://github.com/francois-gm/go-kabk-y1/blob/main/2025-2026-Y1A/tutor-instruction-prompt.md)
+The [Socractic Tutor Instruction Prompt (to be copied-pasted or uploaded)](https://github.com/francois-gm/go-kabk-y1/blob/main/2026-2027-Y1B/tutor-instruction-prompt.md)
 
 Or (basic logic):
 ```
