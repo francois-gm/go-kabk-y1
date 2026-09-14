@@ -32,7 +32,7 @@ do `Command` + `Shift` + `S` while on the page.
 ## Properties
 
 See table below:
-<!--
+
 | | CSS property | Name |
 | -------- | --------  | --------------------- |
 | **Decoration**  | | |
@@ -44,7 +44,7 @@ See table below:
 | 6 | `color` | Petroesjka |
 | 7 | `mix-blend-mode` | Zsófi |
 | **Layout** | | |
-| 8 | `position` | Alfie (Yunsik) |
+| 8 | `position` | Alfie |
 | 9 | `display:block;`, `float` | Emma |
 | 10| `display:flex;` | Josefína |
 | 11 | `margin`, `padding` | Lilly |
@@ -52,7 +52,7 @@ See table below:
 | 13 | CSS size units (`px`, `%`, `vw`, `vh`) | Ririko |
 | **Typography** | | |
 | 14 | `font` (and sub-properties) | Alice |
-| 15 | `line-height` | Cherry (JeongYeon) |
+| 15 | `line-height` | Cherry |
 | 16 | `text-decoration` | Julia |
 | 17 | `letter-spacing`, `word-spacing` | Marion |
 | 18 | `text-align`, `text-indent` | Nikol |
@@ -63,7 +63,7 @@ See table below:
 | 22 | `transition` | Kata |
 | 23 | `transform` | Muhammed |
 | 24 | `overflow` | Nyssa |
--->
+
 <!-- 
 
 Decoration
