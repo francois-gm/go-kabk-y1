@@ -7,7 +7,16 @@
 ## Recap (15min)
 
 Questions:
-<!--
+<!-- FROM TWO CLASSES AGO
+- Name an example of a HTML `tag`?
+- How would you define, in your own words, what a HTML `tag` does?
+- Name an example of a HTML `attribute`?
+- How would you define, in your own words, what a HTML `attribute` does?
+- In an HTML document, what goes inside of the `<head>` tag?
+- In an HTML document, what goes inside of the `<body>` tag?
+-->
+
+<!-- FROM PREVIOUS CLASS
 - Why would one wants to add some `CSS` in a project / what can CSS bring more to a `HTML` project?
 - Name three ways to add CSS styles in an HTML document. Can you tell us the plus and minuses of each method?
 - What is the "cascade"?
@@ -22,6 +31,7 @@ Questions:
   - Each HTML element needs to have its individual selector in order to be *styled* by CSS.
   - **General** `CSS` selector are **more important** than **specific ones** (and their styling overwrite specific ones).
 -->
+
 ## Your CSS **tutorial** presentation (1h15) (120 seconds, or *2min*, each)
 
 Based on your CSS property, prepare a presentation of your `property` for the class. Your tutorial presentation should last **2 minutes**. *You* are the expert. You can prepare a slideshow or do a recording if necessary.
