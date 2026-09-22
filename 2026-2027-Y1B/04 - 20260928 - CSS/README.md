@@ -58,11 +58,11 @@ I will join the conversation for about 15 minutes (2min per person) in each grou
 <!--
 | Group |-|
 |-|-------------- |
-| 15min | -, -, -, -, - |
-| 15min | -, -, -, -, - |
-| 15min | -, -, -, -, - |
-| 15min | -, -, -, -, - |
-| 15min | -, -, -, -, - |
+| 15min | Kate, Petroesjka, Niklas, Marion, Muhammed |
+| 15min | Myrthe, Nikol, Ririko, Sophia, Nyssa |
+| 15min | Ada, Alfie, Alice, Emma |
+| 15min | Bibi, Josefína, Cherry, Fanny |
+| 15min | Gaj, Lilly, Julia, Kata |
 -->
 
 [See dedicated page](https://github.com/francois-gm/go-kabk-y1/tree/main/2026-2027-Y1B/02%20-%20Assignment%201%20(ode%20to%20CSS))
