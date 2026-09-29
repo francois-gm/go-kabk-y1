@@ -27,7 +27,6 @@ CSS:
 - **True** or **false**...
   - When writing a `CSS` selector, you can combine different `class` under one selector.
   - When writing a `CSS` selector, you can combine diffrent `id` under one selector.
-  - You can give multiple `id` values to one `HTML` element.
   - Each HTML element needs to have its individual selector in order to be *styled* by CSS.
   - **General** `CSS` selector are **more important** than **specific ones** (and their styling overwrite specific ones).
 
