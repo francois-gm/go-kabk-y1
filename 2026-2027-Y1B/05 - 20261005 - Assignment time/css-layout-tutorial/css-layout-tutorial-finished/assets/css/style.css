@@ -10,23 +10,23 @@ body{
 
 .site-header {
   position: relative;
-  /* DO IN STEP 3 (fixed demo)
+  width: 100%;
+   /* DO IN STEP 3 (fixed demo)
   position: fixed;
   z-index: 9;
   */
-  width: 100%;
 }
 
 .main-nav {
   width: 100%;
-  /* DO IN STEP 4 (flex demo)
-  display: flex;
-  justify-content: space-between;
-  */
   background: #00F;
   color: white;
   padding: 1rem;
   box-sizing: border-box;
+  /* DO IN STEP 4 (flex demo)
+  display: flex;
+  justify-content: space-between;
+  */
 }
 
 .main-nav ul {
@@ -45,7 +45,6 @@ body{
   /* can switch between inline-block, block, and inline */
   display: inline-block;
   border: 1px solid currentColor;
-  border-radius: 100%;
   padding: 0.5em;
   color: white;
   text-decoration: none;
@@ -54,7 +53,6 @@ body{
 
 .main-nav a:hover {
   color:red;
-  transform: scale(1.1) rotate(5deg);
 }
 
 /* --- Wrapper --- */
@@ -71,15 +69,15 @@ body{
 /* --- Sidebar --- */
 
 .sidebar {
-  /* DO IN STEP 2 (sticky demo)
-  position: sticky;
-  top:0;
-  */
   float: left;
   width: 25%;
   background: #F00;
   padding: 2rem;
   box-sizing: border-box;
+  /* DO IN STEP 2 (sticky demo)
+  position: sticky;
+  top:0;
+  */
 }
 
 /* --- Content --- */
@@ -132,6 +130,11 @@ body{
   text-align: center;
   padding: 1rem;
   box-sizing: border-box;
+  /* DO IN STEP 3 (fixed demo)
+  position: fixed;
+  bottom: 0;
+  z-index: 9;
+  */
 }
 
 /* IN STEP 5 (responsive example)

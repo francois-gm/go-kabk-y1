@@ -1,3 +1,70 @@
 @charset "UTF-8";
 
 /* CSS rules go below */
+
+body{
+  /* try other fonts to show */
+  font-family: "Arial", sans-serif;
+  font-size: 18px;
+}
+
+.site-header {
+
+}
+
+.main-nav {
+
+}
+
+.main-nav ul {
+  
+}
+
+.main-nav li {
+
+}
+
+.main-nav a {
+
+}
+
+.main-nav a:hover {
+
+}
+
+/* wrapper */
+
+.wrapper {
+
+}
+
+/* sidebar */
+
+.sidebar {
+
+}
+
+/* content */
+
+.content {
+
+}
+
+.col {
+
+}
+
+/* footer */
+
+.site-footer {
+ 
+}
+
+
+
+/* responsive */
+
+@media (max-width: 768px) {
+ 
+}
+
