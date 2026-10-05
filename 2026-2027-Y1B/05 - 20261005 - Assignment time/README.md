@@ -7,9 +7,9 @@
 ## Recap (10min)
 
 Question:
-<!--
+
 - What is likely to be the most **common** coding "issue" experienced during previous classes (guess: it's not really a ~~coding~~ mistake)?
--->
+
 ## Tutorial: extending on CSS selectors (10min)
 
 In previous classes, we saw several ways of writing *CSS selectors* to style our HTML elements.
