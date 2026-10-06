@@ -38,11 +38,11 @@ Duration of the presentation: **around 2 minutes** per person.
 | September 21 (class 3) | Bibi | https://lifeat.io/ |
 | September 21 (class 3) | Cherry | https://balmingtiger.com/ |
 | September 28 (class 4) | Emma | https://emanuelecolombo.it |
-| September 28 (class 4) | Fanny | – |
+| September 28 (class 4) | Fanny | https://arngren.net |
 | September 28 (class 4) | Gaj | https://lab.bstd.ru/about |
-| October 5 (class 5) | Josefína | – |
-| October 5 (class 5) | Julia | – |
-| October 5 (class 5) | Kata | – |
+| October 5 (class 5) | Josefína | https://gt-planar.com |
+| October 5 (class 5) | Julia | https://bruno-simon.com |
+| October 5 (class 5) | Kata | https://www.awwwards.com |
 | October 12 (class 6) | Kate | – |
 | October 12 (class 6) | Lilly | – |
 | October 12 (class 6) | Marion | – |
