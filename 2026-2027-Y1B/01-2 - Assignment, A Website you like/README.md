@@ -43,9 +43,9 @@ Duration of the presentation: **around 2 minutes** per person.
 | October 5 (class 5) | Josefína | https://gt-planar.com |
 | October 5 (class 5) | Julia | https://bruno-simon.com |
 | October 5 (class 5) | Kata | https://www.awwwards.com |
-| October 12 (class 6) | Kate | – |
-| October 12 (class 6) | Lilly | – |
-| October 12 (class 6) | Marion | – |
+| October 12 (class 6) | Kate | https://www.emergenceprojects.com |
+| October 12 (class 6) | Lilly | https://goldfishies.com |
+| October 12 (class 6) | Marion | https://sandspiel.club |
 | October 26 (class 7) | Muhammed | – |
 | October 26 (class 7) | Myrthe | – |
 | October 26 (class 7) | Niklas | – |
