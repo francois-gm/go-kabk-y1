@@ -9,7 +9,7 @@
 ### a) Put your website online (20min)
 
 1) Create an account on [Netlify](https://app.netlify.com).
-2) `Site` -> `Deploy manually` (`browse to upload`).
+2) `Site` -> `Deploy manually` (`browse to upload`)... or `Projects` -> `Add a new project` -> `Drag and drop your project folder` 
 3) When browsing, select your *project* folder (`my-project-template`, as an example), by this I mean the **root** folder of your project, that contains your `index.html`, your `assets` and your `content` folders.
 4) There it is!
 
@@ -37,7 +37,7 @@ Then:
 - Think of the challenges / difficulties of working with this CSS property? How was this addressed?
 - If you would have to work on this website, are there elements you could either fine-tune or push further? Think functional, aesthetical, conceptual.
 
-You will **present the website** of the **person after the person after you** on the list (so second-after your name).
+You will **present the website** of the **person after the person after you** on the list (so not person after you, but second-after your name).
 
 #### Presentations: as the website-developer (1 minute):
 
