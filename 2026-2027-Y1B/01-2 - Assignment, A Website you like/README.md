@@ -46,12 +46,12 @@ Duration of the presentation: **around 2 minutes** per person.
 | October 12 (class 6) | Kate | https://www.emergenceprojects.com |
 | October 12 (class 6) | Lilly | https://goldfishies.com |
 | October 12 (class 6) | Marion | https://sandspiel.club |
-| October 26 (class 7) | Muhammed | – |
-| October 26 (class 7) | Myrthe | – |
-| October 26 (class 7) | Niklas | – |
+| October 26 (class 7) | Myrthe | https://javier.xyz/emoji-to-scale |
+| October 26 (class 7) | Niklas | https://activetheory.net/ |
+| November 2 (class 8) | Muhammed | – |
 | November 2 (class 8) | Nikol | – |
 | November 2 (class 8) | Nyssa | – |
-| November 2 (class 8) | Petroesjka | – |
+| November 9 (class 9) | Petroesjka | – |
 | November 9 (class 9) | Ririko | – |
 | November 9 (class 9) | Sophia | – |
 | November 16 (class 10) | – | – |
