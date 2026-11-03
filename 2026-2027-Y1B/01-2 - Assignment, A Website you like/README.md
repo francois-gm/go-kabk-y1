@@ -48,9 +48,6 @@ Duration of the presentation: **around 2 minutes** per person.
 | October 12 (class 6) | Marion | https://sandspiel.club |
 | October 26 (class 7) | Myrthe | https://javier.xyz/emoji-to-scale |
 | October 26 (class 7) | Niklas | https://activetheory.net/ |
-| November 2 (class 8) | – | – |
-| November 2 (class 8) | – | – |
-| November 2 (class 8) | – | – |
 | November 9 (class 9) | Muhammed | – |
 | November 9 (class 9) | Nikol | – |
 | November 9 (class 9) | Nyssa | – |
