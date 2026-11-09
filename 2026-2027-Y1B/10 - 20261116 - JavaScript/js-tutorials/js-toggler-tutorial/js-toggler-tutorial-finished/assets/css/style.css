@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+/* CSS rules go below */
+
+body{
+	color: black;
+	background-color: white;
+	padding:1rem;
+}
+
+/* general styling */
+
+div.container{
+	padding: 5rem;
+}
+
+span.btn-text-light{
+	display: none;
+}
+
+span.btn-text-dark{
+	display: block;
+}
+
+/* HAS DARK MODE */
+
+body.dark-mode{
+	color: white;
+	background-color: black;
+}
+
+body.dark-mode .btn-dark-mode{
+	color: black;
+	background-color: white;
+	border-color: black;
+}
+
+body.dark-mode span.btn-text-light{
+	display: block;
+}
+
+body.dark-mode span.btn-text-dark{
+	display: none;
+}

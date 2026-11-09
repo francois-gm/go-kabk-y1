@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+/* CSS rules go below */
+
+body{
+	color: black;
+	background-color: white;
+	padding:1rem;
+}
+
+/* general styling */
+
+div.container{
+	padding: 5rem;
+}
+
+/* HAS DARK MODE */
+
+
