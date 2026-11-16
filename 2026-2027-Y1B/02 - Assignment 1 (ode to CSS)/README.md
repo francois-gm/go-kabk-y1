@@ -44,7 +44,7 @@ See table below:
 | 6 | `color` | Petroesjka |
 | 7 | `mix-blend-mode` | Nikol |
 | **Layout** | | |
-| 8 | `position` | Alfie |
+| 8 | `position` | Yunsik |
 | 9 | `display:flex;` | Josefína |
 | 10 | `margin`, `padding` | Lilly |
 | 11 | `z-index` | Niklas |
