@@ -15,6 +15,6 @@
 - Looping a replace function in a `setInterval` (in order to re-apply dynamically the filter).
 - Filter several terms with a *word map* and using a `TreeWalker` method (website's *tree* structure) to filter the website's DOM.
 
-## Individual talks, browser extension (2h45)
+## Small group talks, browser extension (2h45)
 
 See spreadsheet
