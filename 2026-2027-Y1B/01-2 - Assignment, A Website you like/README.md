@@ -51,7 +51,7 @@ Duration of the presentation: **around 2 minutes** per person.
 | November 9 (class 9) | Muhammed | https://atomtypelab.com/ |
 | November 9 (class 9) | Nikol | https://floor796.com/ |
 | November 9 (class 9) | Nyssa | https://wandering-stones.com/ |
-| November 16 (class 10) | Petroesjka | – |
+| November 16 (class 10) | Petroesjka | https://www.thetrainwindowarchive.com |
 | November 16 (class 10) | Ririko | https://wealth.ronnycoste.com/ |
 | November 16 (class 10) | Sophia | https://alphabeticalplayground.com/ |
 | November 23 (class 11) | – | – |
